@@ -5,14 +5,14 @@ nav_order: 1
 permalink: /
 ---
 
-Cairn is an [adventure game](http://questingblog.com/adventure-game-vs-osr) about exploring a dark & mysterious Wood filled with strange folk, hidden treasure, and unspeakable monstrosities. Character generation is quick and random, classless, and relies on fictional advancement rather than through XP or level mechanics. It is based on [Knave](https://www.drivethrurpg.com/product/250888/Knave) by Ben Milton and [Into The Odd](https://chrismcdee.itch.io/electric-bastionland) by Chris McDowall. The game was written by [Yochai Gal](https://newschoolrevolution.com).
+《石冢》这款[冒险游戏](http://questingblog.com/adventure-game-vs-osr)的主题是探索黑暗而神秘的森林，里面到处都是怪诞民俗、隐秘财宝和难以言喻的怪物。角色生成快捷随机、无职业、提升依赖叙事而非 XP 或等级机制。《石冢》基于 Ben Milton 的[《恶棍》](https://www.drivethrurpg.com/product/250888/Knave)和 Chris McDowall 的[《涉足奇境》](https://chrismcdee.itch.io/electric-bastionland)。本游戏原著由[Yochai Gal](https://newschoolrevolution.com)编写。
 
-The PDF version is available for free on [Itch.io](https://yochaigal.itch.io/cairn) & [DriveThruRPG](https://www.drivethrurpg.com/product/330809/Cairn).  
-The full text is licensed under [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).  
-The original Affinity Publisher file is also available with the downloads.
+PDF 版可在 [Itch.io](https://yochaigal.itch.io/cairn) & [DriveThruRPG](https://www.drivethrurpg.com/product/330809/Cairn) 免费下载。  
+全文遵循 [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) 授权协议。  
+原始 Affinity Publisher 文件也免费附带提供。
 
-This is a game that values community contributions! If you'd like to submit an adventure, hack, monster, or conversion take a look at the [submission guide](/submissions/submission-guide).
+这是款重视社区贡献的游戏！若你想提交冒险、魔改、怪物或转换，请查看[提交指南](/submissions/submission-guide)。
 
 <p></p>
 
-[![Alt text](/img/cairn.svg "Click to embiggen"){:height="50%" width="50%"}](/img/cairn.svg)
+[![额外文本](/img/cairn.svg "点击放大"){:height="50%" width="50%"}](/img/cairn.svg)
