@@ -15,4 +15,6 @@ permalink: /
 
 <p></p>
 
+<iframe frameborder="0" src="https://itch.io/embed/2435157?bg_color=222&amp;fg_color=fff" width="552" height="167"><a href="https://zznoah.itch.io/cairn-chs">石冢（Cairn）中文版 by ZzNoah</a></iframe>
+
 [![额外文本](/img/cairn.svg "点击放大"){:height="50%" width="50%"}](/img/cairn.svg)
