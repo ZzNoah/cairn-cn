@@ -1,5 +1,5 @@
 ---
-title: 🔗游戏文件🔗
+title: 🔗游戏文件
 nav_order: 4
 redirect_to: https://drive.google.com/drive/folders/1x9wUazUOSzeu29Eoq43NH8_k9R5wghg-
 ---
