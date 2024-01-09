@@ -1,7 +1,7 @@
 ---
 layout: default
-title: FAQs
-parent: Resources
+title: 常见问题 FAQs
+parent: 资源
 nav_order: 1
 ---
 
