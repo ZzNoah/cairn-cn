@@ -1,11 +1,11 @@
 ---
 layout: default
-title: More Equipment
-parent: Resources
+title: 更多装备
+parent: 资源
 nav_order: 6
 ---
 
-# More Equipment
+# 更多装备
 
 # Equipment list
 
