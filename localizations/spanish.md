@@ -1,6 +1,6 @@
 ---
 layout: default
 title: Spanish
-parent: Localizations
+parent: 本地化
 redirect_to: https://es.cairnrpg.com
 ---
