@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Classic Classes
-parent: Third Party
-grand_parent: Hacks
+title: 经典职业
+parent: 第三方
+grand_parent: 魔改
 ---
 
-# Classic Classes
+# 经典职业
 
 - Based on the original [hack](https://dangerisreal.itch.io/classic-classes-for-cairn) by [Danger_is_Real](https://dangerisreal.blogspot.com/)
 
