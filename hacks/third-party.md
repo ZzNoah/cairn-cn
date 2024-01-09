@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Third Party
-parent: Hacks
+title: 第三方
+parent: 魔改
 nav_order: 10
 has_children: true
 ---
