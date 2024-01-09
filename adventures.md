@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Adventures
+title: 冒险
 has_children: true
 nav_order: 11
 ---
 
-# Adventures
+# 冒险
