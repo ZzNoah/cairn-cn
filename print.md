@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Print
+title: 印刷
 nav_order: 3
 ---
 
