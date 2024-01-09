@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Read Aloud
+title: 高声朗读
 nav_order: 1
-parent: Accessibility
+parent: 无障碍
 nav_exclude: true
 search_exclude: true
 ---
