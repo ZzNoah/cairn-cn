@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Future Conversions
-parent: Adventures
+title: 未来转换
+parent: 冒险
 redirect_from:
   - /resources/adventure-conversions/future-adventure-conversions/
   - /resources/adventure-conversions/future-conversions/
