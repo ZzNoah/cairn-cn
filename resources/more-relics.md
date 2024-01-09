@@ -1,12 +1,12 @@
 ---
 layout: default
-title: More Relics
-parent: Resources
+title: 更多奇物
+parent: 资源
 nav_order: 4
 redirect_from: /resources/relics/
 ---
 
-# More Relics
+# 更多奇物
 The following is a list of Relics from all over the web, copied with permission.
 
 ### From [Glass Bird Games](https://glassbirdgames.blogspot.com/)
