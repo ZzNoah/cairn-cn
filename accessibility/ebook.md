@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Ebook
-parent: Accessibility
+title: 电子书
+parent: 无障碍
 nav_order: 2
 ---
 
