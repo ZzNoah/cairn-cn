@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Simple Backgrounds
-parent: Hacks
+title: 简单背景
+parent: 魔改
 nav_order: 3
 redirect_from: /wip/simple-backgrounds/
 ---
