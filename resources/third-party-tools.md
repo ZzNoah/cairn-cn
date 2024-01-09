@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Third-Party Resources
+title: 第三方资源
 nav_order: 9
-parent: Resources
+parent: 资源
 ---
 
-# Third-party Resources
+# 第三方资源
 
 # Miscelleanous Resources
 - [Character Sheet (token)](https://docs.google.com/drawings/d/1_X9o8rzE5jFPQpP1yCz1sPikdm8naQ1gPkT-ATK2T0c) (Download as PDF or PNG)
