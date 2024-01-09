@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Third Party Links
-parent: Resources
+title: 第三方链接
+parent: 资源
 nav_order: 10
 ---
 
