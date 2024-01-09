@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Example of Play
-parent: Resources
+title: 游戏示例
+parent: 资源
 nav_order: 2
 ---
 
