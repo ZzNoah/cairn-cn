@@ -1,8 +1,8 @@
 ---
 layout: default
 redirect_from: /resources/tools/foundryvtt-system
-title: Foundry VTT System
-parent: Resources
+title: FVTT 系统
+parent: 资源
 nav_order: 3
 ---
 
