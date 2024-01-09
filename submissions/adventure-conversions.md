@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Adventure Conversions
+title: 冒险转换
 nav_order: 3
-parent: Submissions
+parent: 提交
 ---
 
 # Adventure Conversions
