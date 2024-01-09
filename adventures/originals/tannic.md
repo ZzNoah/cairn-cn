@@ -1,7 +1,7 @@
 ---
 title: Tannic
-parent: Originals
+parent: 原生
 layout: default
-grand_parent: Adventures
+grand_parent: 冒险
 redirect_to: https://hopefulweirdwonder.itch.io/tannic
 ---
