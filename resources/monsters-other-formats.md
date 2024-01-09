@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Monsters (Other Formats)
-parent: Resources
+title: 怪物（其他格式）
+parent: 资源
 nav_order: 8
 ---
 
