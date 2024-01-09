@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Fork This
-parent: Hacks
+title: 分叉（Fork）这个
+parent: 魔改
 nav_order: 9
 ---
 
