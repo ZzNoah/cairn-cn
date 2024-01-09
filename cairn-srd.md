@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SRD
+title: SRD（系统参考文档）
 nav_order: 2
 ---
 
