@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Converting Monsters
-parent: Tools
+title: 转换怪物
+parent: 工具
 redirect_from: /resources/tools/converting-monsters/
 ---
 
-# Converting Monsters
+# 转换怪物
 
 There is no perfect system for converting from other systems.  
 Below are some tips that might help with the process!
