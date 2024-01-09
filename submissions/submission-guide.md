@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Submission Guide
+title: 提交指南
 navorder: 1
-parent: Submissions
+parent: 提交
 ---
 
 # Submission Guide
