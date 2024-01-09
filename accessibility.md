@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Accessibility
+title: 无障碍
 has_children: true
 nav_order: 14
 ---
 
-# Accessibility
+# 无障碍
