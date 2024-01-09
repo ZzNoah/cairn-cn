@@ -1,8 +1,8 @@
 ---
 layout: default
-parent: Conversions
-grand_parent: Adventures
-title: Winter's Daughter
+parent: 转换
+grand_parent: 冒险
+title: 凛冬之女
 redirect_from: /resources/adventure-conversions/winters-daughter/
 ---
 
