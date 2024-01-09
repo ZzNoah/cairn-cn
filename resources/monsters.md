@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Monsters
-parent: Resources
+title: 怪物
+parent: 资源
 has_children: true
 nav_order: 7
 ---
 
-# Monsters
+# 怪物
