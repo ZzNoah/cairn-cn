@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Style Guide
+title: 格式指南
 nav_order: 2
-parent: Submissions
+parent: 提交
 ---
 
 # Style Guide
