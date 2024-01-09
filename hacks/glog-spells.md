@@ -1,7 +1,7 @@
 ---
 layout: default
-title: GLOG Spells
-parent: Hacks
+title: GLOG 法术
+parent: 魔改
 nav_order: 2
 ---
 
