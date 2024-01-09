@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Build An Adventure Site
-parent: Tools
+title: 创建冒险地点
+parent: 工具
 redirect_from: /resources/tools/build-an-adventure-site/
 ---
 
-# Build An Adventure Site
+# 创建冒险地点
 
 ## Choose A Theme
 - Pick a theme for the area. A specific mythology you find inspiring, something from history, etc.
