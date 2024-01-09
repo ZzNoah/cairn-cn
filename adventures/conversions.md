@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Conversions
-parent: Adventures
+title: 转换
+parent: 冒险
 nav_order: 2
 has_children: true
 redirect_from: /resources/adventure-conversions/
 ---
 
-# Adventure Conversions
+# 冒险转换
