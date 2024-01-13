@@ -192,8 +192,8 @@ PC 无法携带超出其行装准许数量的物品。板车（必须用双手�
 
 #### 女性姓名
 
-|  |
-|------|-----------|-----------|-----------|----------|---------|------|----------|
+|      |          |      |         |      |          |      |        |
+| ---- | -------- | ---- | ------- | ---- | -------- | ---- | ------ |
 | 1 | 阿贡恩 | 6 | 芝艾欧 | 11 | 利兰 | 16 | 希泊 |
 | 2 | 碧翠丝 | 7 | 埃吉欧 | 12 | 利拉瑟欧 | 17 | 希欧恩 |
 | 3 | 布瑞根 | 8 | 埃斯米 | 13 | 丽莎白 | 18 | 温内恩 |
@@ -203,8 +203,8 @@ PC 无法携带超出其行装准许数量的物品。板车（必须用双手�
 
 #### 男性姓名
 
-|  |
-|------|-----------|-----------|-----------|----------|---------|------|----------|
+|      |         |      |           |      |         |      |          |
+| ---- | ------- | ---- | --------- | ---- | ------- | ---- | -------- |
 | 1 | 阿沃欧 | 6 | 布瑞格勒 | 11 | 格林维特 | 16 | 麦欧纳克斯 |
 | 2 | 拜文 | 7 | 坎霍瑞欧 | 12 | 格鲁威德 | 17 | 奥萨克斯 |
 | 3 | 博若斯 | 8 | 艾姆瑞斯 | 13 | 格鲁斯 | 18 | 崔安尼恩 |
@@ -213,8 +213,8 @@ PC 无法携带超出其行装准许数量的物品。板车（必须用双手�
 
 #### 姓氏
 
-|  |
-|------|-----------|-----------|-----------|----------|---------|------|----------|
+|      |            |      |            |      |           |      |          |
+| ---- | ---------- | ---- | ---------- | ---- | --------- | ---- | -------- |
 | 1 | 阿伯纳西 | 6 | 克拉姆沃勒 | 11 | 哈珀 | 16 | 斯温尼 |
 | 2 | 阿德卡普 | 7 | 邓斯沃洛 | 12 | 卢末 | 17 | 撒切尔 |
 | 3 | 伯尔 | 8 | 盖特瑞 | 13 | 迈克斯谬克 | 18 | 托尔门 |
@@ -223,8 +223,8 @@ PC 无法携带超出其行装准许数量的物品。板车（必须用双手�
 
 #### 背景
 
-|  |
-|------|-----------|-----------|-----------|----------|---------|------|----------|
+|      |            |      |             |      |           |      |            |
+| ---- | ---------- | ---- | ----------- | ---- | --------- | ---- | ---------- |
 | 1 | 炼金师 | 6 | 牧师 | 11 | 魔法师 | 16 | 演员 |
 | 2 | 铁匠 | 7 | 赌徒 | 12 | 佣兵 | 17 | 扒手 |
 | 3 | 窃贼 | 8 | 掘墓人 | 13 | 商人 | 18 | 走私贩 |
@@ -237,8 +237,8 @@ PC 无法携带超出其行装准许数量的物品。板车（必须用双手�
 
 #### 体格
 
-|  |          |      |            |
-| -------- | -------- | ---- | ---------- |
+|      |          |      |            |
+| ---- | -------- | ---- | ---------- |
 | 1 | 运动 | 6 | 骨瘦 |
 | 2 | 健壮 | 7 | 矮小 |
 | 3 | 软弱 | 8 | 匀称 |
@@ -247,7 +247,7 @@ PC 无法携带超出其行装准许数量的物品。板车（必须用双手�
 
 #### 皮肤
 
-|  |            |      |           |
+|      |            |      |           |
 | ---- | ---------- | ---- | --------- |
 | 1 | 胎记 | 6 | 圆润 |
 | 2 | 深暗 | 7 | 柔软 |
@@ -257,7 +257,7 @@ PC 无法携带超出其行装准许数量的物品。板车（必须用双手�
 
 #### 毛发
 
-|  |         |      |           |
+|      |         |      |           |
 | ---- | ------- | ---- | --------- |
 | 1 | 光秃 | 6 | 长发 |
 | 2 | 编辫 | 7 | 奢华 |
@@ -267,7 +267,7 @@ PC 无法携带超出其行装准许数量的物品。板车（必须用双手�
 
 #### 面孔
 
-|  |           |      |          |
+|      |           |      |          |
 | ---- | --------- | ---- | -------- |
 | 1 | 骨感 | 6 | 完美 |
 | 2 | 破碎 | 7 | 似鼠 |
@@ -277,8 +277,8 @@ PC 无法携带超出其行装准许数量的物品。板车（必须用双手�
 
 #### 言谈
 
-|  |         |      |            |
-| ------ | ------- | ---- | ---------- |
+|      |         |      |            |
+| ---- | ------- | ---- | ---------- |
 | 1 | 粗钝 | 6 | 沙哑 |
 | 2 | 洪亮 | 7 | 严谨 |
 | 3 | 隐晦 | 8 | 尖锐 |
@@ -287,8 +287,8 @@ PC 无法携带超出其行装准许数量的物品。板车（必须用双手�
 
 #### 衣物
 
-|  |         |      |        |
-| -------- | ------- | ---- | ------ |
+|      |         |      |        |
+| ---- | ------- | ---- | ------ |
 | 1 | 古朴 | 6 | 磨损 |
 | 2 | 血腥 | 7 | 老套 |
 | 3 | 优雅 | 8 | 制服 |
@@ -297,8 +297,8 @@ PC 无法携带超出其行装准许数量的物品。板车（必须用双手�
 
 #### 美德
 
-|  |             |      |           |
-| ------ | ----------- | ---- | --------- |
+|      |             |      |           |
+| ---- | ----------- | ---- | --------- |
 | 1 | 雄心 | 6 | 荣耀 |
 | 2 | 谨慎 | 7 | 谦逊 |
 | 3 | 勇敢 | 8 | 仁慈 |
@@ -307,7 +307,7 @@ PC 无法携带超出其行装准许数量的物品。板车（必须用双手�
 
 #### 恶癖
 
-|  |            |      |          |
+|      |            |      |          |
 | ---- | ---------- | ---- | -------- |
 | 1 | 好斗 | 6 | 懒惰 |
 | 2 | 刻薄 | 7 | 紧张 |
@@ -317,8 +317,8 @@ PC 无法携带超出其行装准许数量的物品。板车（必须用双手�
 
 #### 名望
 
-|  |             |      |           |
-| ---------- | ----------- | ---- | --------- |
+|      |             |      |           |
+| ---- | ----------- | ---- | --------- |
 | 1 | 雄心 | 6 | 懒散 |
 | 2 | 粗野 | 7 | 古怪 |
 | 3 | 危险 | 8 | 丑恶 |
@@ -327,8 +327,8 @@ PC 无法携带超出其行装准许数量的物品。板车（必须用双手�
 
 #### 厄运
 
-|  |             |      |             |
-| ----------- | ----------- | ---- | ----------- |
+|      |             |      |             |
+| ---- | ----------- | ---- | ----------- |
 | 1 | 遗弃 | 6 | 遇骗 |
 | 2 | 成瘾 | 7 | 降职 |
 | 3 | 勒索 | 8 | 辱没 |
@@ -341,22 +341,22 @@ PC 无法携带超出其行装准许数量的物品。板车（必须用双手�
 
 #### 护甲
 
-|  |            |           |       |
-| :---: | :--------: | :-------: | :---: |
+|      |            |           |       |
+| :--: | :--------: | :-------: | :---: |
 | 1-3 | 4-14 | 15-19 | 20 |
 | 无 | 镶嵌甲 | 链甲 | 板甲 |
 
 #### 头盔&盾牌
 
-|  |        |        |                 |
-| :---------------: | :----: | :----: | :-------------: |
+|      |        |        |                 |
+| :--: | :----: | :----: | :-------------: |
 | 1-13 | 14-16 | 17-19 | 20 |
 | 无 | 头盔 | 盾牌 | 头盔&盾牌 |
 
 #### 武器
 
-|                |                  |                          |                                |
-| :-------------------: | :--------------: | :----------------------: | :----------------------------: |
+|                       |                  |                      |                                |
+| :-------------------: | :--------------: | :------------------: | :----------------------------: |
 | 1-5 | 6-14 | 15-19 | 20 |
 | 匕首，棍棒，杖 | 剑，硬头锤，斧 | 弓，弩，投石索 | 戟，战锤，战斧 |
 
@@ -401,33 +401,33 @@ PC 无法携带超出其行装准许数量的物品。板车（必须用双手�
 
 #### 法术书（d100）
 
-|  |
-|---|-----------------|---|----------------|---|---------------|---|---------------|
+|      |                   |      |                  |      |                 |      |                 |
+| ---- | ----------------- | ---- | ---------------- | ---- | --------------- | ---- | --------------- |
 | 1 | 黏附 | 26 | 地震 | 51 | 假面 | 76 | 烟形 |
-| 2 | 锚 | 27 | 弹性 | 52 | 化裝舞会 | 77 | 嗅闻 |
-| 3 | 活化物体 | 28 | 元素墙 | 53 | 镜影 | 78 | Snuff |
-| 4 | 拟人 | 29 | 隔空取物 | 54 | Mirrorwalk | 79 | 排序 |
-| 5 | 奥术眼 | 30 | Flare | 55 | 多臂 | 80 | 奇观 |
-| 6 | 星界监狱 | 31 | 雾云 | 56 | 夜球 | 81 | Spellsaw |
+| 2 | 锚丝 | 27 | 弹性 | 52 | 微缩 | 77 | 嗅闻 |
+| 3 | 活化物体 | 28 | 元素墙 | 53 | 镜影 | 78 | 熄灭 |
+| 4 | 拟人 | 29 | 隔空取物 | 54 | 镜行 | 79 | 排序 |
+| 5 | 奥术眼 | 30 | 炽光弹 | 55 | 多臂 | 80 | 奇观 |
+| 6 | 星界监狱 | 31 | 雾云 | 56 | 夜球 | 81 | 法术锯 |
 | 7 | 磁吸 | 32 | 狂暴 | 57 | 物化 | 82 | 蛛爬 |
-| 8 | 幻听 | 33 | 异界门 | 58 | 淤泥形体 | 83 | 召唤方块 |
+| 8 | 幻听 | 33 | 异界门 | 58 | 泥形 | 83 | 召唤方块 |
 | 9 | 乱语 | 34 | 重力转移 | 59 | 安抚 | 84 | 化群 |
-| 10 | Bait Flower | 35 | 贪婪 | 60 | 恐惧症 | 85 | 心灵遥孔 |
+| 10 | 饵花 | 35 | 贪婪 | 60 | 恐惧症 | 85 | 心灵遥孔 |
 | 11 | 兽形 | 36 | 加速 | 61 | 陷坑 | 86 | 心灵感应 |
-| 12 | 迷糊 | 37 | 仇恨 | 62 | Primal Surge | 87 | 传送 |
-| 13 | 换身 | 38 | 聆听耳语 | 63 | Push/Pull | 88 | Target Lure |
-| 14 | 魅惑 | 39 | 悬浮 | 64 | 复活死者 | 89 | 灌丛 |
-| 15 | 命令 | 40 | 催眠 | 65 | 复活魂灵 | 90 | 召唤石偶 |
-| 16 | 领悟 | 41 | 冰触 | 66 | 读心 | 91 | Time Control |
-| 17 | Cone of Foam | 42 | Identify Owner | 67 | 磁斥 | 92 | 真视 |
+| 12 | 迷糊 | 37 | 仇恨 | 62 | 原始澎湃 | 87 | 传送 |
+| 13 | 换身 | 38 | 聆听耳语 | 63 | 推/拉 | 88 | 标靶 |
+| 14 | 魅惑 | 39 | 悬浮 | 64 | 复苏死者 | 89 | 灌丛 |
+| 15 | 命令 | 40 | 催眠 | 65 | 复苏魂灵 | 90 | 召唤石偶 |
+| 16 | 领悟 | 41 | 冰触 | 66 | 读心 | 91 | 时间操控 |
+| 17 | 泡沫锥 | 42 | 鉴别物主 | 67 | 磁斥 | 92 | 真视 |
 | 18 | 操控植物 | 43 | 照明 | 68 | 视卜 | 93 | 涌泉 |
 | 19 | 操控天气 | 44 | 隐形系绳 | 69 | 雕塑元素 | 94 | 视控 |
-| 20 | Cure Wounds | 45 | 敲击 | 70 | 感知 | 95 | Visual Illusion |
-| 21 | 耳聋 | 46 | 跳跃 | 71 | 盾牌 | 96 | 警戒 |
-| 22 | 侦测魔法 | 47 | 液气 | 72 | 遮蔽 | 97 | 织网 |
-| 23 | 拆卸 | 48 | 魔法缓冲 | 73 | 易位 | 98 | Widget |
+| 20 | 治愈创伤 | 45 | 敲击 | 70 | 感知 | 95 | 幻视 |
+| 21 | 耳聋 | 46 | 跳跃 | 71 | 护盾 | 96 | 结界 |
+| 22 | 侦测魔法 | 47 | 液态空气 | 72 | 遮蔽 | 97 | 蛛网 |
+| 23 | 拆卸 | 48 | 魔法缓冲 | 73 | 易位 | 98 | 部件 |
 | 24 | 伪装 | 49 | 住宅 | 74 | 睡眠 | 99 | 法师标记 |
-| 25 | 移位 | 50 | Marble Craze | 75 | Slick | 100 | X光透视 |
+| 25 | 移位 | 50 | 弹珠狂欢 | 75 | 滑溜 | 100 | X光透视 |
 
 <p></p>
 
@@ -435,8 +435,8 @@ PC 无法携带超出其行装准许数量的物品。板车（必须用双手�
 
 #### 护甲
 
-|  |     |
-|--------------------------------------------------------------|-----|
+|                             |      |
+| --------------------------- | ---- |
 | 盾牌（+1 护甲） | 10 |
 | 头盔（+1 护甲） | 10 |
 | 臂铠（+1 护甲） | 15 |
@@ -446,8 +446,8 @@ PC 无法携带超出其行装准许数量的物品。板车（必须用双手�
 
 #### 武器
 
-| |     |
-|--------------------------------------------------------------|-----|
+|                                                            |      |
+| ---------------------------------------------------------- | ---- |
 | 匕首，棍棒，镰刀，杖，诸如此类（d6 伤害） | 5 |
 | 矛，剑，硬头锤，斧，梿枷，诸如此类（d8 伤害） | 10 |
 | 戟，战锤，长剑，诸如此类（d10 伤害，笨重） | 20 |
@@ -457,8 +457,8 @@ PC 无法携带超出其行装准许数量的物品。板车（必须用双手�
 
 #### 用品&工具
 
-| |                |                   |          |
-|---------------------------------------------|----------------|-------------------|----------|
+|                        |      |                             |      |
+| ---------------------- | ---- | --------------------------- | ---- |
 | 气囊 | 5 | 大陷阱 | 20 |
 | 风箱 | 10 | 大海绵 | 5 |
 | 铺盖卷 | 5 | 透镜 | 10 |
@@ -505,8 +505,8 @@ PC 无法携带超出其行装准许数量的物品。板车（必须用双手�
 
 #### 探矿师
 
-|                                         |
-|-----------------------------------------|
+|                                           |
+| ----------------------------------------- |
 | 镰刀（d6） |
 | 拼布上衣（+1 护甲） |
 | 占卜棒 |
@@ -516,8 +516,8 @@ PC 无法携带超出其行装准许数量的物品。板车（必须用双手�
 
 #### 矮人
 
-|  |
-|-----------------------------------------|
+|                            |
+| -------------------------- |
 | 刺根（d6） |
 | 松果格衣（1 护甲） |
 | 泥铲 |
@@ -527,19 +527,19 @@ PC 无法携带超出其行装准许数量的物品。板车（必须用双手�
 
 #### 精灵
 
-|  |
-|-----------------------------------------|
+|                                       |
+| ------------------------------------- |
 | 雅剑（d8） |
 | 反曲弓（d8） |
 | 镀金服装（1 护甲） |
-| 法术书（_魅惑_或_侦测魔法_） |
+| 法术书（*魅惑*或*侦测魔法*） |
 | 金长笛 |
 | 气囊 |
 
 #### 战士
 
-|  |
-|---------------------------------------|
+|                      |
+| -------------------- |
 | 长柄刀（d10，笨重） |
 | 弯刀（d8） |
 | 短剑（d6） |
@@ -549,8 +549,8 @@ PC 无法携带超出其行装准许数量的物品。板车（必须用双手�
 
 #### 修士
 
-|  |
-|--------------------------------|
+|                            |
+| -------------------------- |
 | 权杖（d6） |
 | 虚饰衣袍（+1 护甲） |
 | 香炉&圣水 |
@@ -571,8 +571,8 @@ PC 无法携带超出其行装准许数量的物品。板车（必须用双手�
 
 #### 魔法师
 
-|  |
-|-----------------------------------------|
+|                                  |
+| -------------------------------- |
 | 嘶嘶杖（d8，笨重） |
 | 匕首（d6） |
 | 法术书（随机法术） |
@@ -582,8 +582,8 @@ PC 无法携带超出其行装准许数量的物品。板车（必须用双手�
 
 #### 盗贼
 
-|  |
-|-----------------------------------------|
+|                         |
+| ----------------------- |
 | 双匕首（d6+d6） |
 | 连帽外套（1 护甲） |
 | 开锁器 |
@@ -593,8 +593,8 @@ PC 无法携带超出其行装准许数量的物品。板车（必须用双手�
 
 #### 游侠
 
-|  |
-|-----------------------------------------|
+|                                            |
+| ------------------------------------------ |
 | 长弓（d8，笨重） |
 | 小斧（d6） |
 | 衬垫皮甲（1 护甲） |
@@ -622,7 +622,7 @@ PC 无法携带超出其行装准许数量的物品。板车（必须用双手�
   <summary>
 展开示例
  </summary>
- _碧在隧道入口处遇见一群重装地精卫兵。她的玩家仔细规划了一条路线，并意识到自己 13 的敏捷让潜行绕过卫兵成为最佳选项。她投骰 d20，结果是 10——成功！_
+ *碧在隧道入口处遇见一群重装地精卫兵。她的玩家仔细规划了一条路线，并意识到自己 13 的敏捷让潜行绕过卫兵成为最佳选项。她投骰 d20，结果是 10——成功！*
 
 </details>
 
@@ -640,10 +640,10 @@ PC 无法携带超出其行装准许数量的物品。板车（必须用双手�
 ### 反应
 当 PC 遭遇对冒险团队反应不明确的 NPC 时，监守可投骰 2d6 并参考下表：
 
-| | | | | |
-| :-----: | :--: | :-----: | :--: | :--: |
+|         |      |         |      |         |
+| :-----: | :--: | :-----: | :--: | :-----: |
 | 2 | 3-5 | 6-8 | 9-11 | 12 |
-| 敌意 | 警惕 | 求知 | 亲切 | 有益 |
+| 敌意 | 警惕 | 求知 | 亲切 | 乐于帮助 |
 
 ### 士气
 敌人在首次伤亡和损失半额人员时，必须通过意志豁免才能避免逃跑。有些团体可以用其领袖的意志代替自身的意志。落单敌人在降至 0 HP 时须进行豁免。士气不会影响 PC。
@@ -672,14 +672,14 @@ PC 可雇佣**雇员**来协助探险。要创建一个雇员，先为每项属�
 - 用一次就消失。
 
 ### 施法
-任何人都能通过双手持握法术书高声诵读其中内容来施法。随后他们必须往行装中增加一项疲劳，占据一个栏位。时间充裕且情况安全时，PC 可以_强化_法术的影响力（譬如影响多重目标、增加法术威力、等等），而无需付出任何额外代价。若 PC 陷入匮乏或身处危险，监守可要求 PC 进行意志豁免才能避免施法造成的不良影响。失败后果与预期效果相当，可能导致增加疲劳、魔法书损毁、受伤、甚至死亡。
+任何人都能通过双手持握法术书高声诵读其中内容来施法。随后他们必须往行装中增加一项疲劳，占据一个栏位。时间充裕且情况安全时，PC 可以*强化*法术的影响力（譬如影响多重目标、增加法术威力、等等），而无需付出任何额外代价。若 PC 陷入匮乏或身处危险，监守可要求 PC 进行意志豁免才能避免施法造成的不良影响。失败后果与预期效果相当，可能导致增加疲劳、魔法书损毁、受伤、甚至死亡。
 
 ### 奇物
 **奇物**是注有法术或魔力的物品。它们不会导致疲劳。奇物通常有使用限制，也有充能条件。举例而言：
 
 **蜂扣**，3 发充能。一枚生锈戒指，可将佩戴者的身高缩小至 6"。充能：将此放入一个顶针尺寸的盛有蜂王浆的杯子中。
 
-**猎鹰之友**，1 发充能。带有_加速_法术的弩矢状魔杖。充能：用弩射出并回收。
+**猎鹰之友**，1 发充能。带有*加速*法术的弩矢状魔杖。充能：用弩射出并回收。
 
 **沉默之杖**，1 发充能。这根漆黑竿子能暂时禁用 50' 范围内的所有魔法。充能：沐浴在满月光辉中。
 
@@ -702,7 +702,7 @@ PC 可雇佣**雇员**来协助探险。要创建一个雇员，先为每项属�
   <summary>
 展开示例
  </summary>
- _碧不慎闯入了一只庞大木巨魔的地盘。要抢在巨魔之前行动，她必须通过敏捷豁免。她失败了，所以巨魔率先攻击。_
+ *碧不慎闯入了一只庞大木巨魔的地盘。要抢在巨魔之前行动，她必须通过敏捷豁免。她失败了，所以巨魔率先攻击*
 </details>
 
 ### 攻击&伤害
@@ -712,7 +712,7 @@ PC 可雇佣**雇员**来协助探险。要创建一个雇员，先为每项属�
   <summary>
 展开示例
  </summary>
- _木巨魔咆哮着挥舞棍棒砸向拥有 5 HP 的碧。棍棒造成 1d10 伤害，监守投骰出 4。他们为碧的皮甲减去 1，使碧的剩余 HP 为 2。_
+ *木巨魔咆哮着挥舞棍棒砸向拥有 5 HP 的碧。棍棒造成 1d10 伤害，监守投骰出 4。他们为碧的皮甲减去 1，使碧的剩余 HP 为 2。*
 </details>
 
 ### 多重攻击
@@ -757,7 +757,7 @@ PC 可雇佣**雇员**来协助探险。要创建一个雇员，先为每项属�
 当攻击将 PC 的 HP 恰好降至 0 时，其就会遭受独特影响。根据遭受的总伤害，在下表中查看结果：
 
 |      |                                                              |
-|------ |---|
+| ---- | ------------------------------------------------------------ |
 | 1 | 永久伤疤：投骰 1d6 &#124; 1：脖，2：手，3：眼，4：胸，5：腿，6：耳。投骰 1d6。若总数高于最大 HP，则采取新结果。 |
 | 2 | 震荡打击：你迷失方向，摇摇晃晃。描述你如何找回注意力。投骰 1d6。若总数高于最大 HP，则采取新结果。 |
 | 3 | 击飞：你被揍飞，脸先着地，喘不过气。在休息几小时前，你陷入匮乏。随后投骰 1d6。将其加到最大 HP 上。 |
@@ -783,7 +783,7 @@ PC 可雇佣**雇员**来协助探险。要创建一个雇员，先为每项属�
 - 热衷魔法书；愿意交易。
 
 **兜帽男**  
-12 HP，9 力量，12 敏捷，14 意志，地脉杖（d8），法术书（选择其一：_魅惑，催眠，推/拉，护盾_）
+12 HP，9 力量，12 敏捷，14 意志，地脉杖（d8），法术书（选择其一：*魅惑*，*催眠*，*推/拉*，*护盾*）
 - 森林守护者；一个从地脉、符文石等汲取力量的异教组织。
 - 重伤：汲取受害者的部分灵魂（1d4 意志伤害）。
 
@@ -798,7 +798,7 @@ PC 可雇佣**雇员**来协助探险。要创建一个雇员，先为每项属�
 - 重伤：目标伤口处开始长出苔藓和树枝。
 
 **霜地精**  
-14 HP，1 护甲，8 力量，13 敏捷，14 意志，冰锥匕首（d6），法术书（选择其一：_睡眠，传送，侦测魔法_）
+14 HP，1 护甲，8 力量，13 敏捷，14 意志，冰锥匕首（d6），法术书（选择其一：*睡眠*，*传送*，*侦测魔法*）
 - 美丽，非道德，长生。
 - 对多数魔法形式具有抗性。
 
@@ -845,106 +845,106 @@ X HP，X 护甲，X 力量，X 敏捷，X 意志，武器（dX，特殊物品，
 
 |      |                                         |                                                              |
 | ---- | --------------------------------------- | ------------------------------------------------------------ |
-| 1 | [Adhere](#adhere) | An object is covered in extremely sticky slime. |
-| 2 | [Anchor](#anchor) | A strong wire sprouts from your arms, affixing itself to two points within 50ft on each side. |
-| 3 | [Animate Object](#animate-object) | An object obeys your commands as best it can. |
-| 4 | [Anthropomorphize](#anthropomorphize) | An animal either gains human intelligence or human appearance for one day. |
-| 5 | [Arcane Eye](#arcane-eye) | You can see through a magical floating eyeball that flies around at your command. |
-| 6 | [Astral Prison](#astral-prison) | An object is frozen in time and space within an invulnerable crystal shell. |
-| 7 | [Attract](#attract) | Two objects are strongly magnetically attracted to each other if they come within 10 feet. |
-| 8 | [Auditory Illusion](#auditory-illusion) | You create illusory sounds that seem to come from a direction of your choice. |
-| 9 | [Babble](#babble) | A creature must loudly and clearly repeat everything you think. 否则会静默。 |
-| 10 | [Bait Flower](#bait-flower) | A plant sprouts from the ground that emanates the smell of decaying flesh. |
-| 11 | [Beast Form](#beast-form) | You and your possessions transform into a mundane animal. |
-| 12 | [Befuddle](#befuddle) | A creature of your choice is unable to form new short-term memories for the duration of the spell. |
-| 13 | [Body Swap](#body-swap) | You switch bodies with a creature you touch. 若其一身躯死掉，另一也死。 |
-| 14 | [Charm](#charm) | A creature you can see treats you as a friend. |
-| 15 | [Command](#command) | A target obeys a single three-word command that does not cause it harm. |
-| 16 | [Comprehend](#comprehend) | You become fluent in all languages for a short while. |
-| 17 | [Cone of Foam](#cone-of-foam) | Dense foam sprays from your hand, coating the target. |
-| 18 | [Control Plants](#control-plants) | Nearby plants and trees obey you and gain the ability to move at a slow pace. |
-| 19 | [Control Weather](#control-weather) | You may alter the type of weather at will, but you do not otherwise control it. |
-| 20 | [Cure Wounds](#cure-wounds) | Restore 1d4 STR per day to a creature you can touch. |
-| 21 | [Deafen](#deafen) | All nearby creatures are deafened. |
-| 22 | [Detect Magic](#detect-magic) | You can see or hear nearby magical auras. |
-| 23 | [Disassemble](#disassemble) | Any of your body parts may be detached and reattached at will, without causing pain or damage. 你仍能控制它们。 |
-| 24 | [Disguise](#disguise) | You may alter the appearance of one character at will as long as they remain humanoid. 尝试模仿其他角色会看上去挺诡异。 |
-| 25 | [Displace](#displace) | An object appears to be up to 15ft from its actual position. |
-| 26 | [Earthquake](#earthquake) | The ground begins shaking violently. Structures may be damaged or collapse. |
-| 27 | [Elasticity](#elasticity) | Your body can stretch up to 10ft. |
-| 28 | [Elemental Wall](#elemental-wall) | A straight wall of ice or fire 50ft long and 10ft high rises from the ground. |
-| 29 | [Filch](#filch) | A visible item teleports to your hands. |
-| 30 | [Flare](#flare) | A bright ball of energy fires a trail of light into the sky, revealing your location to friend or foe. |
-| 31 | [Fog Cloud](#fog-cloud) | A dense fog spreads out from you. |
-| 32 | [Frenzy](#frenzy) | A nearby creature erupts in a frenzy of violence. |
-| 33 | [Gate](#gate) | A portal to a random plane opens. |
-| 34 | [Gravity Shift](#gravity-shift) | You can change the direction of gravity, but only for yourself. |
-| 35 | [Greed](#greed) | A creature develops the overwhelming urge to possess a visible item of your choice. |
-| 36 | [Haste](#haste) | Your movement speed is tripled. |
-| 37 | [Hatred](#hatred) | A creature develops a deep hatred of another creature or group and wishes to destroy them. |
-| 38 | [Hear Whispers](#hear-whispers) | You can hear faint sounds clearly. |
-| 39 | [Hover](#hover) | An object hovers, frictionless, 2ft above the ground. It can hold up to one humanoid. |
-| 40 | [Hypnotize](#hypnotize) | A creature enters a trance and will truthfully answer one yes or no question you ask it. |
-| 41 | [Icy Touch](#icy-touch) | A thick ice layer spreads across a touched surface, up to 10ft in radius. |
-| 42 | [Identify Owner](#identify-owner) | Letters appear over the object you touch, spelling out the name of the object's owners, if there are any. |
-| 43 | [Illuminate](#illuminate) | A floating light moves as you command. |
-| 44 | [Invisible Tether](#invisible-tether) | Two objects within 10ft of each other cannot be moved more than 10ft apart. |
-| 45 | [Knock](#knock) | A nearby mundane or magical lock unlocks loudly. |
-| 46 | [Leap](#leap) | You jump up to 10ft high, once. |
-| 47 | [Liquid Air](#liquid-air) | The air around you becomes swimmable . |
-| 48 | [Magic Dampener](#magic-dampener) | All nearby magical effects have their effectiveness halved. |
-| 49 | [Manse](#manse) | A sturdy, furnished cottage appears for 12 hours. 你能随意准许或禁止进入。 |
-| 50 | [Marble Craze](#marble-craze) | Your pockets are full of marbles, and will refill every 30 seconds. |
-| 51 | [Masquerade](#masquerade) | A characters appearance and voice becomes identical to those of a character you touch. |
-| 52 | [Miniaturize](#miniaturize) | A creature you touch is shrunk down to the size of a mouse. |
-| 53 | [Mirror Image](#mirror-image) | An illusory duplicate of yourself appears and is under your control. |
-| 54 | [Mirrorwalk](#mirrorwalk) | A mirror becomes a gateway to another mirror that you looked into today. |
-| 55 | [Multiarm](#multiarm) | You temporarily gain an extra arm. |
-| 56 | [Night Sphere](#night-sphere) | A 50ft wide sphere of darkness displaying the night sky appears before you. |
-| 57 | [Objectify](#objectify) | You become any inanimate object between the size of a grand piano and an apple. |
-| 58 | [Ooze Form](#ooze-form) | You become a living jelly. |
-| 59 | [Pacify](#pacify) | A creature near you has an aversion to violence. |
-| 60 | [Phobia](#phobia) | A nearby creature becomes terrified of an object of your choice. |
-| 61 | [Pit](#pit) | A pit 10ft wide and 10ft deep opens in the ground. |
-| 62 | [Primal Surge](#primal-surge) | A creature rapidly evolves into a future version of its species. |
-| 63 | [Push/Pull](#push/pull) | An object of any size is pulled directly towards you or pushed directly away from you with the strength of one man. |
-| 64 | [Raise Dead](#raise-dead) | A skeleton rises from the ground to serve you. 它们蠢得离谱，并只能服从简单指令。 |
-| 65 | [Raise Spirit](#raise-spirit) | The spirit of a nearby corpse manifests and will answer 1 question. |
-| 66 | [Read Mind](#read-mind) | You can hear the surface thoughts of nearby creatures. |
-| 67 | [Repel](#repel) | Two objects are strongly magnetically repelled from each other within 10 feet. |
-| 68 | [Scry](#scry) | You can see through the eyes of a creature you touched earlier today. |
-| 69 | [Sculpt Elements](#sculpt-elements) | Inanimate material behaves like clay in your hands. |
-| 70 | [Sense](#sense) | Choose one kind of object (key, gold, arrow, jug, etc). You can sense the nearest example. |
-| 71 | [盾牌](#shield) | A creature you touch is protected from mundane attacks for one minute. |
-| 72 | [Shroud](#shroud) | A creature you touch is invisible until they move. |
-| 73 | [Shuffle](#shuffle) | Two creatures you can see instantly switch places. |
-| 74 | [Sleep](#sleep) | A creature you can see falls into a light sleep. |
-| 75 | [Slick](#slick) | Every surface in a 30ft radius becomes extremely slippery. |
-| 76 | [Smoke Form](#smoke-form) | Your body becomes a living smoke that you can control. |
-| 77 | [Sniff](#sniff) | You can smell even the faintest traces of scents. |
-| 78 | [Snuff](#snuff) | The source of any mundane light you can see is instantly snuffed out. |
-| 79 | [Sort](#sort) | Inanimate items sort themselves according to categories you set. |
-| 80 | [Spectacle](#spectacle) | A clearly false but impressive illusion of your choice appears, under your control. 它能至多宫殿尺寸，并有完整动态和声音。 |
-| 81 | [Spellsaw](#spellsaw) | A whirling blade flies from your chest, clearing any plant material in its way. It is otherwise harmless. |
-| 82 | [Spider Climb](#spider-climb) | You can climb surfaces like a spider. |
-| 83 | [Summon Cube](#summon-cube) | Once per second you may summon or banish a 3-foot-wide cube of earth New cubes must be affixed to the earth or to other cubes. |
-| 84 | [Swarm](#swarm) | You become a swarm of crows, rats, or piranhas. You can only be harmed by blast attacks. |
-| 85 | [Telekinesis](#telekinesis) | You may mentally 1 move item under 60lbs. |
-| 86 | [Telepathy](#telepathy) | Two creatures can hear each other's thoughts, no matter how far apart. |
-| 87 | [Teleport](#teleport) | An object or person you can see is transported from one place to another in a 50ft radius. |
-| 88 | [Target Lure](#target-lure) | An object you touch becomes the target of any nearby spell. |
-| 89 | [Thicket](#thicket) | A thicket of trees and dense brush up to 50ft wide suddenly sprouts up. |
-| 90 | [Summon Idol](#summon-idol) | A carved stone statue the size of a mule rises from the ground. |
-| 91 | [Time Control](#time-control) | Time in a 50ft bubble slows down or increases by 10% for 30 seconds. |
-| 92 | [True Sight](#true-sight) | You see through all nearby illusions. |
-| 93 | [Upwell](#upwell) | A spring of seawater appears. |
-| 94 | [Vision](#vision) | You completely control what a creature sees. |
-| 95 | [Visual Illusion](#visual-illusion) | A silent, immobile, room-sized illusion of your choice appears. |
-| 96 | [Ward](#ward) | A silver circle 50ft across appears on the ground. Choose one species that cannot cross it. |
-| 97 | [Web](#web) | Your wrists shoot thick webbing. |
-| 98 | [Widget](#widget) | A primitive version of a drawn tool or item appears before you and disappears after a short time. |
-| 99 | [Wizard Mark](#wizard-mark) | Your finger can shoot a stream of ulfire-colored paint. This paint is only visible to you and can be seen at any distance, even through solid objects. |
-| 100 | [X-Ray Vision](#x-ray-vision) | You can see through walls, dirt, clothing, etc. |
+| 1 | [黏附](#adhere) | An object is covered in extremely sticky slime. |
+| 2 | [锚丝](#anchor) | A strong wire sprouts from your arms, affixing itself to two points within 50ft on each side. |
+| 3 | [活化物体](#animate-object) | An object obeys your commands as best it can. |
+| 4 | [拟人](#anthropomorphize) | An animal either gains human intelligence or human appearance for one day. |
+| 5 | [奥术眼](#arcane-eye) | You can see through a magical floating eyeball that flies around at your command. |
+| 6 | [星界监狱](#astral-prison) | An object is frozen in time and space within an invulnerable crystal shell. |
+| 7 | [磁吸](#attract) | Two objects are strongly magnetically attracted to each other if they come within 10 feet. |
+| 8 | [幻听](#auditory-illusion) | You create illusory sounds that seem to come from a direction of your choice. |
+| 9 | [乱语](#babble) | A creature must loudly and clearly repeat everything you think. 否则就无法说话。 |
+| 10 | [饵花](#bait-flower) | A plant sprouts from the ground that emanates the smell of decaying flesh. |
+| 11 | [兽形](#beast-form) | You and your possessions transform into a mundane animal. |
+| 12 | [迷糊](#befuddle) | A creature of your choice is unable to form new short-term memories for the duration of the spell. |
+| 13 | [换身](#body-swap) | You switch bodies with a creature you touch. 若其中一具身躯死亡，另一具也会随之逝去。 |
+| 14 | [魅惑](#charm) | A creature you can see treats you as a friend. |
+| 15 | [命令](#command) | A target obeys a single three-word command that does not cause it harm. |
+| 16 | [领悟](#comprehend) | You become fluent in all languages for a short while. |
+| 17 | [泡沫锥](#cone-of-foam) | Dense foam sprays from your hand, coating the target. |
+| 18 | [操控植物](#control-plants) | Nearby plants and trees obey you and gain the ability to move at a slow pace. |
+| 19 | [操控天气](#control-weather) | You may alter the type of weather at will, but you do not otherwise control it. |
+| 20 | [治愈创伤](#cure-wounds) | Restore 1d4 STR per day to a creature you can touch. |
+| 21 | [耳聋](#deafen) | All nearby creatures are deafened. |
+| 22 | [侦测魔法](#detect-magic) | You can see or hear nearby magical auras. |
+| 23 | [拆卸](#disassemble) | Any of your body parts may be detached and reattached at will, without causing pain or damage. 你仍能控制它们。 |
+| 24 | [伪装](#disguise) | You may alter the appearance of one character at will as long as they remain humanoid. 尝试模仿其他角色会让外表变得诡异。 |
+| 25 | [移位](#displace) | An object appears to be up to 15ft from its actual position. |
+| 26 | [地震](#earthquake) | The ground begins shaking violently. Structures may be damaged or collapse. |
+| 27 | [弹性](#elasticity) | Your body can stretch up to 10ft. |
+| 28 | [元素墙](#elemental-wall) | A straight wall of ice or fire 50ft long and 10ft high rises from the ground. |
+| 29 | [隔空取物](#filch) | A visible item teleports to your hands. |
+| 30 | [炽光弹](#flare) | A bright ball of energy fires a trail of light into the sky, revealing your location to friend or foe. |
+| 31 | [雾云](#fog-cloud) | A dense fog spreads out from you. |
+| 32 | [狂暴](#frenzy) | A nearby creature erupts in a frenzy of violence. |
+| 33 | [异界门](#gate) | A portal to a random plane opens. |
+| 34 | [重力转移](#gravity-shift) | You can change the direction of gravity, but only for yourself. |
+| 35 | [贪婪](#greed) | A creature develops the overwhelming urge to possess a visible item of your choice. |
+| 36 | [加速](#haste) | Your movement speed is tripled. |
+| 37 | [仇恨](#hatred) | A creature develops a deep hatred of another creature or group and wishes to destroy them. |
+| 38 | [聆听耳语](#hear-whispers) | You can hear faint sounds clearly. |
+| 39 | [悬浮](#hover) | An object hovers, frictionless, 2ft above the ground. It can hold up to one humanoid. |
+| 40 | [催眠](#hypnotize) | A creature enters a trance and will truthfully answer one yes or no question you ask it. |
+| 41 | [冰触](#icy-touch) | A thick ice layer spreads across a touched surface, up to 10ft in radius. |
+| 42 | [鉴别物主](#identify-owner) | Letters appear over the object you touch, spelling out the name of the object's owners, if there are any. |
+| 43 | [照明](#illuminate) | A floating light moves as you command. |
+| 44 | [隐形系绳](#invisible-tether) | Two objects within 10ft of each other cannot be moved more than 10ft apart. |
+| 45 | [敲击](#knock) | A nearby mundane or magical lock unlocks loudly. |
+| 46 | [跳跃](#leap) | You jump up to 10ft high, once. |
+| 47 | [液态空气](#liquid-air) | The air around you becomes swimmable . |
+| 48 | [魔法缓冲](#magic-dampener) | All nearby magical effects have their effectiveness halved. |
+| 49 | [住宅](#manse) | A sturdy, furnished cottage appears for 12 hours. 你能随意准许或禁止进入。 |
+| 50 | [弹珠狂欢](#marble-craze) | Your pockets are full of marbles, and will refill every 30 seconds. |
+| 51 | [假面](#masquerade) | A characters appearance and voice becomes identical to those of a character you touch. |
+| 52 | [微缩](#miniaturize) | A creature you touch is shrunk down to the size of a mouse. |
+| 53 | [镜影](#mirror-image) | An illusory duplicate of yourself appears and is under your control. |
+| 54 | [镜行](#mirrorwalk) | A mirror becomes a gateway to another mirror that you looked into today. |
+| 55 | [多臂](#multiarm) | You temporarily gain an extra arm. |
+| 56 | [夜球](#night-sphere) | A 50ft wide sphere of darkness displaying the night sky appears before you. |
+| 57 | [物化](#objectify) | You become any inanimate object between the size of a grand piano and an apple. |
+| 58 | [泥形](#ooze-form) | You become a living jelly. |
+| 59 | [安抚](#pacify) | A creature near you has an aversion to violence. |
+| 60 | [恐惧症](#phobia) | A nearby creature becomes terrified of an object of your choice. |
+| 61 | [陷坑](#pit) | A pit 10ft wide and 10ft deep opens in the ground. |
+| 62 | [原始澎湃](#primal-surge) | A creature rapidly evolves into a future version of its species. |
+| 63 | [推/拉](#push/pull) | An object of any size is pulled directly towards you or pushed directly away from you with the strength of one man. |
+| 64 | [复苏死者](#raise-dead) | A skeleton rises from the ground to serve you. 它们蠢得离谱，只能服从简单的指令。 |
+| 65 | [复苏魂灵](#raise-spirit) | The spirit of a nearby corpse manifests and will answer 1 question. |
+| 66 | [读心](#read-mind) | You can hear the surface thoughts of nearby creatures. |
+| 67 | [磁斥](#repel) | Two objects are strongly magnetically repelled from each other within 10 feet. |
+| 68 | [视卜](#scry) | You can see through the eyes of a creature you touched earlier today. |
+| 69 | [雕塑元素](#sculpt-elements) | Inanimate material behaves like clay in your hands. |
+| 70 | [感知](#sense) | Choose one kind of object (key, gold, arrow, jug, etc). You can sense the nearest example. |
+| 71 | [护盾](#shield) | A creature you touch is protected from mundane attacks for one minute. |
+| 72 | [遮蔽](#shroud) | A creature you touch is invisible until they move. |
+| 73 | [易位](#shuffle) | Two creatures you can see instantly switch places. |
+| 74 | [睡眠](#sleep) | A creature you can see falls into a light sleep. |
+| 75 | [滑溜](#slick) | Every surface in a 30ft radius becomes extremely slippery. |
+| 76 | [烟形](#smoke-form) | Your body becomes a living smoke that you can control. |
+| 77 | [嗅闻](#sniff) | You can smell even the faintest traces of scents. |
+| 78 | [熄灭](#snuff) | The source of any mundane light you can see is instantly snuffed out. |
+| 79 | [排序](#sort) | Inanimate items sort themselves according to categories you set. |
+| 80 | [奇观](#spectacle) | A clearly false but impressive illusion of your choice appears, under your control. 至多可达宫殿尺寸，并有完整动态和声音。 |
+| 81 | [法术锯](#spellsaw) | A whirling blade flies from your chest, clearing any plant material in its way. It is otherwise harmless. |
+| 82 | [蛛爬](#spider-climb) | You can climb surfaces like a spider. |
+| 83 | [召唤方块](#summon-cube) | Once per second you may summon or banish a 3-foot-wide cube of earth New cubes must be affixed to the earth or to other cubes. |
+| 84 | [化群](#swarm) | You become a swarm of crows, rats, or piranhas. You can only be harmed by blast attacks. |
+| 85 | [心灵遥控](#telekinesis) | You may mentally 1 move item under 60lbs. |
+| 86 | [心灵感应](#telepathy) | Two creatures can hear each other's thoughts, no matter how far apart. |
+| 87 | [传送](#teleport) | An object or person you can see is transported from one place to another in a 50ft radius. |
+| 88 | [标靶](#target-lure) | An object you touch becomes the target of any nearby spell. |
+| 89 | [灌丛](#thicket) | A thicket of trees and dense brush up to 50ft wide suddenly sprouts up. |
+| 90 | [召唤石偶](#summon-idol) | A carved stone statue the size of a mule rises from the ground. |
+| 91 | [时间操控](#time-control) | Time in a 50ft bubble slows down or increases by 10% for 30 seconds. |
+| 92 | [真视](#true-sight) | You see through all nearby illusions. |
+| 93 | [涌泉](#upwell) | A spring of seawater appears. |
+| 94 | [视控](#vision) | You completely control what a creature sees. |
+| 95 | [幻视](#visual-illusion) | A silent, immobile, room-sized illusion of your choice appears. |
+| 96 | [结界](#ward) | A silver circle 50ft across appears on the ground. Choose one species that cannot cross it. |
+| 97 | [蛛网](#web) | Your wrists shoot thick webbing. |
+| 98 | [部件](#widget) | A primitive version of a drawn tool or item appears before you and disappears after a short time. |
+| 99 | [法术标记](#wizard-mark) | Your finger can shoot a stream of ulfire-colored paint. This paint is only visible to you and can be seen at any distance, even through solid objects. |
+| 100 | [X光透视](#x-ray-vision) | You can see through walls, dirt, clothing, etc. |
 
 
 [返回目录](#index)
