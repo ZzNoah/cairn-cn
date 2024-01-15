@@ -1,12 +1,12 @@
 ---
 layout: default
-parent: Conversions
-grand_parent: Adventures
-title: The Hole in the Oak
+parent: 转换
+grand_parent: 冒险
+title: 橡树洞
 redirect_from: /resources/adventure-conversions/the-hole-in-the-oak/
 ---
 
-# The Hole in the Oak
+# 橡树洞
 
 - Converted from the [original work by Gavin Norman](https://necroticgnome.com/collections/adventures/products/the-hole-in-the-oak).
 - Conversion by [xenio](https://xenioinabottle.blogspot.com)
