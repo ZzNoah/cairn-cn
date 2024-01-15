@@ -1,11 +1,11 @@
 ---
 layout: default
-parent: Conversions
-grand_parent: Adventures
-title: The Incandescent Grottoes
+parent: 转换
+grand_parent: 冒险
+title: 白炽石窟
 ---
 
-# The Incandescent Grottoes
+# 白炽石窟
 
 - Based on the [original work](https://www.google.com/url?q=https://necroticgnome.com/products/the-incandescent-grottoes) by Gavin Norman.
 - Conversion by csdip.
