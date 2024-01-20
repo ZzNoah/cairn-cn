@@ -11,7 +11,7 @@ permalink: /
 
 原文 PDF 可在 [Itch.io](https://yochaigal.itch.io/cairn) & [DriveThruRPG](https://www.drivethrurpg.com/product/330809/Cairn) 免费下载。中文版 PDF 可在 [Itch.io](https://zznoah.itch.io/cairn-chs) 免费下载。  
 全文遵循 [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) 授权协议。  
-原始 Affinity Publisher 文件也免费附带提供。
+Affinity Publisher 源文件也免费附赠。
 
 这是款重视社区贡献的游戏！若你想提交冒险、魔改、怪物或转换，请查看[提交指南](/submissions/submission-guide)。
 
