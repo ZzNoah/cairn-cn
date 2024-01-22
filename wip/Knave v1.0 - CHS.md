@@ -670,12 +670,12 @@ PC 无法创造、复制或抄录法术书。PC 要获取新法术都必须为�
 
 全凭 Patreon 支持者的鼓励、反馈和帮助，*《恶棍》*才得以问世。
 
-https://www.patreon.com/questingbeast
+[https://www.patreon.com/questingbeast](https://www.patreon.com/questingbeast)
 
 特别感谢 Google+ 上 DIY DND 社区的每位成员。
 
 该游戏使用免费字体 Crimson Text 和 Sebaldus-Gotisch 制作。
 
-中文版（2024-1-22）额外使用免费商用字体仓耳周珂正大榜书、思源宋体和方正楷体制作。
+中文版额外使用免费商用字体仓耳周珂正大榜书、思源宋体和方正楷体制作。
 
-https://zznoah.itch.io/knave-chs
+[https://zznoah.itch.io/knave-chs](https://zznoah.itch.io/knave-chs)
