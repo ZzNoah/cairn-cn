@@ -2,6 +2,8 @@
 layout: default
 title: 恶棍 Knave
 nav_order: 100
+nav_exclude: true
+search_exclude: true
 ---
 
 # 恶棍 Knave
