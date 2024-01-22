@@ -30,6 +30,15 @@ search_exclude: true
 
 ***作者评注。***规则包含作者评注，每条规则的创作思路，以助于魔改游戏。
 
+<details close markdown="block">
+  <summary id="index">
+    目录
+  </summary>
+  {: .text-delta }
+- TOC
+{:toc}
+</details>
+
 # 角色创建
 
 ## 1
