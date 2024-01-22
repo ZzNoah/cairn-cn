@@ -1,8 +1,7 @@
 ---
 layout: default
 title: 恶棍 Knave
-nav_order: 6
-parent: Knave
+nav_order: 
 ---
 
 # 恶棍 Knave
