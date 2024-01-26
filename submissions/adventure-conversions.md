@@ -9,7 +9,7 @@ parent: 提交
 
 - 向《Cairn》网站提交冒险时，请遵循下述模板。
 - 文本转换请遵循[格式指南](/submissions/style-guide)。
-- 文件应按 [Markdown](/submissions/submission-guide/#markdown) 书写。文件名应用英文小写，并用 \*.md 后缀（譬如：cool-adventure.md），或用小写中文拼音（譬如：xuankumaoxian.md）。
+- 文件应按 [Markdown](/submissions/submission-guide/#markdown) 书写。文件名应用英文小写，并用 \*.md 后缀（譬如：cool-adventure.md），或用小写汉语拼音（譬如：xuankumaoxian.md）。
 - 确保在文件顶部添加 "front matter"（以`---`开头的部分），否则提交将无效。举例而言，见[此处](/adventures/conversions/stellarium-of-the-vinteralf)（原始文本[此处](https://github.com/yochaigal/cairn/blob/main/adventures/conversions/stellarium-of-the-vinteralf.md) ）。
 - 冒险提交应*始终*注明原作作者*以及*转换作者的署名。
 - 请链接到作者、冒险以及（假若你方便）你自己的网站或联系方式。
