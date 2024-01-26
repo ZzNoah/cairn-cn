@@ -5,55 +5,54 @@ nav_order: 2
 parent: 提交
 ---
 
-# Style Guide
+# 格式指南
 
-The following guides describe the expected format for submissions to the Cairn website.   
-**All submissions must be written in [markdown](/submissions/submission-guide/#markdown).**
+下述指南介绍了向《石冢》网站提交材料的预期格式。
+**所有提交须按 [markdown](/submissions/submission-guide/#markdown) 写作。**
 
-## Adventures
-- See the [adventure submission template](/submissions/adventure-conversions/#submission-template). 
-- Please follow the [monsters](#monsters) and [relics](#relics) guidelines for inclusion in the conversion. 
+## 冒险
+- 见[冒险提交模版](/submissions/adventure-conversions/#submission-template)。 
+- 请遵循[怪物](#怪物)和[奇物](#奇物)指引来纳入转换。 
 
-## Relics
-Relics utilize the following template:
+## 奇物
+奇物遵循如下模版：
 ```
-#### Relic Name, # charges
-- Note about the cool relic 
-- **Recharge**: How does it recharge (if applicable)
-```
-
-## Monsters (in an adventure conversion)
-- If an ability score is 10, you may omit it if you choose.
-- Note the _numbers_ appearing **before** the stats (e.g. 2 HP, 1 Armor)
-- The standard monster format is as follows:
-
-```
-#### Monster Name
-# HP, # Armor, # STR, # DEX, # WIL, weapon1 (d#), item or ability (special details)
-- Special 1 (critical damage, special abilities, etc)
-- **Critical Damage**: What happens?
+#### 奇物名称，# 发充能
+- 酷炫奇物说明
+- **充能**：如何重新充能（若可行）
 ```
 
-### Bestiary (the Monsters directory on the website)
-- Note the Front Matter (starting with `---`) at the beginning, and the empty line at the end. 
-- Note the space between the Monster Name, the stats, and the special entries.
-- Include every ability score, _even if they are only 10_. 
-- For an example, see [here](/resources/monsters/acolyte) and the raw text [here](https://github.com/yochaigal/cairn/blob/main/resources/monsters/acolyte.md)
-- Monster submissions to the website (distinct from an adventure conversion) must utilize the following format.
+## 怪物（在冒险转换中）
+- 若某项属性值为 10，则可选择忽略。
+- 注意*数值*要写在数据**前面**（譬如 2 HP，1 护甲）
+- 标准怪物格式如下：
 
+```
+#### 怪物名称
+# HP，# 护甲，# 力量，# 敏捷，# 意志，武器1（d#），物品或能力（特殊细节）
+- 特殊细节1（危急伤害，特殊能力，等等）
+- **危急伤害**：什么效果？
+```
+
+### 怪物志（网站上的怪物目录）
+- 注意 Front Matter（以 `---` 开头）和结尾的空行。
+- 注意怪物名称、数据、特殊条目之间的空格。
+- 包括每项属性值，*即使仅为 10 的*。
+- 举例而言，见[此处](/resources/monsters/acolyte)和原始文本[此处](https://github.com/yochaigal/cairn/blob/main/resources/monsters/acolyte.md)
+- 提交给网站的怪物（有别于冒险转换）须遵循下述格式。
 
 ```
 ---
 layout: default
-parent: Monsters
-grand_parent: Resources
+parent: 怪物
+grand_parent: 资源
 ---
 
-# Monster Name
+# 怪物名称
 
-# HP, # Armor, # STR, # DEX, # WIL, weapon1 (d#), item or ability (special details)
+# HP，# 护甲，# 力量，# 敏捷，# 意志，武器1（d#），物品或能力（特殊细节）
 
-- Special 1 (critical damage, special abilities, etc)
-- **Critical Damage**: What happens?
+- 特殊细节1（危急伤害，特殊能力，等等）
+- **危急伤害**：什么效果？
 
 ```
