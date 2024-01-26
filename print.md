@@ -1,7 +1,9 @@
 ---
 layout: default
-title: 实体书
+title: 购买实体书
 nav_order: 3
+nav_exclude: true
+search_exclude: true
 ---
 
 # Grab a print copy!
