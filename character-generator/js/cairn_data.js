@@ -1,5 +1,5 @@
 gen_data['character'] = [
-  '你是<i>{name}·{surname}</i>，曾任{background}。你体格{physique}，皮肤{skin}，毛发{hair}，面容{face}。你言谈{speech}，衣物{clothing}。你{vice}但{virtue}，并公认{reputation}。你不幸遭受了{misfortune}。'
+  '我叫<i>{name}·{surname}</i>，曾任{background}。我体格{physique}，皮肤{skin}，毛发{hair}，面容{face}。我言谈{speech}，衣物{clothing}。我{vice}但{virtue}，并公认{reputation}。我不幸遭受了{misfortune}。'
 ]
 
 gen_data['name'] = [
