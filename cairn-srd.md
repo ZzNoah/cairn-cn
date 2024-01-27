@@ -12,7 +12,7 @@ nav_order: 2
 **《石冢》**遵循 [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) 许可协议。  
 可阅览 [repo](https://github.com/ZzNoah/cairn-cn/) 或下载本游戏的其他[格式](https://drive.google.com/drive/u/0/folders/1dNGoSErZRApJr6R7mI3BAOhfkr4SOpPm)（譬如 .docx、.afpub、谷歌文档等）。
 
-**《石冢》**这款冒险游戏适用于一名主持人（**监守**）和至少一名其他玩家。
+**《石冢》**这款冒险游戏适用于一名主持人（**监守**）和至少一名其他玩家。  
 玩家扮演坚韧不拔的冒险家，探索黑暗而神秘的森林，里面到处都是怪诞民俗、隐秘财宝和难以言喻的怪物。
 
 <details close markdown="block">
