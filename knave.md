@@ -10,11 +10,6 @@ search_exclude: true
 
 <iframe frameborder="0" src="https://itch.io/embed/2430306?dark=true" width="552" height="167"><a href="https://zznoah.itch.io/knave-chs">恶棍（Knave）中文版 by ZzNoah, Qi（niangao）</a></iframe>
 
-落霞与孤鹜齐飞，秋水共长天一色。  
-*落霞与孤鹜齐飞，秋水共长天一色。*  
-**落霞与孤鹜齐飞，秋水共长天一色。**
-
-
 《恶棍》（Knave）是 Ben Milton 创作的规则工具集，旨在运行无职业老派角色扮演游戏。在此欢迎并鼓励大家对规则进行增补、削减和修改。《恶棍》特点如下：
 
 ***高度兼容 OSR 游戏。***若是你有 OSR 怪物书、冒险书和法术书，则几乎无需转换就能用到《恶棍》当中。
