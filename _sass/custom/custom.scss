@@ -2,11 +2,11 @@
 
 @font-face {
    font-family: lxgwwenkai;
-   src: url(https://github.com/lxgw/LxgwWenKai/releases/download/v1.315/LXGWWenKai-Regular.ttf);
+   src: url('LXGWWenKai-Regular.ttf');
 }
 
-body{
-   font-family: 'lxgwwenkai';
+body {
+   font-family: 'Alegria', 'lxgwwenkai';
    font-feature-settings: "lnum";
 }
 
