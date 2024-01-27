@@ -5,9 +5,15 @@
    src: url('LXGWWenKai-Regular.ttf');
 }
 
+@font-face {
+  font-family: lxgwwenkai;
+  src: url('LXGWWenKai-Bold.ttf');
+  font-weight: bold;
+}
+
 body {
    font-family: 'lxgwwenkai', serif;
-   font-feature-settings: "lnum";
+   font-feature-settings: "lnum"; /*Lining Figures for nicer fit with Chinese characters*/
 }
 
 tr:nth-child(even) td{
