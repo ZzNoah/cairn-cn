@@ -4,7 +4,7 @@ title: SRD
 nav_order: 2
 ---
 
-# 《石冢》系统参考文档（v.1.0）
+# 《石冢 Cairn》系统参考文档
 {: .no_toc }
 
 <p></p>
