@@ -13,7 +13,7 @@ permalink: /
 全文遵循 [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) 许可协议。  
 Affinity Publisher 源文件也免费附赠。
 
-这是款重视社区贡献的游戏！若你想提交冒险、魔改、怪物或转换，请查看[提交指南](/submissions/submission-guide)。
+这款游戏重视社区贡献！若想提交冒险、魔改、怪物、转换等，请参考[提交指南](/submissions/submission-guide)。
 
 <p></p>
 
