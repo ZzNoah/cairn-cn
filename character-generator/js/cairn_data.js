@@ -69,7 +69,7 @@ gen_data['surname'] = [
 ]
 
 gen_data['background'] = [
-  '炼金师'
+'炼金师'
 ,  '铁匠'
 ,  '窃贼'
 ,  '屠夫'
@@ -92,7 +92,7 @@ gen_data['background'] = [
 ]
 
 gen_data['physique'] = [
-  '匀称'
+'匀称'
 ,  '健壮'
 ,  '高耸'
 ,  '矮胖'
@@ -105,7 +105,7 @@ gen_data['physique'] = [
 ]
 
 gen_data['skin'] = [
-  '深暗'
+'深暗'
 ,  '胎记'
 ,  '晒黑'
 ,  '瘢麻'
@@ -118,7 +118,7 @@ gen_data['skin'] = [
 ]
 
 gen_data['hair'] = [
-  '光秃'
+'光秃'
 ,  '编辫'
 ,  '油滑'
 ,  '波浪'
@@ -131,7 +131,7 @@ gen_data['hair'] = [
 ]
 
 gen_data['face'] = [
-  '棱角'
+'棱角'
 ,  '方脸'
 ,  '骨感'
 ,  '锋利'
@@ -144,7 +144,7 @@ gen_data['face'] = [
 ]
 
 gen_data['speech'] = [
-  '粗钝'
+'粗钝'
 ,  '洪亮'
 ,  '单调'
 ,  '沙哑'
@@ -157,7 +157,7 @@ gen_data['speech'] = [
 ]
 
 gen_data['clothing'] = [
-  '古朴'
+'古朴'
 ,  '血腥'
 ,  '馊臭'
 ,  '污脏'
@@ -170,7 +170,7 @@ gen_data['clothing'] = [
 ]
 
 gen_data['virtue'] = [
-  '雄心'
+'雄心'
 ,  '勇敢'
 ,  '自律'
 ,  '荣耀'
@@ -183,7 +183,7 @@ gen_data['virtue'] = [
 ]
 
 gen_data['vice'] = [
-  '好斗'
+'好斗'
 ,  '刻薄'
 ,  '怯懦'
 ,  '狡诈'
@@ -196,7 +196,7 @@ gen_data['vice'] = [
 ]
 
 gen_data['reputation'] = [
-  '古怪'
+'古怪'
 ,  '睿智'
 ,  '尊敬'
 ,  '雄心'
@@ -209,7 +209,7 @@ gen_data['reputation'] = [
 ]
 
 gen_data['misfortune'] = [
-  '遗弃'
+'遗弃'
 ,  '成瘾'
 ,  '勒索'
 ,  '蒙罪'
@@ -222,7 +222,7 @@ gen_data['misfortune'] = [
 ]
 
 gen_data['equipment'] = [
-  '护甲：{armor}<br>头盔/盾牌：{helmet}<br>武器：{weapons}<br>物品：{tool,gear,trinket}<br>额外物品：{bonus}'
+'护甲：{armor}<br>头盔/盾牌：{helmet}<br>武器：{weapons}<br>物品：{tool,gear,trinket}<br>额外物品：{bonus}'
 ]
 gen_data['armor'] = {
   '1-3': '无上身防具',
@@ -245,10 +245,10 @@ gen_data['weapons'] = {
 '20':'{wgroup4}'
 }
 
-gen_data['wgroup1'] = ['匕首', '棍棒', '杖']
-gen_data['wgroup2'] = ['剑', '硬头锤', '斧']
-gen_data['wgroup3'] = ['弓（笨重）', '弩（笨重）', '投石索']
-gen_data['wgroup4'] = ['戟（笨重）', '战锤（笨重）', '战斧（笨重）']
+gen_data['wgroup1'] = ['匕首（d6）', '棍棒（d6）', '杖（d6）']
+gen_data['wgroup2'] = ['剑（d8）', '硬头锤（d8）', '斧（d8）']
+gen_data['wgroup3'] = ['弓（d6，笨重）', '弩（d6，笨重）', '投石索（d4）']
+gen_data['wgroup4'] = ['戟（d10，笨重）', '战锤（d10，笨重）', '战斧（d10，笨重）']
 
 gen_data['armor_weapons'] = {
   '1-10':'{armor}',
