@@ -2,7 +2,7 @@
 layout: default
 title: 常见问题 FAQs
 parent: 资源
-nav_order: 1
+nav*order: 1
 ---
 
 # 常见问题 FAQs
@@ -30,31 +30,31 @@ nav_order: 1
 展开示例
  </summary>
 
-**Warden**: _"You've spent the better part of the morning cutting your way through the **Geunant Forest**, chopping past hanging vines and waist-high brambles. It is very easy to get lost here among the surrounding underbrush. To make matters worse the Sun is completely obscured by the thick overhead branches."_
+**Warden**: *"You've spent the better part of the morning cutting your way through the **Geunant Forest**, chopping past hanging vines and waist-high brambles. It is very easy to get lost here among the surrounding underbrush. To make matters worse the Sun is completely obscured by the thick overhead branches."*
 
-**Barry**: _"Does my **Hunter** background help at all?"_
+**Barry**: *"Does my **Hunter** background help at all?"*
 
-**Warden:** _"Yes, though you have to stop every few minutes to survey your surroundings; progress is slow-going as a result. You continue heading East towards your destination."_
+**Warden:** *"Yes, though you have to stop every few minutes to survey your surroundings; progress is slow-going as a result. You continue heading East towards your destination."*
 
-**Warden:** _"After a few hours you exit into a small clearing in the wood, perfect for a short break. On the other end of the clearing is a small, visible path heading East. The entrance to the path is blocked by a large flowering plant sitting in a solitary sunbeam; it drips a green ichor from open, blue pods."_
+**Warden:** *"After a few hours you exit into a small clearing in the wood, perfect for a short break. On the other end of the clearing is a small, visible path heading East. The entrance to the path is blocked by a large flowering plant sitting in a solitary sunbeam; it drips a green ichor from open, blue pods."*
 
-**Esther**: _"As a former **Herbalist**, do I recognize this plant?"_
+**Esther**: *"As a former **Herbalist**, do I recognize this plant?"*
 
-**Warden**: _"Yes. You also know that it is probably overgrown on account of the sunbeam drenching it in natural light."_
+**Warden**: *"Yes. You also know that it is probably overgrown on account of the sunbeam drenching it in natural light."*
 
-**Esther**: _"What do the colors tell me about the plant? Is it poisonous? What about the green ichor?"_
+**Esther**: *"What do the colors tell me about the plant? Is it poisonous? What about the green ichor?"*
 
-**Warden**: _"You observe all these things, and reckon that yes it is very likely poisonous, as the petals closely resemble that of Wolfsbane."_
+**Warden**: *"You observe all these things, and reckon that yes it is very likely poisonous, as the petals closely resemble that of Wolfsbane."*
 
-**Barry**: _"All right, here's the plan: I'll climb up one of these trees above the plant and drape my blanket over it, blocking the sunlight. Hopefully that'll make the pods close up!"_
+**Barry**: *"All right, here's the plan: I'll climb up one of these trees above the plant and drape my blanket over it, blocking the sunlight. Hopefully that'll make the pods close up!"*
 
-**Warden**: _"You carefully lay your sleeping blanket between to trunks, casting a shadow over the blue pods of the plant below. Immediately they begin to close, just enough to allow a careful person to squeeze around them."_
+**Warden**: *"You carefully lay your sleeping blanket between to trunks, casting a shadow over the blue pods of the plant below. Immediately they begin to close, just enough to allow a careful person to squeeze around them."*
 
-**Esther**: _"Excellent. I'm going to carefully extract one of the leaves for later use, then move on."_
+**Esther**: *"Excellent. I'm going to carefully extract one of the leaves for later use, then move on."*
 
 **What if none of the PCs had any relevant experience or expertise?**
 - Had there been no PC with the **Herbalist** background, the Warden would likely have declared the PCs ignorant of the plant's properties, and (hopefully) the players would try to learn more by asking questions and experimentation.
-- If a PC had a _tangential_ background (like the **Hunter**) the Warden could let the [Fates decide](/cairn-srd/#die-of-fate) and roll 1d6. The higher the roll, the more likely the PC would know something relevant or useful.
+- If a PC had a *tangential* background (like the **Hunter**) the Warden could let the [Fates decide](/cairn-srd/#die-of-fate) and roll 1d6. The higher the roll, the more likely the PC would know something relevant or useful.
 
 </details>
 
@@ -66,32 +66,32 @@ nav_order: 1
 展开示例
  </summary>
 
-**Warden**: _"By late afternoon you finally break through the forest boundary. Spilling out of the treeline, you nearly step into a deep chasm splitting the forest in two. Finally, you have arrived at the **God-Slip**, a seemingly endless ravine with no bridge crossing it. Judging by the sheer rock walls on either side, climbing down would be extremely dangerous. Unfortunately, your quarry is likely located just across, where the cliffs meet the edge of the world. There is a small clearing nearby where you could set up camp, shrouded by a humongous Oak tree planted close to the chasm."_
+**Warden**: *"By late afternoon you finally break through the forest boundary. Spilling out of the treeline, you nearly step into a deep chasm splitting the forest in two. Finally, you have arrived at the **God-Slip**, a seemingly endless ravine with no bridge crossing it. Judging by the sheer rock walls on either side, climbing down would be extremely dangerous. Unfortunately, your quarry is likely located just across, where the cliffs meet the edge of the world. There is a small clearing nearby where you could set up camp, shrouded by a humongous Oak tree planted close to the chasm."*
 
-**Esther**: _"I think we should make camp before moving out. If we have to climb into or around this chasm, I'd rather have the light on our side!"_
+**Esther**: *"I think we should make camp before moving out. If we have to climb into or around this chasm, I'd rather have the light on our side!"*
 
-**Barry**: _"Definitely. I wonder what the safest way to do it would be? Backs against the ravine?"_
+**Barry**: *"Definitely. I wonder what the safest way to do it would be? Backs against the ravine?"*
 
-**Warden**: _"Yes, unless of course something comes out of it!" Who's on first watch, by the way?"_
+**Warden**: *"Yes, unless of course something comes out of it!" Who's on first watch, by the way?"*
 
-**Esther**: _"I'll take first shift._"
+**Esther**: *"I'll take first shift.*"
 
-**Warden**: _"You make camp and eat one of your rations. Halfway through the first shift, you hear a snapping of twigs coming from just to the West of the campsite, back towards the **Geunant Forest**. What do you do?"_
+**Warden**: *"You make camp and eat one of your rations. Halfway through the first shift, you hear a snapping of twigs coming from just to the West of the campsite, back towards the **Geunant Forest**. What do you do?"*
 
-**Esther**: _"I'd like to kick my comrade awake so I'm not alone in this, quietly nodding my head towards the direction of the noise and making the symbol for silence."_
+**Esther**: *"I'd like to kick my comrade awake so I'm not alone in this, quietly nodding my head towards the direction of the noise and making the symbol for silence."*
 
-**Warden**: _"You do that, and he sits up just as a pair of horrid red eyes become visible behind the underbrush._"
+**Warden**: *"You do that, and he sits up just as a pair of horrid red eyes become visible behind the underbrush.*"
 
-**Barry**: _"What do we know about the creatures here?"_
+**Barry**: *"What do we know about the creatures here?"*
 
-**Warden**: _"You know that whatever creatures may be stalking this forest at night are very likely dangerous. You will likely not have time to chat with whatever is about to come out of there."_
+**Warden**: *"You know that whatever creatures may be stalking this forest at night are very likely dangerous. You will likely not have time to chat with whatever is about to come out of there."*
 
-**Esther**: _"I'm prepared to fight, then. I stand up and draw my sword, ready for whatever comes."_
+**Esther**: *"I'm prepared to fight, then. I stand up and draw my sword, ready for whatever comes."*
 
 </details>
 
 ## 如何决定回合顺序？
-有些游戏依靠「先攻」来决定谁在战斗时率先行动。在**《石冢》**中，每名 PC 须通过一次**敏捷豁免**，才能在对手之前行动。这该轮结束后，双方轮流行动，而每方个体按任意细分顺序行动。在某些情况下，**敏捷豁免**可能_不必_进行，尤其是当 PC 或 NPC 正在警戒或是准备攻击时。
+有些游戏依靠「先攻」来决定谁在战斗时率先行动。在**《石冢》**中，每名 PC 须通过一次**敏捷豁免**，才能在对手之前行动。这该轮结束后，双方轮流行动，而每方个体按任意细分顺序行动。在某些情况下，**敏捷豁免**可能*不必*进行，尤其是当 PC 或 NPC 正在警戒或是准备攻击时。
 
 **一场标准战斗情景类似下文：**
 
@@ -100,8 +100,8 @@ nav_order: 1
 - 所有敌人按**监守**选定的顺序行动；行动结果同时结算。
 
 ### 第 2 轮
-- _所有_ PC（包括未能通过开场敏捷豁免的）按任意顺序行动。但行动结果同时结算。
-- _所有_敌人按监守选定的顺序行动；行动结果同时结算。
+- *所有* PC（包括未能通过开场敏捷豁免的）按任意顺序行动。但行动结果同时结算。
+- *所有*敌人按监守选定的顺序行动；行动结果同时结算。
 
 ### 第 3 轮
 - 所有 PC 行动，参照第 2 轮。
@@ -114,15 +114,15 @@ nav_order: 1
 展开示例
  </summary>
 
-**Warden**: _"An Elk-like creature with glowing-red eyes explodes from the darkness of the wood opposite the party's campsite. A sea of mist flows off the creature's body as it runs directly at you, **Barry**. **Esther** was at the ready, so she gets to go first."_
+**Warden**: *"An Elk-like creature with glowing-red eyes explodes from the darkness of the wood opposite the party's campsite. A sea of mist flows off the creature's body as it runs directly at you, **Barry**. **Esther** was at the ready, so she gets to go first."*
 
-**Barry**: _"What about me?"_
+**Barry**: *"What about me?"*
 
-**Warden**: _"You'll need to make a **DEX save** to see if you are able to ready yourself in time to react before the creature."_
+**Warden**: *"You'll need to make a **DEX save** to see if you are able to ready yourself in time to react before the creature."*
 
-**Barry**: _"I rolled 1d20, and the result is a 17. Ouch."_
+**Barry**: *"I rolled 1d20, and the result is a 17. Ouch."*
 
-**Warden**: _"Yes, that's a fail. **Esther** will go first, then the creature. After that you both will go again in any order you wish, then the creature, and so on."_
+**Warden**: *"Yes, that's a fail. **Esther** will go first, then the creature. After that you both will go again in any order you wish, then the creature, and so on."*
 
 </details>
 
@@ -132,28 +132,28 @@ PC 或 NPC 仅在至少符合以下条件之一时，才应进行**豁免**：
 - 某事物在承担风险（生命，危机，等等）。
 - 在[**战斗**](/cairn-srd/#critical-damage)中进行危急伤害豁免。
 
-**豁免**可在战斗内外发生。PC 或 NPC_几乎_永远无需为承受攻击进行**豁免**，因为攻击会自动命中。然而，在某些情况，故事可能会规定攻击直接失败或不可能实现。
+**豁免**可在战斗内外发生。PC 或 NPC*几乎*永远无需为承受攻击进行**豁免**，因为攻击会自动命中。然而，在某些情况，故事可能会规定攻击直接失败或不可能实现。
 
 <details markdown="block">
   <summary>
 展开示例
  </summary>
 
-**Esther**: _"Do we know anything about this creature?"_
+**Esther**: *"Do we know anything about this creature?"*
 
-**Warden**: _"Yes - it's a [**Blood Elk**](/resources/monsters/blood-elk/), which is a sort of killer deer born from great greed or envy. They are pretty powerful, from what you've heard."_
+**Warden**: *"Yes - it's a [**Blood Elk**](/resources/monsters/blood-elk/), which is a sort of killer deer born from great greed or envy. They are pretty powerful, from what you've heard."*
 
-**Esther**: _"Spooky! In that case, I want to use my action to help drag my comrade out of the way, maybe towards that Oak tree you mentioned earlier."_
+**Esther**: *"Spooky! In that case, I want to use my action to help drag my comrade out of the way, maybe towards that Oak tree you mentioned earlier."*
 
-**Warden**: _"You were already standing and ready to go, so I'm going to rule that this just happens, too quickly for the creature to change its trajectory. You manage to pull **Barry** just to the East of the now-trampled campsite, close to the Oak tree located just steps away from the **God-Slip**. Now, it's the **Blood Elk's** turn. It plows through the space **Barry** once occupied, wrecking the campfire. It swings wildly around, nearly careening off the cliff-face in the process. It's eyes glow a hateful violet as it turns back towards the both of you. **Barry**, it's your turn. You should note that you have only your hip-knife for combat, as everything else is still back at the camp. Worse, the darkness has impeded your ability to see more than its flaming red eyes. Use 1d4 when rolling damage."_
+**Warden**: *"You were already standing and ready to go, so I'm going to rule that this just happens, too quickly for the creature to change its trajectory. You manage to pull **Barry** just to the East of the now-trampled campsite, close to the Oak tree located just steps away from the **God-Slip**. Now, it's the **Blood Elk's** turn. It plows through the space **Barry** once occupied, wrecking the campfire. It swings wildly around, nearly careening off the cliff-face in the process. It's eyes glow a hateful violet as it turns back towards the both of you. **Barry**, it's your turn. You should note that you have only your hip-knife for combat, as everything else is still back at the camp. Worse, the darkness has impeded your ability to see more than its flaming red eyes. Use 1d4 when rolling damage."*
 
-**Barry**: _"Screaming, I launch my dagger straight at the creature. I roll 1d4 and the result is a 1."_
+**Barry**: *"Screaming, I launch my dagger straight at the creature. I roll 1d4 and the result is a 1."*
 
-**Warden**: _"The knife flies expertly from your hand, slicing through the misty air just above the creature, landing a few feet behind it. The beast whinnies in anger, then crouches as it prepares to charge again. It's your side's turn now. Go in any order."_
+**Warden**: *"The knife flies expertly from your hand, slicing through the misty air just above the creature, landing a few feet behind it. The beast whinnies in anger, then crouches as it prepares to charge again. It's your side's turn now. Go in any order."*
 
-**Esther**: _"I have an idea: the creature previously charged at **Barry**, right? So it seems reasonable that it would do so again. What if I tossed one end of my rope to **Barry**, and then looped it to a nearby tree? Then if it comes close enough try and trample him again, he could just... leap off the cliff? Holding the rope for support, of course."_
+**Esther**: *"I have an idea: the creature previously charged at **Barry**, right? So it seems reasonable that it would do so again. What if I tossed one end of my rope to **Barry**, and then looped it to a nearby tree? Then if it comes close enough try and trample him again, he could just... leap off the cliff? Holding the rope for support, of course."*
 
-**Barry**: _"Uh... That sounds like a plan, I guess. Yes, let's do it!"_
+**Barry**: *"Uh... That sounds like a plan, I guess. Yes, let's do it!"*
 
 **Why didn't Barry need to save in order to successfully wrap the rope around the tree?**  
 On a turn, a PC can attempt any action; a **save** is only required if one of the conditions listed above are met. It seemed reasonable that **Barry** would be able to make a mad dash around the tree (which was only a few feet away) with the rope without much danger. Had he tried to run close to the **Blood Elk** or done something equally uncertain or dangerous, he would have been required to **save**.
@@ -161,18 +161,18 @@ On a turn, a PC can attempt any action; a **save** is only required if one of th
 </details>
 
 ## 在对抗行动中，由哪方进行豁免？
-若两名对手都试图战胜对方，则应由承担最多风险的那方进行**豁免**。监守应在这方面做出_前后一致_的裁决，并尽可能在冒险之前向玩家解释清楚。
+若两名对手都试图战胜对方，则应由承担最多风险的那方进行**豁免**。监守应在这方面做出*前后一致*的裁决，并尽可能在冒险之前向玩家解释清楚。
 
 <details markdown="block">
    <summary>
  展开示例
   </summary>
 
-**Warden**: _"**Esther**, you toss one end of your rope to **Barry**, who quickly loops the rope around the Oak tree, then rushes towards the cliff-face on the other side, screaming at the creature to charge at him. **Esther** takes point as a sort of ballast in case he falls. **Barry**, as you are in position to react, I'm going to allow you a sort of out of combat reaction."_
+**Warden**: *"**Esther**, you toss one end of your rope to **Barry**, who quickly loops the rope around the Oak tree, then rushes towards the cliff-face on the other side, screaming at the creature to charge at him. **Esther** takes point as a sort of ballast in case he falls. **Barry**, as you are in position to react, I'm going to allow you a sort of out of combat reaction."*
 
-**Barry**: _"All right, if it comes near me I'd like to stand near the cliff edge, ready to leap out of the way."_
+**Barry**: *"All right, if it comes near me I'd like to stand near the cliff edge, ready to leap out of the way."*
 
-**Warden**: _"Understood. It is now the **Blood Elk's** turn, and obviously it's still very angry at you, **Barry**. Raising its devilish hooves, the beast charges towards you once again. You leap off the cliff at the last second, holding onto the rope with all your might. The **Blood Elk** attempts to halt its attack the moment it sees its target falling. It makes a **DEX save** to see if it can successfully stop. Ack, it rolled a 20, and goes tumbling off the cliff and into the vast dark below."_
+**Warden**: *"Understood. It is now the **Blood Elk's** turn, and obviously it's still very angry at you, **Barry**. Raising its devilish hooves, the beast charges towards you once again. You leap off the cliff at the last second, holding onto the rope with all your might. The **Blood Elk** attempts to halt its attack the moment it sees its target falling. It makes a **DEX save** to see if it can successfully stop. Ack, it rolled a 20, and goes tumbling off the cliff and into the vast dark below."*
 
 **Why didn't the Blood Elk make an attack roll, as the combat rules imply?**
 The attack was considered possible, but very dangerous as well. Had the creature used a ranged attack or was a trained melee attacker it would have been far less risky to attack **Barry**. Unfortunately it was a beast, and only capable of running people down with its sharp hooves.
@@ -199,46 +199,46 @@ If **Barry** had been injured or had less time to prepare, it would be conceivab
 展开示例
  </summary>
 
-**Warden**: "_After your encounter with the **Blood Elk**, you return to camp and try to catch as much sleep as they can. By daybreak both of you are awake and ready to continue on your journey."_
+**Warden**: "*After your encounter with the **Blood Elk**, you return to camp and try to catch as much sleep as they can. By daybreak both of you are awake and ready to continue on your journey."*
 
-**Esther**: _"Right. The question is, how do we cross the **God-Slip**? Are there any bridges at our level?"_
+**Esther**: *"Right. The question is, how do we cross the **God-Slip**? Are there any bridges at our level?"*
 
-**Warden**: _"Not that you can see. In the far North a copse of trees hugs the ravine and partially blocks your way; you'd need to explore a bit to see past them.  A few hundred meters South however you can see a small shelf jutting out from inside the ravine, probably fifty feet down. It makes a sort of "L" shape, getting pretty close to the other side. It might require a little work to shimmy onto, but it seems doable."_
+**Warden**: *"Not that you can see. In the far North a copse of trees hugs the ravine and partially blocks your way; you'd need to explore a bit to see past them.  A few hundred meters South however you can see a small shelf jutting out from inside the ravine, probably fifty feet down. It makes a sort of "L" shape, getting pretty close to the other side. It might require a little work to shimmy onto, but it seems doable."*
 
-**Barry**: _"I say, let's go for the shelf. Still got that rope and pitons?"_
+**Barry**: *"I say, let's go for the shelf. Still got that rope and pitons?"*
 
-**Esther**: _"Yeah, I don't see a better way across. Let's go."_
+**Esther**: *"Yeah, I don't see a better way across. Let's go."*
 
-**Warden**: _"After a half hour's walk along the ravine, you finally arrive at a spot just above the shelf. Deep within the chasm you can see a blanket of early morning fog, and just beneath it the glitter of rushing water."_
+**Warden**: *"After a half hour's walk along the ravine, you finally arrive at a spot just above the shelf. Deep within the chasm you can see a blanket of early morning fog, and just beneath it the glitter of rushing water."*
 
-**Barry**: _"Are there any large stones near the edge? I'd like to hammer a piton into it, then loop our rope through. I can lower myself safely into the ravine and onto the shelf."_
+**Barry**: *"Are there any large stones near the edge? I'd like to hammer a piton into it, then loop our rope through. I can lower myself safely into the ravine and onto the shelf."*
 
-**Warden**: _"You find a large stone along the edge and hammer the piton into it."_
+**Warden**: *"You find a large stone along the edge and hammer the piton into it."*
 
-**Barry**: _"Great, I lower myself down, then light up my lantern. **Esther** will follow, I assume."_
+**Barry**: *"Great, I lower myself down, then light up my lantern. **Esther** will follow, I assume."*
 
-**Warden**: _"Carefully planting your feet on the shelf, you test the rope and call up to **Esther**, who climbs down. After she has arrived safely on the shelf, you survey your surroundings. The shelf appears to zigzag down the inside of the ravine, nearly to the bottom. The sound of rushing water below fills the ravine. Do you leave the rope behind for the return journey?"_
+**Warden**: *"Carefully planting your feet on the shelf, you test the rope and call up to **Esther**, who climbs down. After she has arrived safely on the shelf, you survey your surroundings. The shelf appears to zigzag down the inside of the ravine, nearly to the bottom. The sound of rushing water below fills the ravine. Do you leave the rope behind for the return journey?"*
 
-**Esther**: _"Unfortunately, yes. I'm also going to mark our location on my map. Who knows if it'll make a difference, but just in case... OK, let's get out of here."_
+**Esther**: *"Unfortunately, yes. I'm also going to mark our location on my map. Who knows if it'll make a difference, but just in case... OK, let's get out of here."*
 
-**Warden**: _"You move carefully along the shelf, digging your fingers into the cliff-face for safety. After an arduous fifteen minutes, you finally arrive at a small waterfall blocking the path forward. Icy water flows down the slippery rock surface and into a small basin below. The rock wall is slick with moss here, and you will likely slip if you try to step through. What do you do?"_
+**Warden**: *"You move carefully along the shelf, digging your fingers into the cliff-face for safety. After an arduous fifteen minutes, you finally arrive at a small waterfall blocking the path forward. Icy water flows down the slippery rock surface and into a small basin below. The rock wall is slick with moss here, and you will likely slip if you try to step through. What do you do?"*
 
-**Barry**: _"Is there another way forward?"_
+**Barry**: *"Is there another way forward?"*
 
-**Warden**: _"Not from what you can tell. You could try and climb down, but it is quite dark and likely even more dangerous."_
+**Warden**: *"Not from what you can tell. You could try and climb down, but it is quite dark and likely even more dangerous."*
 
-**Barry**: _"OK, I think I'll try my luck with the waterfall, thank you. **Esther**, can you hold on to my bag as I step through?"_
+**Barry**: *"OK, I think I'll try my luck with the waterfall, thank you. **Esther**, can you hold on to my bag as I step through?"*
 
-**Esther**: _"And have you take me with you? No thanks!"_
+**Esther**: *"And have you take me with you? No thanks!"*
 
-**Warden**: _"You'll have to make a **DEX save** to see if you can cross over the slick surface without slipping."_
+**Warden**: *"You'll have to make a **DEX save** to see if you can cross over the slick surface without slipping."*
 
-**Barry**: _"OK, I hand **Esther** my lantern so I can use both hands.... and I rolled a 14, a fail. Damn."_
+**Barry**: *"OK, I hand **Esther** my lantern so I can use both hands.... and I rolled a 14, a fail. Damn."*
 
-**Warden**: _"You slip and tumble down the waterfall and into the water-filled basin below, smacking your hand hard into the side of the pool at the same time. You lose 1d4 DEX damage, and you are unable to properly squeeze items in your dominant hand. It's almost completely dark, but you can still make out the light of your comrade's torch above."_
+**Warden**: *"You slip and tumble down the waterfall and into the water-filled basin below, smacking your hand hard into the side of the pool at the same time. You lose 1d4 DEX damage, and you are unable to properly squeeze items in your dominant hand. It's almost completely dark, but you can still make out the light of your comrade's torch above."*
 
 **Which Ability should non-combat damage impact?**
-- If the injury affects their physical strength or health, subtract from **STR**. _This does not trigger a **critical damage save**_. **STR** is a reflection of a PC's health, and should reflect that in subtle but interesting ways: perhaps requiring a **save** where none would have been necessary before.
+- If the injury affects their physical strength or health, subtract from **STR**. *This does not trigger a **critical damage save***. **STR** is a reflection of a PC's health, and should reflect that in subtle but interesting ways: perhaps requiring a **save** where none would have been necessary before.
 - If the injury impacts their ability to move, react quickly, or their fine motor skills, subtract from **DEX**. This frequently is paired with an in-fiction impact as well; broken fingers would impact a PC's ability to pick locks, for example.
 - If the spirit, willpower, or determination of a PC has been impacted, subtract from **WIL**. Especially helpful to consider during magical or superficial injuries. A PC whose soul was burnt by arcane energy may need to make a **WIL** save to read Spellbooks, for example.
 
@@ -257,57 +257,57 @@ A few considerations:
 展开示例
  </summary>
 
-**Barry**: _"Well, that was a bad idea! How exactly am I going to get back up? Unless... hey, how much can I see into the darkness below?"_
+**Barry**: *"Well, that was a bad idea! How exactly am I going to get back up? Unless... hey, how much can I see into the darkness below?"*
 
-**Warden**: _"There isn't much light here, but something glints in the darkness beneath you. If you had more light, you could perhaps make out what it is."_
+**Warden**: *"There isn't much light here, but something glints in the darkness beneath you. If you had more light, you could perhaps make out what it is."*
 
-**Esther**: _"Why don't I toss him down my lantern. Does that require a roll?"_
+**Esther**: *"Why don't I toss him down my lantern. Does that require a roll?"*
 
-**Warden**: _"Normally, no. But remember his hand is still somewhat injured from the fall. I'm going to say that he has to roll, since he's also the most at risk."_
+**Warden**: *"Normally, no. But remember his hand is still somewhat injured from the fall. I'm going to say that he has to roll, since he's also the most at risk."*
 
-**Barry**: _"I rolled a 3. Finally!"_
+**Barry**: *"I rolled a 3. Finally!"*
 
-**Warden**: _"**Barry**, you catch it without issue. Now you get a decent view of the chasm beneath. You see a series of small waterfalls, basins and protruding shelves going all the way down to a rushing river on the bottom. There is even a narrowing of the ravine itself about 50 feet South where you could conceivably leap over to the other side!"_
+**Warden**: *"**Barry**, you catch it without issue. Now you get a decent view of the chasm beneath. You see a series of small waterfalls, basins and protruding shelves going all the way down to a rushing river on the bottom. There is even a narrowing of the ravine itself about 50 feet South where you could conceivably leap over to the other side!"*
 
-**Barry**: _"Ha! I knew this was a good idea. But how do we get down there?"_
+**Barry**: *"Ha! I knew this was a good idea. But how do we get down there?"*
 
-**Warden**: _"You can actually slide down the waterfall pouring out from the small pool you're already standing in... it's a short drop, so you aren't in any great danger, even with that hand of yours."_
+**Warden**: *"You can actually slide down the waterfall pouring out from the small pool you're already standing in... it's a short drop, so you aren't in any great danger, even with that hand of yours."*
 
-**Esther**: _"And how exactly do I get down there, though? Wait, I've got an idea. I can see him, right? What if I were to jump..."_
+**Esther**: *"And how exactly do I get down there, though? Wait, I've got an idea. I can see him, right? What if I were to jump..."*
 
-**Barry**: _"...Am I supposed to catch you? With which hand, exactly?"_
+**Barry**: *"...Am I supposed to catch you? With which hand, exactly?"*
 
-**Esther**: _"Don't be ridiculous. You'll be my landing pad."_
+**Esther**: *"Don't be ridiculous. You'll be my landing pad."*
 
-**Warden**: _"You should know that you aren't in any terrible danger here since you're actually aiming for the pool, but that doesn't mean it's risk-free. You'll need to hold on to the wall with both hands, and it should be a bumpy ride. Something could pop loose."_
+**Warden**: *"You should know that you aren't in any terrible danger here since you're actually aiming for the pool, but that doesn't mean it's risk-free. You'll need to hold on to the wall with both hands, and it should be a bumpy ride. Something could pop loose."*
 
-**Esther**: _"OK, my DEX isn't great, but here goes anyways... and I rolled an 13, a fail. See **Barry**? You're not the only one with bad luck around here."_
+**Esther**: *"OK, my DEX isn't great, but here goes anyways... and I rolled an 13, a fail. See **Barry**? You're not the only one with bad luck around here."*
 
-**Warden**: _"You make it, but the journey down wasn't fun. One item from your pack is knocked loose, so I'm going to roll a Fate die... hey, a lucky 5! OK, you get to choose what falls out."_
+**Warden**: *"You make it, but the journey down wasn't fun. One item from your pack is knocked loose, so I'm going to roll a Fate die... hey, a lucky 5! OK, you get to choose what falls out."*
 
-**Esther**: _"If I get to choose what I lose though... how about my remaining torch? Everything else is just too important, and we still have a lantern and oil."_
+**Esther**: *"If I get to choose what I lose though... how about my remaining torch? Everything else is just too important, and we still have a lantern and oil."*
 
-**Warden**: _"You hear the small metal shard bounce against the ravine wall, ending in a splash as it lands in the flowing water beneath."_
+**Warden**: *"You hear the small metal shard bounce against the ravine wall, ending in a splash as it lands in the flowing water beneath."*
 
 </details>
 
 ## 不用等级或 XP，PC 该怎么变强？
-在**《石冢》**中，角色_成长_优先于_提升_。这意味着，尽管 PC _的确会_变化，但不一定会随时间_变强_。成长既通过机制（譬如[**伤疤**](/cairn-srd/#scars)），也通过纯粹的故事事件。
+在**《石冢》**中，角色*成长*优先于*提升*。这意味着，尽管 PC *的确会*变化，但不一定会随时间*变强*。成长既通过机制（譬如[**伤疤**](/cairn-srd/#scars)），也通过纯粹的故事事件。
 
 **监守在给予 PC 非机制的成长奖励时，应注意以下因素：**
-- 成长应联系到故事中的_特定_经历。
-- 对 PC 来说，增加_趣味_比增加技能或本领更重要。
-- PC 的成长不必是获得了更多技能和经验，也可以是发生了重大_改变_。
-- 成长&改变的机会应无处不在，_尤其_是当 PC 承担了风险。
-- 成长发生在_事情发生时_，而不仅仅是在 PC 休整后。
+- 成长应联系到故事中的*特定*经历。
+- 对 PC 来说，增加*趣味*比增加技能或本领更重要。
+- PC 的成长不必是获得了更多技能和经验，也可以是发生了重大*改变*。
+- 成长&改变的机会应无处不在，*尤其*是当 PC 承担了风险。
+- 成长发生在*事情发生时*，而不仅仅是在 PC 休整后。
 - 训练&专业化应尽可能联系到任务或角色成长。
 
 **训练&专业化的几个示例：**
 - 一位前皇家弓手用两天时间教会了你如何更高效射箭。长弓攻击得到增强。
-- 经过两周对_格沃伊德之刃_的日常练习，你已有充足信心在战斗中使用这把致命武器了。危急伤害：目标失去一条肢体或被开膛（由你选择）。
+- 经过两周对*格沃伊德之刃*的日常练习，你已有充足信心在战斗中使用这把致命武器了。危急伤害：目标失去一条肢体或被开膛（由你选择）。
 - 一位熟习战士用三天时间教会了你如何处变不惊。你无需在战斗前进行敏捷豁免（除非监守另有说法）。
-- 五个晚上对_诅咒之书_的深入研究让你在战斗中占尽优势。若你在战斗前侮辱对手，他们对你和你朋友的所有攻击都会遭受削弱。
-- 完成_艾斯塔的哀悼僧侣_的训练后，你能与亡灵对话了。与亡灵对话后会陷入匮乏。
+- 五个晚上对*诅咒之书*的深入研究让你在战斗中占尽优势。若你在战斗前侮辱对手，他们对你和你朋友的所有攻击都会遭受削弱。
+- 完成*艾斯塔的哀悼僧侣*的训练后，你能与亡灵对话了。与亡灵对话后会陷入匮乏。
 
 
 <details markdown="block">
@@ -315,107 +315,107 @@ A few considerations:
 展开示例
  </summary>
 
-**Warden**: _"Slowly you descend into the near-absolute darkness of the ravine. Your lantern is bright enough to allow safe travel, but also acts as a shining beacon to anyone or anything that might be down here. Fortunately it seems that you are largely alone, at least for now. Eventually the roar of the river below begins to drown out your voices."_
+**Warden**: *"Slowly you descend into the near-absolute darkness of the ravine. Your lantern is bright enough to allow safe travel, but also acts as a shining beacon to anyone or anything that might be down here. Fortunately it seems that you are largely alone, at least for now. Eventually the roar of the river below begins to drown out your voices."*
 
-**Esther**: _"Ugh, I have a bad feeling about this. How far down do we have to go?"_
+**Esther**: *"Ugh, I have a bad feeling about this. How far down do we have to go?"*
 
-**Warden**: _"You're just above the riverbed, actually. Carefully placing your feet onto the slick surface, you hold your lantern high and watch as the water glitters, almost in response. You are only a few dozen feet from the shelf you saw earlier as well."_
+**Warden**: *"You're just above the riverbed, actually. Carefully placing your feet onto the slick surface, you hold your lantern high and watch as the water glitters, almost in response. You are only a few dozen feet from the shelf you saw earlier as well."*
 
-**Esther**: _"How dangerous do we think it would be to cross that way?"_
+**Esther**: *"How dangerous do we think it would be to cross that way?"*
 
-**Warden**: _"You'll have to jump. The water rushes right beneath, so you'd have a soft landing. The current looks strong as well._
+**Warden**: *"You'll have to jump. The water rushes right beneath, so you'd have a soft landing. The current looks strong as well.*
 
-**Esther**: _"What did you mean before when you said that the river glittered as if in response? I am not prepared to deal with intelligent rivers."_
+**Esther**: *"What did you mean before when you said that the river glittered as if in response? I am not prepared to deal with intelligent rivers."*
 
-**Warden**: _"You're not totally sure, but it looked like there might be something alive in there. As a former herbalist, you already know about bioluminescent plants."_
+**Warden**: *"You're not totally sure, but it looked like there might be something alive in there. As a former herbalist, you already know about bioluminescent plants."*
 
-**Barry**: _"Plants? We can handle plants. Why don't we just wade through the river here?"_
+**Barry**: *"Plants? We can handle plants. Why don't we just wade through the river here?"*
 
-**Esther**: _"Hmm that's might be a good idea. Wait, what about hidden rocks and such?"_
+**Esther**: *"Hmm that's might be a good idea. Wait, what about hidden rocks and such?"*
 
-**Warden**: _"You could try, certainly. There don't appear to be a lot of rocks poking out of here that you can see, either."_
+**Warden**: *"You could try, certainly. There don't appear to be a lot of rocks poking out of here that you can see, either."*
 
-**Esther**: _"I'll go first this time. You hold the lantern up with your good hand, **Barry**."_
+**Esther**: *"I'll go first this time. You hold the lantern up with your good hand, **Barry**."*
 
-**Barry**: _"Good call. I'll yell out if something leaps out of the river and tries to eat you, too."_
+**Barry**: *"Good call. I'll yell out if something leaps out of the river and tries to eat you, too."*
 
-**Warden**: _"You step into the rushing river. It pulls on your legs, but otherwise you feel strong enough to cross without aide. Slowly you begin your journey; with each step you can see the colorful plants - algae, perhaps - glowing and moving in response to your footsteps. It might also just be the light."_
+**Warden**: *"You step into the rushing river. It pulls on your legs, but otherwise you feel strong enough to cross without aide. Slowly you begin your journey; with each step you can see the colorful plants - algae, perhaps - glowing and moving in response to your footsteps. It might also just be the light."*
 
-**Esther**: _"Uh... Can I feel them?"_
+**Esther**: *"Uh... Can I feel them?"*
 
-**Warden**: _"Only the wetness of the river. Perhaps a distant tickling but that could be the reeds. They seem to react to your every movement."_
+**Warden**: *"Only the wetness of the river. Perhaps a distant tickling but that could be the reeds. They seem to react to your every movement."*
 
-**Esther**: _"Interesting. If I'm not in any danger though I think I'll press. Does our light allow us to see across the whole river yet?"_
+**Esther**: *"Interesting. If I'm not in any danger though I think I'll press. Does our light allow us to see across the whole river yet?"*
 
-**Warden**: _"Nearly. You are about halfway across when **Barry** sees something moving in the waters ahead. It is jet-black and sleek, like an eel. It is also around 5 feet long."_
+**Warden**: *"Nearly. You are about halfway across when **Barry** sees something moving in the waters ahead. It is jet-black and sleek, like an eel. It is also around 5 feet long."*
 
-**Barry**: _"I warn her to pull back."_
+**Barry**: *"I warn her to pull back."*
 
-**Esther**: _"Can I outrun this thing?"_
+**Esther**: *"Can I outrun this thing?"*
 
-**Warden**: _"Hmm... You'd have to make a DEX save."_
+**Warden**: *"Hmm... You'd have to make a DEX save."*
 
-**Esther**: _"Sorry **Barry**, I want to see if I can outrun it. We'll figure out how to get you across once I'm on dry land again. OK, here goes... Yes, a 2! I charge across."_
+**Esther**: *"Sorry **Barry**, I want to see if I can outrun it. We'll figure out how to get you across once I'm on dry land again. OK, here goes... Yes, a 2! I charge across."*
 
-**Warden**: _"You increase your pace dramatically, sprinting across the water in big splashes. With each leap, your foot disrupts the colorful creatures within. The water begins to roil violently around your ankles. Ahead, the eel-like creature darts away as if in response. You finally arrive at the other bank, the river's water bubbling behind you. As you leap out of the water, some of the bioluminescent substance sticks to your right ankle. Standing up on the dry ground, you seem unable to kick it off. It doesn't hurt you or anything, but feels like its been painted to your ankle."_
+**Warden**: *"You increase your pace dramatically, sprinting across the water in big splashes. With each leap, your foot disrupts the colorful creatures within. The water begins to roil violently around your ankles. Ahead, the eel-like creature darts away as if in response. You finally arrive at the other bank, the river's water bubbling behind you. As you leap out of the water, some of the bioluminescent substance sticks to your right ankle. Standing up on the dry ground, you seem unable to kick it off. It doesn't hurt you or anything, but feels like its been painted to your ankle."*
 
-**Esther**: _"Damn! What does it feel like? Also, what do I see on this side of the river?"_
+**Esther**: *"Damn! What does it feel like? Also, what do I see on this side of the river?"*
 
-**Warden**: _"It feels a bit wet, but otherwise like a tattoo on your skin. Like it's a part of you. You are standing on a near-identical bank as the opposite side; you'll have to explore a bit to learn more."_
+**Warden**: *"It feels a bit wet, but otherwise like a tattoo on your skin. Like it's a part of you. You are standing on a near-identical bank as the opposite side; you'll have to explore a bit to learn more."*
 
-**Esther**: _"I suppose I can ignore this for now, if it isn't hurting me or anything. **Barry**, how are you going to cross these swirling eel-infested waters? Maybe off that ledge further down?"_
+**Esther**: *"I suppose I can ignore this for now, if it isn't hurting me or anything. **Barry**, how are you going to cross these swirling eel-infested waters? Maybe off that ledge further down?"*
 
-**Barry**: _"That works. How many torches do you have left? I don't leave you in the dark when I head down there. You could also follow me down a bit, though the light might not be perfect."_
+**Barry**: *"That works. How many torches do you have left? I don't leave you in the dark when I head down there. You could also follow me down a bit, though the light might not be perfect."*
 
-**Esther**: _"I'm all out, unfortunately. But maybe if I follow you I can do something on this end to help you jump that ledge?"_
+**Esther**: *"I'm all out, unfortunately. But maybe if I follow you I can do something on this end to help you jump that ledge?"*
 
-**Warden**: _"You march in parallel on either sides of the fast-moving river the light from **Barry's** lamp just barely illuminating your way. **Esther**, you are having an especially difficult time as you have to hug the riverbank or avoid stepping into shadows unknown."_
+**Warden**: *"You march in parallel on either sides of the fast-moving river the light from **Barry's** lamp just barely illuminating your way. **Esther**, you are having an especially difficult time as you have to hug the riverbank or avoid stepping into shadows unknown."*
 
-**Esther**: _"If I'm close to the river, I'd like to study it some more. Do I still see the swirling bioluminescent plant things?"_
+**Esther**: *"If I'm close to the river, I'd like to study it some more. Do I still see the swirling bioluminescent plant things?"*
 
-**Warden**: _"Yes, and they seem to be following you. Interestingly, the light from their movement is almost enough to see into the river."_
+**Warden**: *"Yes, and they seem to be following you. Interestingly, the light from their movement is almost enough to see into the river."*
 
-**Barry**: _"That's good. Maybe now you can keep an eye out for any more eels? What about me? What do I see as I trod down this godforsaken ravine?"_
+**Barry**: *"That's good. Maybe now you can keep an eye out for any more eels? What about me? What do I see as I trod down this godforsaken ravine?"*
 
-**Warden**: _"The walls on your side of the river narrow a bit as you get closer to the raised shelf you spied earlier; in fact you begin to feel quite squeezed-in. Fortunately you are scrawny enough to just make it to the shelf, which completely blocks your way forward."_
+**Warden**: *"The walls on your side of the river narrow a bit as you get closer to the raised shelf you spied earlier; in fact you begin to feel quite squeezed-in. Fortunately you are scrawny enough to just make it to the shelf, which completely blocks your way forward."*
 
-**Esther**: _"What can I see from my side of the river? Am I still forced to hug the riverbank?"_
+**Esther**: *"What can I see from my side of the river? Am I still forced to hug the riverbank?"*
 
-**Warden**: _"The ravine isn't nearly as narrow from your end, meaning it would be easy to continue on forward from where you are, were you to move away from the light of course. But more importantly, you can see that the shelf used to extend across the river, as there is a mirrored shelf sticking out from the other side as well. There is a massive gap between, though. Perhaps it collapsed at some point in the past? Anyway, **Barry** can try and climb the shelf or enter the river and move around it. At least this time there isn't a slimy waterfall to get around!_
+**Warden**: *"The ravine isn't nearly as narrow from your end, meaning it would be easy to continue on forward from where you are, were you to move away from the light of course. But more importantly, you can see that the shelf used to extend across the river, as there is a mirrored shelf sticking out from the other side as well. There is a massive gap between, though. Perhaps it collapsed at some point in the past? Anyway, **Barry** can try and climb the shelf or enter the river and move around it. At least this time there isn't a slimy waterfall to get around!*
 
-**Barry**: _"Assuming I can easily scale this thing, I'd say: let's go for it."_
+**Barry**: *"Assuming I can easily scale this thing, I'd say: let's go for it."*
 
-**Warden**: _"You mount it with ease after placing your lamp on top and then pulling yourself up. Now you just have to get across."_
+**Warden**: *"You mount it with ease after placing your lamp on top and then pulling yourself up. Now you just have to get across."*
 
-**Barry**: _"Quick question, what is the water like in the exact center of the river where the gap is?"_
+**Barry**: *"Quick question, what is the water like in the exact center of the river where the gap is?"*
 
-**Warden**: _"It's a bit difficult to tell from here, but if you move closer you might get a better look. **Esther** however has been watching the river all the while, and can see that the waters within are moving quite rapidly, in a circular formation."_
+**Warden**: *"It's a bit difficult to tell from here, but if you move closer you might get a better look. **Esther** however has been watching the river all the while, and can see that the waters within are moving quite rapidly, in a circular formation."*
 
-**Esther**: _"These are eels right? I bet they're eels. What are my bio-friends doing right now?"_
+**Esther**: *"These are eels right? I bet they're eels. What are my bio-friends doing right now?"*
 
-**Warden**: _"Looking down into the waters near the shore you see that all of the bioluminescent creatures have fled, almost as if in fear of this part of the river."_
+**Warden**: *"Looking down into the waters near the shore you see that all of the bioluminescent creatures have fled, almost as if in fear of this part of the river."*
 
-**Esther**: _"Hmm... alright, I've got a theory. **Barry**, you should hold the lantern between the gap in the "bridge" and see what happens."_
+**Esther**: *"Hmm... alright, I've got a theory. **Barry**, you should hold the lantern between the gap in the "bridge" and see what happens."*
 
-**Barry**: _"Uh, OK. I carefully walk to the middle of the river on the "bridge", then lay down, hanging my lantern over the edge - but only just. I want to be as safe as possible here."_
+**Barry**: *"Uh, OK. I carefully walk to the middle of the river on the "bridge", then lay down, hanging my lantern over the edge - but only just. I want to be as safe as possible here."*
 
-**Warden**: _"The moment you lower it, a slick black eel leaps into the air and snaps at the lantern with needle-like teeth. You're quick enough to save it, though. The eel splashes back into the water."_
+**Warden**: *"The moment you lower it, a slick black eel leaps into the air and snaps at the lantern with needle-like teeth. You're quick enough to save it, though. The eel splashes back into the water."*
 
-**Barry**: _"Wow! That was scary. I'm guessing I'll need to save in order to jump across, right?"_
+**Barry**: *"Wow! That was scary. I'm guessing I'll need to save in order to jump across, right?"*
 
-**Warden**: _"Unless you've got a better idea, yes."_
+**Warden**: *"Unless you've got a better idea, yes."*
 
-**Esther**: _"I have one. Hey **Barry**, why don't you extinguish that light?"_
+**Esther**: *"I have one. Hey **Barry**, why don't you extinguish that light?"*
 
-**Barry**: _"Done. Now what?"_
+**Barry**: *"Done. Now what?"*
 
-**Warden**: _"You switch off the lantern. Blinking in the darkness, your eyes slowly being to adjust. Suddenly you see a light beginning to glimmer on the far-off shore where **Esther** is standing. It's her ankle; it is lit up like a candle!"_
+**Warden**: *"You switch off the lantern. Blinking in the darkness, your eyes slowly being to adjust. Suddenly you see a light beginning to glimmer on the far-off shore where **Esther** is standing. It's her ankle; it is lit up like a candle!"*
 
-**Esther**: _"Wait, can I make light now? Am I a human torch?"_
+**Esther**: *"Wait, can I make light now? Am I a human torch?"*
 
-**Warden**: _"In complete darkness, yes. Let's hope you don't to go sneaking around in the dark anytime soon."_
+**Warden**: *"In complete darkness, yes. Let's hope you don't to go sneaking around in the dark anytime soon."*
 
-**Barry**: _"Well, this is cool. So the eels like the light, right? This gives me an idea..."_
+**Barry**: *"Well, this is cool. So the eels like the light, right? This gives me an idea..."*
 
 </details>
 
