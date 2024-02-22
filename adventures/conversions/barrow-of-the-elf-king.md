@@ -1,13 +1,13 @@
 ---
 layout: default
 parent: 转换
-grand_parent: 冒险
+grand*parent: 冒险
 title: 精灵王石冢
 ---
 
 # 精灵王石冢
 - 基于 [Highland Paranormal Society](https://www.dungeonresearch.com/) 创作的[原版冒险](https://natetreme.itch.io/botek)，原用于 [Jared Sinclair](https://jaredsinclair.neocities.org) 创作的 [The Vanilla Game](https://vanillagame.carrd.co)。
-- 另有 [PDF 版](https://drive.google.com/file/d/1GbMxkcxZCgVizlcQqbXPtJD0g9x_yTLb/view?usp=sharing) 转换指南。
+- 另有 [PDF 版](https://drive.google.com/file/d/1GbMxkcxZCgVizlcQqbXPtJD0g9x*yTLb/view?usp=sharing) 转换指南。
 - 若要参考 Yochai Gal 的实况跑团录像，可见：[Youtube](https://www.youtube.com/watch?v=e3N4pqHIEwQ)/[哔哩哔哩](https://www.bilibili.com/video/BV1uA4m1G727/)。
 
 
@@ -27,7 +27,7 @@ title: 精灵王石冢
 - 价值 150 gp。
 
 ### 黑箭
-- 对龙类造成_增强_伤害。
+- 对龙类造成*增强*伤害。
 - 每支价值 25 gp。
 
 ### 白枝冠
