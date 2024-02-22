@@ -9,7 +9,7 @@ nav*order: 2
 ---
 
 ## 附注
-若想参考石冢的「实况游戏」，可观看 [Youtube](https://www.youtube.com/watch?v=e3N4pqHIEwQ) 或[哔哩哔哩](https://www.bilibili.com/video/BV1uA4m1G727/) （搬运版）上的《精灵王石冢》实况跑团录像（附《石冢》作者评注）。
+若想参考石冢的「实况游戏」，可观看 [Youtube](https://www.youtube.com/watch?v=e3N4pqHIEwQ) 或[哔哩哔哩](https://www.bilibili.com/video/BV1uA4m1G727/) 上的《精灵王石冢》实况跑团录像（附《石冢》作者评注）。
 
 **请记住以下几点：**
 - **埃斯特**在扮演一名前**草药师**。
