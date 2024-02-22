@@ -1,80 +1,78 @@
 ---
 layout: default
-parent: Conversions
-grand_parent: Adventures
-title: Barrow of the Elf King
+parent: 转换
+grand_parent: 冒险
+title: 精灵王石冢
 ---
 
-# Barrow of the Elf King
-- Based on the [original adventure](https://natetreme.itch.io/botek) by [Highland Paranormal Society](https://www.dungeonresearch.com/), written for [The Vanilla Game](https://vanillagame.carrd.co) by [Jared Sinclair](https://jaredsinclair.neocities.org).
-- For a PDF "slip-in" of the conversion, see [here](https://drive.google.com/file/d/1GbMxkcxZCgVizlcQqbXPtJD0g9x_yTLb/view?usp=sharing).
-- If you'd prefer to watch a video (with commentary) of Yochai Gal running the adventure, click [here](https://www.youtube.com/watch?v=e3N4pqHIEwQ).
+# 精灵王石冢
+- 基于 [Highland Paranormal Society](https://www.dungeonresearch.com/) 创作的[原版冒险](https://natetreme.itch.io/botek)，原用于 [Jared Sinclair](https://jaredsinclair.neocities.org) 创作的 [The Vanilla Game](https://vanillagame.carrd.co)。
+- 另有 [PDF 版](https://drive.google.com/file/d/1GbMxkcxZCgVizlcQqbXPtJD0g9x_yTLb/view?usp=sharing) 转换指南。
+- 若要参考 Yochai Gal 的实况跑团录像，可见：[Youtube](https://www.youtube.com/watch?v=e3N4pqHIEwQ)/[哔哩哔哩](https://www.bilibili.com/video/BV1uA4m1G727/)。
 
 
-## 1. The Fallen Cairn
-- As written.
+## 1. 陷落石冢
+- 遵照原文。
 
-## 2. The Tunnel of Retainers
-- DEX save or take 3d6 STR damage (minus Armor).
+## 2. 仆役隧道
+- 通过敏捷豁免，否则遭受 3d6 力量伤害（减去护甲）。
 
-## 3. The Grave Slab
-### Elf King
-6 HP, 2 Armor, 11 STR, 13 DEX, 3 WIL, white wood great sword (d10)
-- Can teleport within 15 feet.
+## 3. 墓碑
+### 精灵王
+6 HP，2 护甲，11 力量，13 敏捷，3 意志，白木巨剑（d10）
+- 能在 15' 内传送。
 
-### White Wood Great Sword (d10)
-- Never dulls. If planted, in a year it will grow into a giant White Oak with a door to Fairyland. 
-- Worth 150 gp.
+### 白木巨剑（d10）
+- 永不磨钝若种下，一年后它就会长成一棵巨大白橡树，附有一扇通往仙境的门。
+- 价值 150 gp。
 
-### Black Arrows
-- Deals _enhanced_ damage to dragons. 
-- Worth 25gp each.
+### 黑箭
+- 对龙类造成_增强_伤害。
+- 每支价值 25 gp。
 
-### White Branch Crown
-- As written.
+### 白枝冠
+- 遵照原文。
 
-## 4. Goblin in a Barrel
-- As written. 
+## 4. 桶里的地精
+- 遵照原文。
 
-### Wogwurt
-- 2 HP, 8 STR, 12 DEX, 8 WIL
+### 沃格沃特
+- 2 HP，8 力量, 12 敏捷，8 意志
 
-## 5. The Guard Room
-- As written.
+## 5. 警卫室
+- 遵照原文。
 
-### Skeleton Guard
-- 5 HP, 1 Armor, 13 DEX, rusty sword (d6)
+### 骷髅卫兵
+- 5 HP，1 护甲，13 敏捷，生锈的剑（d6）
 
-## 6. Royal Organ Storage
-### Barrow Worms
-- 2 HP, 1 Armor, 3 STR, 12 DEX, 2 WIL, bite (1d4)
+## 6. 皇家器官库
+### 古冢蠕虫
+- 2 HP，1 护甲，3 力量，12 敏捷，2 意志，噬咬（1d4）
 
-### Elf King's Heart
-- As written (STR and HP return to max; deprivation and Fatigue go away). 
+### 精灵王的心脏
+- 遵照原文（力量和 HP 恢复至上限；匮乏与疲乏消失）。
 
-### Elf King's Brain
-- A wooden spellbook manifests that only the eater(s) can read. 
-- Roll on standard or extra spellbooks table.
+### 精灵王的脑子
+- 出现一本仅有食用者才能阅读的木质法术书。
+- 就法术书表投骰。
 
-## 7. The Spider’s Lair
-- As written, WIL save to avoid death after three days.
+## 7. 蜘蛛巢
+- 遵照原文，通过意志豁免以避免三日后死亡。
 
-### Sargmotra Sinspinner
-- 8 HP, 14 STR, 13 DEX, 12 WIL, bite (d10)
-- Web: Target is caught and unable to move. A successful STR save is required to break free.
-- Critical damage: Drinks target's blood and heals 1d6 STR.
+### 萨格莫特拉·孽纺
+- 8 HP，14 力量，13 敏捷，12 意志，噬咬（d10）
+- 射网：目标被捕，无法移动。需要通过力量豁免来挣脱。
+- 危急伤害：吸目标的血，治疗 1d6 力量。
 
-## 8. The Tapestry
-- Each PC carrying the tapestry is reduced to 0 HP while carrying the tapestry.
+## 8. 挂毯
+- 携带挂毯的 PC 降至 0 HP。
 
-## 9. Treasure Well 
-- As written.
+## 9. 财宝井
+- 遵照原文。
 
-### Spiders 
-4 HP, 10 STR, 11 DEX, 4 WIL, bite (d6)
-- Can climb walls and ceiling.
+### 蜘蛛
+4 HP，10 力量，11 敏捷，4 意志，噬咬（d6）
+- 能攀爬墙壁和天花板。
 
-## 10. The Great Oak
-- As written.
-
-
+## 10. 大橡树.
+- 遵照原文。
