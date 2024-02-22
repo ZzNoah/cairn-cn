@@ -1,7 +1,7 @@
 ---
 layout: default
 parent: 转换
-grand*parent: 冒险
+grand_parent: 冒险
 title: 精灵王石冢
 ---
 
