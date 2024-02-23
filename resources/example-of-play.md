@@ -9,7 +9,7 @@ nav*order: 2
 ---
 
 ## 附注
-若想参考《石冢》的「实况录像」，可观看作者亲自主持并评注的《精灵王石冢》（[冒险转换](https://cn.cairnrpg.com/adventures/conversions/barrow-of-the-elf-king/)）跑团视频：[Youtube](https://www.youtube.com/watch?v=e3N4pqHIEwQ)/[哔哩哔哩](https://www.bilibili.com/video/BV1uA4m1G727/)。
+若想参考《石冢》的「实况录像」，可观看作者亲自主持并评注的《精灵王冢》（[冒险转换](https://cn.cairnrpg.com/adventures/conversions/barrow-of-the-elf-king/)）跑团视频：[Youtube](https://www.youtube.com/watch?v=e3N4pqHIEwQ) / [哔哩哔哩](https://www.bilibili.com/video/BV1uA4m1G727/)。
 
 **请记住以下几点：**
 - **埃斯特**在扮演一名前**草药师**。
