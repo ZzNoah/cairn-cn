@@ -1,6 +1,6 @@
 ---
 layout: default
 title: Lithuanian
-parent: Localizations
+parent: 本地化
 redirect_to: https://lt.cairnrpg.com
 ---
