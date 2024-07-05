@@ -1,12 +1,12 @@
 ---
 layout: default
-parent: Monsters
-grand_parent: Resources
+parent: 怪物
+grand_parent: 资源
 ---
 
-# Black Bear
+# 黑熊
 
-6 HP, 14 STR, 12 DEX, 6 WIL, claws (d6+d6), bite (d8)
+6 HP，14 力量，12 敏捷，6 意志，爪抓（d6+d6），噬咬（d8）
 
-- Waist-high bears that subsist mostly on berries and roots. Drawn to campsites in search of food.  
-- Aggressive if cornered or feel that their young are threatened. 
+- 身高齐腰的熊，主要以浆果和树根为生。被吸引到营地寻找食物。
+- 若被逼到角落或感觉到幼崽受到威胁，就有攻击性。
