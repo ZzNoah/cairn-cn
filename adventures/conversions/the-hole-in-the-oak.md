@@ -16,7 +16,7 @@ redirect_from: /resources/adventure-conversions/the-hole-in-the-oak/
 
 ## 绵羊首羊头人
 4 HP，11 力量，12 意志，小刀（d6）
-- 属性见原文。
+- 能力见原文。
 
 ## 附魔绵羊头骨
 3 HP，6 力量，顶撞（d6）
@@ -24,16 +24,16 @@ redirect_from: /resources/adventure-conversions/the-hole-in-the-oak/
 
 ## 幽魂猎手
 6 HP，1 护甲，12 敏捷，12 意志，剑（d8），短弓（d6）
-- 属性见原文。
+- 能力见原文。
 
 ## 幽魂猎犬
  2 HP，12 敏捷，噬咬（d6）
-- 属性见原文。
+- 能力见原文。
 
 ## 巨蟹蛛
 5 HP，8 敏捷，噬咬（d8）
 - 潜伏在天花板上，自上方伏击。
-- 危急伤害：目标因毒素而损失 1d6 力量。
+- **危急伤害：**目标因毒素而损失 1d6 力量。
 
 ## 穴蜥人
 4 HP，12 敏捷，爪抓（d6+d6）
@@ -45,7 +45,7 @@ redirect_from: /resources/adventure-conversions/the-hole-in-the-oak/
 6 HP，11 力量，14 敏捷，3 意志，爪抓（d6+d6），噬咬（d8）
 - 灰皮肤的亡灵穿着破碎的衣服，蜷缩在地上。
 - 免疫毒素和影响心灵的法术。
-- 危急伤害：目标损失 d12 敏捷。
+- **危急伤害：**目标损失 d12 敏捷。
 
 ## 半啃尸体
 3 HP，3 意志，噬咬（d4）
@@ -56,7 +56,7 @@ redirect_from: /resources/adventure-conversions/the-hole-in-the-oak/
 
 ## 变异食人魔
 6 HP，护甲 1, 15 力量，8 敏捷，8 意志，棍棒（d10）
-- 属性见原文。
+- 能力见原文。
 
 ## 笼中变种人
 3 HP，6 意志，噬咬（d4）
@@ -74,7 +74,7 @@ redirect_from: /resources/adventure-conversions/the-hole-in-the-oak/
 ## 亵渎者乔格
 3 HP，11 力量，12 意志，剑（d4）
 - 免疫非魔法攻击、毒药和影响心灵的法术。
-- 危急伤害：目标损失 d6 力量。
+- **危急伤害：**目标损失 d6 力量。
 - 乔格杀掉的死者会在 1d4 天后复苏为尸妖，受他控制。
 
 ## 100×普通蝙蝠
@@ -95,11 +95,11 @@ redirect_from: /resources/adventure-conversions/the-hole-in-the-oak/
 
 ## 巨鳄蜥
 6 HP，14 力量，12 意志，噬咬（d6+d6）
-- 属性见原文。
+- 能力见原文。
 
 ## 成年异端侏儒
 4 HP，8 力量，12 敏捷，14 意志，锤（d6） 或 弩（d8）
-- 属性见原文。
+- 能力见原文。
 
 ## 侏儒领袖：格里姆
 5 HP，3 护甲，9 力量，12 敏捷，14 意志，锤（d6） 或 弩（d8）
@@ -111,7 +111,7 @@ redirect_from: /resources/adventure-conversions/the-hole-in-the-oak/
 ## 宠物巨鼠
 2 HP，6 力量，噬咬（d4）
 - 怕火。
-- 危急伤害：受害者感染了一种疾病，卧床不起一个月。
+- **危急伤害：**受害者感染了一种疾病，卧床不起一个月。
 
 ## 邪恶树桩
 6 HP，2 护甲，14 力量，6 敏捷，树根（d6+d6）
