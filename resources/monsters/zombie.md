@@ -6,8 +6,8 @@ grand_parent: 资源
 
 # 丧尸
 
-2 HP, 12 STR, 6 DEX, 3 WIL, jagged nails and broken teeth (d6)
+2 HP，12 力量，6 敏捷，3 意志，锯齿指甲和破碎牙齿（d6）
 
-- Re-animated corpse brought back through necromantic ritual or fell influence. Immune to all mind-influencing effects.
-- **Critical Damage**: Target becomes infected, and is _deprived_. Without the services of a specialist or healer, they will become a zombie in 1d4 days.
-- If not utterly destroyed (fire, complete dismemberment, etc.), the Zombie will rise again within a few minutes.
+- 通过死灵仪式或堕落影响而重新活化的死尸。免疫所有心灵影响。
+- **危急伤害**：目标会遭受感染，并*匮乏*。若无专家或治疗师的服务，其将在 1d4 天内变成丧尸。
+- 若未被彻底摧毁（火焰、完全肢解等等），丧尸会在几分钟内再次复苏。
