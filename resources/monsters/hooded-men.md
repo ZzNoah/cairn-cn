@@ -1,12 +1,12 @@
 ---
 layout: default
-parent: Monsters
-grand_parent: Resources
+parent: 怪物
+grand_parent: 资源
 ---
 
-# Hooded Men
+# 兜帽人
 
-12 HP, 9 STR, 12 DEX, 14 WIL, leystaff (d8), a Spellbook (Choose one: _Charm, Hypnotize, Push/Pull, Shield_)
+12 HP，9 力量，12 敏捷，14 意志，灵脉杖（d8），法术书（选择其一：*魅惑*，*催眠*，*推/拉*，*护盾*）
 
-- The Watchers of the Wood; a cult that derive their power from leylines, rune stones, and the like.
-- Critical damage: leech a part of the victim's soul (1d4 WIL damage).
+- 森林守护者；一个从灵脉、符文石等汲取力量的异教组织。
+- 危急伤害：汲取受害者的部分灵魂（1d4 意志伤害）。
