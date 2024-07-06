@@ -1,13 +1,13 @@
 ---
 layout: default
-parent: Monsters
-grand_parent: Resources
+parent: 怪物
+grand_parent: 资源
 ---
 
-# Wood Troll
+# 木巨魔
 
-10 HP, 15 STR, 12 DEX, 7 WIL, claws and bite (d8+d8, blast)
+10 HP，15 力量，12 敏捷，7 意志，爪抓和噬咬（d8+d8，群攻）
 
-- Large humanoid beings with elongated arms. Live in forests, sharing a deep connection with the vegetation around it.
-- As an action the troll can eat a handful of moss to fully recover its HP.
-- **Critical Damage**: Moss and twigs begin growing out of target's wounds.
+- 大型类人种生物，手臂修长。栖息在森林中，与周围的植被有着深厚的联系。
+- 能以一个行动恢复损失 HP。
+- **危急伤害**：目标伤口处开始长出苔藓和树枝。
