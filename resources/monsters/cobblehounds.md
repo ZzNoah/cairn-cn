@@ -1,12 +1,12 @@
 ---
 layout: default
-parent: Monsters
-grand_parent: Resources
+parent: 怪物
+grand_parent: 资源
 ---
 
-# Cobblehounds
+# 卵石猎犬
 
-12 HP, 2 Armor, 14 STR, 1 DEX, 8 WIL, bite (d10)
+12 HP，2 护甲，14 力量，1 敏捷，8 意志，噬咬（d10）
 
-- Immobile constructs typically used as guardians to great tombs or artifacts.
-- Unaffected by mundane persuasion techniques, but love a good bone.
+- 不可移动的建筑结构，通常充当伟大陵墓或神器的卫士。
+- 免受凡俗交涉技巧影响——但喜爱好骨头。
