@@ -1,13 +1,13 @@
 ---
 layout: default
-parent: Monsters
-grand_parent: Resources
+parent: 怪物
+grand_parent: 资源
 ---
 
-# Boggart
+# 博格特
 
-3 HP, 4 STR, 17 DEX, 13 WIL
+3 HP，4 力量，17 敏捷，13 意志
 
-- A wild, hairy trickster that prizes shiny trinkets above coin.
-- Boggarts have true names that describe their true nature. Knowing these names gives a person control over them.
-- **Magic**: The Boggart can _bring objects to life_,  _sow confusion_, _create magical disguises_, use _telekinesis_, and _teleport_.
+- 狂野多毛的捣蛋鬼，珍视闪光零碎超过钱币。
+- 博格特会有描述其本质的真名。知晓其真名就能控制博格特。
+- **魔法**：博格特可以*活化物体*、*散播困惑*、*创造魔法伪装*、使用*心灵遥控*和*传送*。
