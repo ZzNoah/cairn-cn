@@ -1,13 +1,13 @@
 ---
 layout: default
-parent: Monsters
-grand_parent: Resources
+parent: 怪物
+grand_parent: 资源
 ---
 
-# Root Goblin
+# 根地精
 
-4 HP, 8 STR, 14 DEX, 8 WIL, spear (d6)
+4 HP，8 力量，14 敏捷，8 意志，矛（d6）
 
-- Avoid combat unless they have the advantage (such as greater numbers).
-- Guard their stolen goods to the death.
-- Prize Spellbooks; willing to trade.
+- 避战，除非占据优势（譬如人数更多）。
+- 誓死保卫他们的赃物。
+- 热衷法术书；愿意交易。
