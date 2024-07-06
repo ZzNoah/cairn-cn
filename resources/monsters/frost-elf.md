@@ -1,13 +1,13 @@
 ---
 layout: default
-parent: Monsters
-grand_parent: Resources
+parent: 怪物
+grand_parent: 资源
 ---
 
-# Frost Elf
+# 霜精灵
 
-14 HP, 1 Armor, 8 STR, 13 DEX, 14 WIL, icicle dagger (d6)
+14 HP，1 护甲，8 力量，13 敏捷，14 意志，冰锥匕首（d6）
 
-- Beautiful, amoral, and long-lived.
-- Resistant to most forms of magic.
-- Can cast the following spells at will: _Sleep_, _Teleport_, _Detect Magic_
+- 美丽，无德，长生。
+- 对多数形式的魔法具有抗性。
+- 可以随时施放以下法术：*睡眠*，*传送*，*侦测魔法*。
