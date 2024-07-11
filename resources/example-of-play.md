@@ -9,7 +9,7 @@ nav_order: 2
 ---
 
 ## 附注
-若想参考《石冢》的「实况录像」，可观看作者亲自主持并评注的《精灵王石冢》（[冒险转换](https://cn.cairnrpg.com/adventures/conversions/barrow-of-the-elf-king/)）跑团视频：[Youtube](https://www.youtube.com/watch?v=e3N4pqHIEwQ)/[哔哩哔哩](https://www.bilibili.com/video/BV1uA4m1G727/)。
+若想参考《石冢》的「实况录像」，可观看作者亲自主持并评注的《精灵王冢》（[冒险转换](https://cn.cairnrpg.com/adventures/conversions/barrow-of-the-elf-king/)）跑团视频：[Youtube](https://www.youtube.com/watch?v=e3N4pqHIEwQ)/[哔哩哔哩](https://www.bilibili.com/video/BV1uA4m1G727/)。
 
 **请记住以下几点：**
 - **艾丝特**在扮演一名前**草药师**。
@@ -217,7 +217,7 @@ nav_order: 2
 
 **艾丝特**：「不幸的是，我全没了。不过，如果我跟着你，也许我能在这头做点什么，帮你跳过那个岩架？」
 
-**监守**：「你们在湍急河流的两侧并行，**巴瑞**的灯光勉强照亮了你们的道路。**艾丝特<**，你必须紧贴河岸或避免踏入未知的阴影，这对你来说尤为困难。」
+**监守**：「你们在湍急河流的两侧并行，**巴瑞**的灯光勉强照亮了你们的道路。**艾丝特**，你必须紧贴河岸或避免踏入未知的阴影，这对你来说尤为困难。」
 
 **艾丝特**：「若是我离河流够近，我想再研究一下。我还能看到漩涡状的生物性发光植物之类的吗？」
 
