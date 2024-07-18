@@ -8,8 +8,8 @@ redirect_from: /resources/adventure-conversions/the-hole-in-the-oak/
 
 # 橡树洞
 
-- 基于 Gavin Norman 创作的[原版冒险](https://necroticgnome.com/collections/adventures/products/the-hole-in-the-oak)，原用于《老派要典》。
-- 转换作者是 [xenio](https://xenioinabottle.blogspot.com)
+- 基于 [原版冒险](https://necroticgnome.com/collections/adventures/products/the-hole-in-the-oak) by Gavin Norman，原用于《老派要典》。
+- 转换 by [xenio](https://xenioinabottle.blogspot.com)。
 
 ## 软垫椅子
 没有数据，视为物件，遭受 6 伤害后损坏。
@@ -78,7 +78,7 @@ redirect_from: /resources/adventure-conversions/the-hole-in-the-oak/
 - 乔格杀掉的死者会在 1d4 天后复苏为尸妖，受他控制。
 
 ## 100×普通蝙蝠
-没有属性，视为灾害。
+没有数据，视为灾害。
 
 ## 巨型蜥蜴人虚影
 6 HP，1 护甲，12 力量，爪抓（d6+d6）
