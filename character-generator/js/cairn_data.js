@@ -264,7 +264,7 @@ gen_data['bonus'] = {
   '1-6': '{tool_trinket}',
   '7-13': '{gear}',
   '14-17': '{armor_weapons}',
-  '18-20': '法术书（包含法术「{spellbook}」）'
+  '18-20': '魔典（包含法术「{spellbook}」）'
 }
 
 gen_data['tool'] = [
