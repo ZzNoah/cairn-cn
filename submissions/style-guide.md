@@ -38,7 +38,7 @@ parent: 提交
 - 注意 Front Matter（以 `---` 开头）和结尾的空行。
 - 注意怪物名称、数据、特殊条目之间的空格。
 - 包括每项属性值，*即使仅为 10*。
-- 举例而言，见[此处](/resources/monsters/acolyte)和原始文本[此处](https://github.com/yochaigal/cairn/blob/main/resources/monsters/acolyte.md)
+- 举例而言，见[侍僧](/resources/monsters/acolyte)及其[源代码文本](https://github.com/ZzNoah/cairn-cn/blob/main/resources/monsters/acolyte.md)
 - 提交给网站的怪物（有别于冒险转换）须遵循下述格式。
 
 ```
