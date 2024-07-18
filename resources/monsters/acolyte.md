@@ -4,10 +4,9 @@ parent: Monsters
 grand_parent: Resources
 ---
 
-# Acolyte
+# 侍僧
 
-4 HP, 1 Armor, 8 STR, 11 DEX, 14 WIL, ceremonial dagger (d6), holy symbol (_Ward_ once per day)
+4 HP，1 护甲，8 力量，11 敏捷，14 意志，仪式匕首（d6）
 
-- _Ward_: A silver circle 50ft across appears on the ground. Choose one species that cannot cross it.
-- Holy servants bound to a particular deity.
-- Typically travel in groups of four or more.
+- 侍奉特定神祇的圣仆。通常四人以上结伴而行。
+- 携带圣徽（每日一次*结界*）。
