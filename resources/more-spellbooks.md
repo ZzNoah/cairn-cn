@@ -1,11 +1,11 @@
 ---
 layout: default
-title: 更多法术书
+title: 更多魔典
 parent: 资源
 nav_order: 5
 ---
 
-# 更多法术书
+# 更多魔典
 
 If Cairn's default [spells](/cairn-srd#100-spells) don't exactly fit what you're looking for, look for it in the d666 table below.  
 Note assume damage rolls are against HP unless otherwise noted (e.g. 1d6 damage vs 1d6 STR loss).
