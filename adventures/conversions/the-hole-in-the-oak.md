@@ -106,7 +106,7 @@ redirect_from: /resources/adventure-conversions/the-hole-in-the-oak/
 
 ## 侏儒树桩女祭司：格里布
 3 HP，6 力量，12 敏捷，15 意志，小刀（d6） 或 法术
-- 法术书：魅惑(#14)，结界(#96)。
+- **魔典：**魅惑(#14)，结界(#96)。
 
 ## 宠物巨鼠
 2 HP，6 力量，噬咬（d4）
