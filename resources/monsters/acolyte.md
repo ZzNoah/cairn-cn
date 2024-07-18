@@ -1,7 +1,7 @@
 ---
 layout: default
-parent: Monsters
-grand_parent: Resources
+parent: 怪物
+grand_parent: 资源
 ---
 
 # 侍僧
