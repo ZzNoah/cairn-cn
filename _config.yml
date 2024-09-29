@@ -3,12 +3,31 @@ permalink: pretty
 remote_theme: pmarsceill/just-the-docs
 site.url: https://cn.cairnrpg.com
 logo: "/img/logo.png"
-color_scheme: light
+color_scheme: dark
 encoding: UTF-8
 plugins:
   - jekyll-redirect-from
 include:
   - js
+
+# External navigation links
+nav_external_links:
+  - title: Github 仓库
+    url: https://github.com/ZzNoah/cairn-cn/
+    hide_icon: false
+    opens_in_new_tab: true
+  - title: Discord 频道
+    url: https://discord.gg/K3dwaMap5X
+    hide_icon: false
+    opens_in_new_tab: true
+  - title: 2e 测试材料
+    url: https://cairnrpg.com/wip/2e/
+    hide_icon: false
+    opens_in_new_tab: true
+  - title: 订阅新闻
+    url: https://news.cairnrpg.com
+    hide_icon: false
+    opens_in_new_tab: true
 
 # Back to top link
 back_to_top: true
