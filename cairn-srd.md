@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SRD
+title: 核心规则 SRD
 nav_order: 2
 ---
 
