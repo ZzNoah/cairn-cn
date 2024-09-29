@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: minimal
 title: 恶棍 Knave
 nav_order: 100
 nav_exclude: true
