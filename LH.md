@@ -7,16 +7,10 @@ search_exclude: true
 has_children: false
 ---
 
-# 阈限恐怖
+# LH 试读测试
 《阈限恐怖》这款现代恐怖角色扮演游戏规则轻量，普适性强，主打普通人物与恶夜诡物之间的斗争。游戏着眼于调查的同时整合了简易的老派规则，与叙事优先的现代原则：生存毫无保障，即使幸存也回不去从前。这个轻规则系统里，失败可谓家常便饭，因此鼓励发挥创意去解决问题，力求捕捉难忘的游戏体验。玩家扮演「调查员」，深入充斥着未知恐怖的现代世界。
 
-![image](/img/investigator.png)
-
-A **print copy** of Liminal Horror Investigators can be purchased from [Space Penguin Ink](https://spacepenguin.ink/products/liminal-horror-investigators)
-
-A **digital pdf** can be found at <a href="https://goblinarchives.itch.io/liminal-horror" target="_blank">https://goblinarchives.itch.io/liminal-horror</a>.
-
-<p></p>
+![image](https://liminalhorrorrpg.com/img/LH.png)
 
 ## 致谢
 - 写作、排版、设计：Goblin Archives © 2023
