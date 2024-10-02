@@ -1,6 +1,6 @@
 ---
 layout: minimal
-title: 阈限恐怖
+title: LH 试读测试
 nav_order: 99
 nav_exclude: true
 search_exclude: true
@@ -25,28 +25,28 @@ has_children: false
 
 ## 目录
 
-- [概述](#overview)
-- [主持人准则](#principles-for-Facilitators)
-- [玩家准则](#principles-for-players)
-- [创建调查员](#creating-an-investigator)
-- [载具与装备](#vehicles-and-equipment)
-- [规则](#rules)
-- [战斗](#combat)
-- [治疗与创伤](#healing-and-wounds)
-- [压力与余波](#stress-and-fallout)
-- [共鸣神器](#resonant-artifacts)
-- [超自然生物志](#paranatural-bestiary)
-- [虚空探险流程](#voidcrawl-procedure)
-- [神秘框架](#mystery-framework)
-- [强化恐怖主题/风格](#reinforcing-themes-and-genres-in-horror)
-- [附录 F：试炼规则](#appendix-f-funnel-rules)
-- [附录 T：时间流程](#appendix-t-time-procedures)
-- [附录 C：状态](#appendix-c-conditions)
-- [附录 L：幸运与闪回](#appendix-luck-and-flashbacks)
-- [附录 I：物品标签](#appendix-i-item-tags)
-- [附录 V：载具扩展](#appendix-v-vehicles-expanded)
-- [派系：异常局](#faction-the-bureau)
-- [规则摘要](#rules-summary)
+- [概览](#概览)
+- [主持人准则](#主持人准则)
+- [玩家准则](#玩家准则)
+- [创建调查员](#创建调查员)
+- [载具与装备](#载具与装备)
+- [规则](#规则)
+- [战斗](#战斗)
+- [治疗与创伤](#治疗与创伤])
+- [压力与余波](#治疗与创伤])
+- [共鸣神器](#共鸣神器)
+- [超自然生物志](#超自然生物志)
+- [虚空探险流程](#虚空探险流程)
+- [神秘框架](#神秘框架)
+- [强化恐怖主题/风格](#强化恐怖主题/风格)
+- [附录 F：试炼规则](#附录-F：试炼规则)
+- [附录 T：时间流程](#附录-T：时间流程)
+- [附录 C：状态](#附录-C：状态)
+- [附录 L：幸运与闪回](#附录-L：幸运与闪回)
+- [附录 I：物品标签](#附录-I：物品标签)
+- [附录 V：载具扩展](#附录-V：载具扩展)
+- [派系：异常局](#派系：异常局)
+- [规则摘要](#规则摘要)
 
 
 ## 概述
