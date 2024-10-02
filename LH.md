@@ -8,9 +8,10 @@ has_children: false
 ---
 
 # LH 试读测试
+
 《阈限恐怖》这款现代恐怖角色扮演游戏规则轻量，普适性强，主打普通人物与恶夜诡物之间的斗争。游戏着眼于调查的同时整合了简易的老派规则，与叙事优先的现代原则：生存毫无保障，即使幸存也回不去从前。这个轻规则系统里，失败可谓家常便饭，因此鼓励发挥创意去解决问题，力求捕捉难忘的游戏体验。玩家扮演「调查员」，深入充斥着未知恐怖的现代世界。
 
-![image](https://liminalhorrorrpg.com/img/LH.png)
+<p></p>
 
 ## 致谢
 
@@ -41,7 +42,7 @@ has_children: false
 - [附录 F：试炼规则](#appendix-f-funnel-rules)
 - [附录 T：时间流程](#appendix-t-time-procedures)
 - [附录 C：状态](#appendix-c-conditions)
-- [附录 L：幸运与倒叙](#appendix-luck-and-flashbacks)
+- [附录 L：幸运与闪回](#appendix-luck-and-flashbacks)
 - [附录 I：物品标签](#appendix-i-item-tags)
 - [附录 V：载具扩展](#appendix-v-vehicles-expanded)
 - [派系：异常局](#faction-the-bureau)
@@ -89,7 +90,7 @@ has_children: false
 ### 信息
 
 - 信息绝不应藏在投骰后。
-- 随时随地提供信息，促进批判性思维和机智扮演。
+- 随时随地提供信息，促进批判性思维和机智玩法。
 - 引出玩家提问，并给予直接回答。
 
 
@@ -97,7 +98,7 @@ has_children: false
 
 - 巧用恐怖、禁忌知识和人体易变等主题。
 - 把物理和具象现实的信息送给玩家，但让事物的真实本质不可捉摸。
-- 给调查员顺藤摸瓜的机会，哄他们涉身怪诞深渊。
+- 给调查员顺藤摸瓜的机会，引他们涉身怪诞深渊。
 
 
 ### 准备工作
@@ -114,7 +115,7 @@ has_children: false
 - 现实主义和叙事定位是界定难度的良好起点。
 - 选择应伴随后果，所有失败都应有趣。
 - 豁免涵盖各种不确定和风险。要是都没有，就别要求投骰。
-- 褒奖鼓励聪明机智和匠心独运。
+- 鼓励聪明机智和匠心独运。
 
 
 ### 危险
@@ -135,7 +136,7 @@ has_children: false
 
 ### 失败
 
-- 失败应该推动故事进展发展。
+- 失败应该推动故事进展。
 - 营造一种成功与失败同样激动人心的氛围。
 - 激发玩家的复杂性或曲折性。
 - 每个行动都会以某种方式影响世界。
@@ -241,7 +242,7 @@ has_children: false
 | 03   | **机械师：**活动扳手（d6），便携工具箱，电工胶带，刹车清洁剂。 |
 | 04   | **拾荒家：**防割手套（+1 护甲），反光背心，拾物器，护目镜。  |
 | 05   | **救护员：**急救包，创伤剪，听诊器，卫生袋。                 |
-| 06   | **收银员：**开箱刀（d6），对讲机，胸牌，舒适无比的鞋子。     |
+| 06   | **店员：**开箱刀（d6），对讲机，胸牌，舒适无比的鞋子。       |
 | 07   | **艺术家：**自选艺术工具，笔记本，相机，小型热情粉丝圈。     |
 | 08   | **运动员：**自选运动器材，汗带，运动饮料粉。                 |
 | 09   | **滑板手：**滑板，摄像机，断线钳。                           |
@@ -252,7 +253,7 @@ has_children: false
 | 14   | **治疗师：**录音笔，笔记本和钢笔，名片，小左轮枪（d6）。     |
 | 15   | **行政助理：**广泛人脉，公司信用卡，折叠公文包，电击枪（d6 敏捷）。 |
 | 16   | **演员：**试镜文件夹，便携充电器，备用化妆品，替换衣物。     |
-| 17   | **工程师：**笔记本电脑及设计软件，防水笔记本，无线路由器，九九新个人防具。 |
+| 17   | **工程师：**笔记本电脑及设计软件，防水笔记本，无线路由器，九九新安全防具。 |
 | 18   | **社工：**笔记本电脑及背包，证件，折叠刀（d6），笔记本和钢笔。 |
 | 19   | **教师：**咖啡杯，剪刀，大包。                               |
 | 20   | **承包商：**满载工具腰带，美工刀（d6），探照灯，钻机。       |
@@ -289,16 +290,16 @@ has_children: false
 
 | d20  | 你对未知事物的初次遭遇是什么？       |
 | ---- | ------------------------------------ |
-| 01   | 还没，所以来跑团！                   |
-| 02   | 在神秘事况下痛失所爱。               |
-| 03   | 网上证据太多，不容忽视。             |
-| 04   | 在黑暗中看见了什么东西。             |
-| 05   | 幸存于一次无法解释的袭击。           |
-| 06   | 有东西潜伏在梦里。                   |
-| 07   | 身边某人正在拉你入伙，或是赶你远离。 |
-| 08   | 异教活动（或许他们招募了重要人物）。 |
-| 09   | 秘密社团的持卡会员。                 |
-| 10   | 你读到了一些凡人无法理解的材料。     |
+| 1    | 在神秘事况下痛失所爱。               |
+| 2    | 网上证据太多，不容忽视。             |
+| 3    | 在黑暗中看见了什么东西。             |
+| 4    | 幸存于一次无法解释的袭击。           |
+| 5    | 有东西潜伏在梦里。                   |
+| 6    | 身边某人正在拉你入伙，或是赶你远离。 |
+| 7    | 异教活动（或许他们招募了重要人物）。 |
+| 8    | 秘密社团的持卡会员。                 |
+| 9    | 你读到了一些凡人无法理解的材料。     |
+| 10   | 还没，所以来跑团！                   |
 
 #### 意识形态与信仰
 
@@ -445,7 +446,7 @@ has_children: false
 5. 你们都在同一家公司工作。是哪家公司？你们的工作是什么？
 6. 你们是邻居。不打不相识，当初吵了什么促成了你们相识？
 7. 你们是兄弟姐妹。你们谁是负责管事的？
-8. 你爱得死去活来是什么妨碍你把感受付诸行动？
+8. 你爱得死去活来。是什么妨碍你把感受付诸行动？
 9. 他们知道你的犯罪把柄。他们为何愿意保密？
 10. 你是导师。你传授了什么智慧？
 11. 你是学徒。你的导师帮助你掌握了什么技能？
@@ -453,7 +454,7 @@ has_children: false
 13. 你们曾是秘密组织的成员。你们为什么离开？
 14. 他们向你求助。你帮助解决了哪些麻烦？
 15. 你们在网络论坛上结识。你们分享了什么离奇的阴谋论？
-16. 你们是校友，但从没一起玩过。是什么意外的巧合为你们结成了友谊？
+16. 你们是校友，但从没一起玩过。是什么意外巧合让你们后来成为了朋友？
 17. 你们是死对头。是什么化干戈为玉帛？
 18. 你渴望成为他们那种人。你最倾慕哪种特质？
 19. 你们是战友。你们共同面对了什么挑战？
@@ -509,7 +510,7 @@ has_children: false
 
 | 镇静剂（力量豁免否则晕倒）                  | $250 |
 | ------------------------------------------- | ---- |
-| 毒素（穿透血液组织则损失 d20 力量）         | $100 |
+| 毒素（渗入血液组织则损失 d20 力量）         | $100 |
 | 抗毒素（阻止毒素 - 令人不适）               | $250 |
 | 酸（d4 伤害除非清除，烧穿材料的腐蚀性液体） | $100 |
 | 兴奋剂（立即恢复危急伤害，+1d4 临时敏捷）   | $100 |
@@ -780,7 +781,7 @@ NPC 可能会遭受叙事创伤，但若无法豁免危急伤害，就会丧失�
 
 ### 确定严重性
 
-当调查员遭受**创伤**时，其具体内容由主持人决定。严重性视为参考点，皮肉伤是暂时的，轻伤和重伤是需要治疗/缓解的持久影响，而致命伤则需立即采取应对措施。有三种方法可以确定创伤的具体情况。
+当调查员遭受**创伤**时，其具体内容由主持人决定。严重性视为参考点，皮肉伤是暂时的，轻伤和重伤是需要医治/缓解的持久影响，而致命伤则需立即采取应对措施。有三种方法可以确定创伤的具体情况。
 
 - 根据严重性的叙事与规则来选择由此产生的**创伤**。
 - 根据**属性值**的损失量来确定严重性。多个实例应累计恶化，并在确定新创伤时将**属性值**的损失总量从最大值中扣除。
@@ -790,10 +791,10 @@ NPC 可能会遭受叙事创伤，但若无法豁免危急伤害，就会丧失�
 
 使用下表确定伤害/创伤的部位。
 
-| d12  | 部位 |
+| d12  | 位置 |
 | ---- | ---- |
 | 01   | 头部 |
-| 02   | 面部 |
+| 02   | 面容 |
 | 03   | 喉咙 |
 | 04   | 胸膛 |
 | 05   | 后背 |
@@ -842,9 +843,9 @@ NPC 可能会遭受叙事创伤，但若无法豁免危急伤害，就会丧失�
 ### 压力示例
 
 - **1 压力**：目睹恐怖事物。
-- **1d4 压力**特别恐怖的情景或次要恐怖的能力。
-- **1d6 压力**重大恐怖的能力
-- **1d8+ 压力**特别骇异实体的能力，或目睹人类无法消化的情景。
+- **1d4 压力**：特别恐怖的情景或次要恐怖的能力。
+- **1d6 压力**：重大恐怖的能力
+- **1d8+ 压力**：特别骇异实体的能力，或目睹人类无法消化的情景。
 
 
 ### 余波
@@ -868,7 +869,7 @@ NPC 可能会遭受叙事创伤，但若无法豁免危急伤害，就会丧失�
 
 代表幽影的腐化。
 
-1. **Shadow Stained Blood**: Inky blemishes appear in your blood, spider-webbing across your body. + 1 Armor.
+1. **Shadow Stained Blood**: Inky blemishes appear in your blood, spider-webbing across your body. +1 Armor.
 2. **Halo of Black Flame**: It forms over your head, faint at first, but the longer you spend in this place, the more pronounced it becomes. Roll d4 and add it to your CTRL (max 18).
 3. **Creeping Black Mold**: It stains your fingertips, slowly spreading further and further. Roll d4 and add it to your STR (max 18).
 4. **Feet of Tar**: Your feet drip with a viscous shadow. You cannot wear shoes and every step you take leaves a dark print. Roll d4 and add it to your DEX (max 18).
@@ -972,84 +973,84 @@ NPC 可能会遭受叙事创伤，但若无法豁免危急伤害，就会丧失�
 ## 超自然生物志
 
 **异教徒**
-<br>**STR** 8, **DEX** 12, **CTRL** 10, **HP** 3
-<br>Dagger (d6), Blood Sigil (d4 Stress)
+<br>**力量** 8，**敏捷** 12，**意志** 10，**HP** 3
+<br>匕首（d6），血徽（d4 压力）
 
-- Every cult needs followers, footsoldiers, and believers.
-- To please their masters, to gain access to power, to survive.
-- Rarely alone.
+- 每个邪教都需要随从、走卒和信徒。
+- 取悦主人，获得权力，要生存。
+- 鲜少落单。
 
 **蛙人**
-<br> **STR** 13, **DEX** 12, **CTRL** 10, **HP** 4
-<br>Claws (d6), Tongue (d8)
+<br> **力量** 13，**敏捷** 12，**意志** 10，**HP** 4
+<br>爪抓（d6），舌舔（d8）
 
-- Sapient humanoid frogs. Large, muscular. Some are able to hide as men.
-- To remain hidden. To free their master. To inherit the earth.
-- Some have a moderate ability to create illusions and cloud minds. This can cause CTRL damage
+- 智慧类人青蛙。大块头，肌肉发达。有些伪装成人类。
+- 保持隐蔽。解放主人。接管地球。
+- 有些拥有制造幻象和蒙蔽心智的中等能力。这会造成意志伤害。
 
 **联邦特工**
-<br>**STR** 14,  **DEX** 12,  **CTRL** 10, **HP** 6, **ARMOR** 1
-<br>Service Pistol (d6)
+<br>**力量** 14，**敏捷** 12，**意志** 10，**HP** 6，**护甲** 1
+<br>军用手枪（d6）
 
-- Black suits, black glasses. Some believe, others doubt, most follow orders.
-- To obscure, to acquire, to maintain order
-- **Critical Damage:** The special agent apprehends the target.
+- 黑西装，黑墨镜。有些相信，有些怀疑，而多数服从命令。
+- 掩盖，获取，维稳
+- **危急伤害**：特工逮捕目标。
 
 **孢子之子**
-<br> **STR** 12,  **DEX** 8,  **CTRL** 6, **HP** 4
-<br>Spoor blessed dagger (d6)
+<br> **力量** 12，**敏捷** 8，**意志** 6，**HP** 4
+<br>孢子祝福匕首（d6）
 
-- The flesh is host to parasitic fungus that has overtaken the brain and connected them to the grand structure. Some have fruiting bodies sprouting from fissures in the flesh, while others are barely noticeable, except for the slight fuzz.
-- To propagate. To gestate. To &^%$(~!@
-- **Critical Damage:** Some of the spoors enter the victim's body.
+- 肉体寄宿着寄生真菌，这种真菌已经占据了大脑，并将其连接到宏伟结构中。有些寄生体在肉体的裂缝中长出果实般的结构，而另一些则几乎不易察觉，只有微微的绒毛。
+- 传播。酝酿。&^%$(~!@。
+- **危急伤害**：一些孢子进入了目标的身体。
 
 **异常局特工**
-<br>**STR** 10,  **DEX** 14,  **CTRL** 14, **HP** 8
-<br>Magitek prototype weapon (d6 blast)
+<br>**力量** 10，**敏捷** 14，**意志** 14，**HP** 8
+<br>磁力原型武器（d6 群攻）
 
-- Varying in look but always professional in dress and appearance.
-- To protect corporate interests, to test, to acquire.
-- Each analyst has a different specialty, all pose unique dangers to the fabric of reality. Give a critical damage trigger that reflects their department.
+- 造型各异，但着装和外表始终专业。
+- 保护公司利益，测试，收购。
+- 每位分析师都有不同的专长，全都对现实结构构成独特威胁。给出一个体现其部门的危急伤害效果。
 
 **女巫**
-<br> **STR** 8,  **DEX** 12,  **CTRL** 13, **HP** 8, **ARMOR** 2
-<br>Walking stick (d6), Magic (at least 2 spells)
+<br> **力量** 8，**敏捷** 12，**意志** 13，**HP** 8，**护甲** 2
+<br>拐杖（d6），魔法（至少 2 道法术）
 
-- Witches can look like anyone. Some have been changed through proximity to magic (you can roll on Magic - Fallout Mutations if you want to up their weird)
-- To learn, to hide, to influence. Sometimes, to teach.
-- **Critical Damage:** The Witch leaves their sigil upon their target, forming a connection with them.
+- 女巫可以看起来像任何人。有些因沾染魔法而发生了转变（若想增强其怪异，可投骰魔法余波突变）。
+- 学习，隐藏，影响。有时传授。
+- **危急伤害**：女巫在目标身上留下徽记，与目标形成联系。
 
 **鬼魂**
-<br>**STR** 10,  **DEX** 10,  **CTRL** 13, **HP** 10, **ARMOR** 3
-<br>Spectral embrace (d6 CTRL)
+<br>**力量** 10，**敏捷** 10，**意志** 13，**HP** 10，**护甲** 3
+<br>幽魂怀抱（d6 意志）
 
-- Incorporeal spirits unable to leave after death.
-- Drives vary as much as in the living. The act of becoming a ghost often means they lean toward violence, vengeance, and pettiness.
-- Can attempt a possession, target must succeed a CTRL save to resist.
+- 死后无法离去的无形灵魂。
+- 驱动力如同活人各不相同。成为鬼魂通常意味着他们倾向于暴力、复仇和小气。
+- 可尝试附身，目标须通过意志豁免才能抵抗。
 
 **母亲**
-<br> **STR** 14,  **DEX** 8,  **CTRL** 14, **HP** 14
-<br>Claws (d8, transforming), Kiss (d6 stress)
+<br> **力量** 14，**敏捷** 8，**意志** 14，**HP** 14
+<br>爪抓（d8，转化），亲吻（d6 压力）
 
-- Impossibly tall, curvy, pale.
-- To protect, to nurture, to punish.
-- **Critical Damage:** Her time is now. Mother transforms.
+- 身材高挑，曲线优美，面色苍白。
+- 保护，养育，惩罚。
+- **危急伤害**：她的时间到了。母亲转变。
 
 **虫群**
-<br>**STR** 14,  **DEX** 10,  **CTRL** 10, **HP** 10, **ARMOR** 3
-<br>Cascade of vermin (d6, blast)
+<br>**力量** 14，**敏捷** 10，**意志** 10，**HP** 10，**护甲** 3
+<br>害虫瀑布（d6，群攻）
 
-- Was once a normal person, now they are host to a legion (choose maggots/worms/ants). Upon close inspection the viewer can see movement underneath the skin. Treat as a Detachment
-- To burrow, to corrupt, to spread.
-- **Critical Damage:** The victim is unable to pick off the swarm in time, they begin to burrow too deep.
+- 曾是个普通人，现在是一个军团的宿主（选择蛆虫/蠕虫/蚂蚁）。仔细观察时，可看到皮肤下有运动。视作一个支队。
+- 挖掘，腐蚀，扩散。
+- **危急伤害**：目标无法及时清除虫群，它们开始深入钻进体内。
 
 **塑肉匠**
-<br> **STR** 16,  **DEX** 8,  **CTRL** 12, **HP** 12, **ARMOR** 2
-<br> Hands (d8 - d10)
+<br> **力量** 16，**敏捷** 8，**意志** 12，**HP** 12，**护甲** 2
+<br>手（d8 - d10）
 
-- Master of the flesh, his appearance shifts and changes. Most often in a massive form, all muscle & bone at impossible proportions.
-- To make art. To perfect. To manipulate
-- **Critical Damage:** He is an artist, and the victim’s body is the clay. The Fleshsmith distorts an appendage in an impossible way.
+- 肉体之主，他的外貌不断变换。通常显现为巨大形体，全身是肌肉与骨骼，比例失常。
+- 创造艺术。追求完美。操控。
+- **危急伤害**：他是一名艺术家，而目标的身体就是他的雕塑材料。塑肉匠以违背常理的方式扭曲一个肢体。
 
 [返回目录](#index)
 
@@ -1116,14 +1117,14 @@ NPC 可能会遭受叙事创伤，但若无法豁免危急伤害，就会丧失�
 
 | 投骰  | 效果 | 描述                                                         |
 | ----- | ---- | ------------------------------------------------------------ |
-| 1     | 恶兆 | Roll to determine a random Investigator. Roll on a Fallout table. Present an omen or portent relating to that Fallout, and it is now fated to be the next Fallout they get. |
-| 2-4   | 遭遇 | Facilitator rolls on an encounter table. If only one monster is in the location, they encounter it instead. |
-| 5-7   | 恐怖 | The party discovers something frightening/horrific. Each Investigators suffers 1+ Stress. |
-| 8-10  | 挫折 | The party encounters a setback (a hazard either physical, environmental, or magical). One option is to have scarcity set in (equipment breaks, depleting supplies). Focus on what is most relevant at that moment. |
-| 11-13 | 现场 | The environment changes around the party (alarm, pathway closes off, physical material of a space shifts, etc.). |
-| 14-16 | 线索 | Present a hint, warning, or clue (shadows wreathed in blue flame, bullet holes, sizzling bloodstains). Abilities and drives of the monsters can inform choice. |
-| 17-19 | 释放 | No additional effect on this turn. Negative temporary effects end. |
-| 20    | 重整 | No additional effect on this turn. Negative temporary effects end. |
+| 1     | 恶兆 | 投骰随机选中一名调查员。投骰余波表。提出一个与该余波有关的预兆或预言，那注定会成为该调查员遭受的下一个余波。 |
+| 2-4   | 遭遇 | 主持人投骰遭遇表。若该地点只有一只怪物，就改为遭遇它。       |
+| 5-7   | 恐怖 | 冒险团体发现了可怕/恐怖的事物。每名调查员遭受 1+ 压力。      |
+| 8-10  | 挫折 | 冒险团体遭遇挫折（物理、环境或魔法危害）。选项之一是引入稀缺性（设备损坏，物资耗尽）。专注于当下最相关的事物。 |
+| 11-13 | 现场 | 冒险团体周遭环境发生变化（警报响起，通道关闭，空间的物理材质改变等）。 |
+| 14-16 | 线索 | 提供一项暗示、警告或线索（蓝火包裹的阴影，子弹孔，咝咝热气的血迹）。怪物的能力和驱动力可作为线索的参考。 |
+| 17-19 | 释放 | 本回合无额外效果。终结暂时负面影响。                         |
+| 20    | 重整 | 本回合无额外效果。终结暂时负面影响。                         |
 
 
 [返回目录](#index)
@@ -1140,15 +1141,15 @@ NPC 可能会遭受叙事创伤，但若无法豁免危急伤害，就会丧失�
 
 ### 神秘框架
 
-| **试金石**       | Create a list of films, games, comics, or novels to help anchor the tone and act as visual reference for the mystery. |
+| **试金石**       | 创建一份电影、游戏、漫画或小说的清，以帮助确立基调，并作为神秘事件的视觉参考。 |
 | ---------------- | ------------------------------------------------------------ |
-| **概念**         | Write a clear and succinct concept statement. If it is too confusing, that may mean you need to edit some of the other variables in the mystery. |
-| **派系及其目标** | List the initial factions and their goals. Use the agendas to inform NPC reactions in and out of play. |
-| **灾厄**         | Clock Create a baseline sequence of events that happen if the Investigators don’t intervene. Actions taken change the progression of the DOOM clock. Changes to the DOOM clock should consider the goals of the factions at play. |
-| **引子**         | Create multiple entry points that can be used to entangle the table in the mystery. |
-| **潜在线索**     | Create a non-comprehensive list of potential clues that Investigators can discover. When thinking about the mystery, think of tangible clues that the Investigators can find. |
-| **NPCs**         | Create a list of important NPCs with their stat blocks. Use the **Paranatural Bestiary** for some example monsters or create them using the **Creating Monsters Guidance**. |
-| **地点**         | Decide on a few important locations and write some descriptions for them. Draft some rough maps of locations as a way to anchor investigators during play. |
+| **概念**         | 撰写简洁明了的概念陈述。若过于混乱，或许意味着需要编辑神秘事件的其他变量。 |
+| **派系及其目标** | 列出最初的派系及其目标。利用议程来指导 NPC 在游戏内外的反应。 |
+| **灾厄时钟**     | 创建一系列基本事件的时间线，若调查者不进行干预就会发生。调查员所采取的行动会改变灾厄时钟的进程。灾厄时钟的更改应考虑到各派系的目标。 |
+| **引子**         | 创建多个切入点，方便玩家参与神秘事件。                       |
+| **潜在线索**     | 创建一个不必详尽的潜在线索列表，供调查员发现。在考虑神秘事件时，想想调查员可找到的具体线索。 |
+| **NPC**          | 创建一份重要 NPC 的列表，并附上角色数据。参考**超自然生物志**的怪物示例，或使用**创作怪物指导**来创建。 |
+| **地点**         | 确定几个重要地点，并为其写一些描述。草拟一些地点的粗略地图，以便在游戏中为调查员提供固定参照 |
 
 [返回目录](#index)
 
@@ -1168,7 +1169,7 @@ NPC 可能会遭受叙事创伤，但若无法豁免危急伤害，就会丧失�
 
 ### 冒险团队成分
 
-「这是一支由独行侠、怪咖、窃偷、边缘人、异端、反学术官僚份子组成的精英团队。」——《新·哥斯拉》2016
+「这是一支由独行侠、怪咖、窃贼、边缘人、异端、反学术官僚份子组成的精英团队。」——《新·哥斯拉》，2016
 
 深入探讨是什么集结了冒险团体，是另一项可供调整的变量，这有助于强化主题、基调和设定。有时这种联系是根据设定暗示的（《购物中心》的人们作为顾客或员工），有时则更加开放解读（《异常局》有几个问题可能会更涉及人们的业务经验），但偶然性也常常是罪魁祸首。
 
@@ -1202,52 +1203,52 @@ NPC 可能会遭受叙事创伤，但若无法豁免危急伤害，就会丧失�
 
 ## 附录 F：试炼规则
 
-A funnel is often an intro game mode where each player has control of multiple PCs who are often fresh, inexperienced, and squishier then regular Liminal Horror Investigators. A common aspect of funnels is the spectacular and memorable ways PCs meet their grim ends.
+试炼经常充当游戏教程，每位玩家都可控制多名新手 PC，而新手调查员往往更为生疏和怯懦。试炼中的 PC 很容易迎来壮烈又残酷的结局。
 
 ### 危急伤害 - 试炼时死亡（并失踪）
 
-**Rule Change**: When Funnel Investigators suffer Critical Damage they die. This is different than the Core rules for Liminal Horror where they gain a Wound.
+**规则变化**：当试炼调查员遭受危急伤害时，就会直接死亡。而在《阈值恐怖》核心规则中，他们会遭受一次创伤。
 
-**Death**: When an Investigators dies in a Liminal Horror Funnel it should be graphic, big, and memorable. Use the narrative, monster abilities/drives to inform what happens to the DOOMED Investigator.
+**死亡**：调查员在试炼中的牺牲应当是生动的、重大又难忘的。利用叙述、怪物能力/驱动力来告知迎来灾厄的调查员会发生什么。
 
-**Some examples are**: loss of limb, split in two (or more) pieces, exploding, melting, combusting, eaten, ripped, sliced, mauled, crushed, de-fleshed.
+**一些示例**：肢体残缺、劈成两半（以上）、爆炸、融化、燃烧、啃噬、撕裂、虐碎、痛殴、碾碎、剔骨。
 
 ### 危急压力 - 试炼时变成诡物
 
-Rule Change: When Funnel Investigators suffer Critical Stress and receive Fallout they becomes lost, consumed by the weird abyssal changes of the fallout (they are now an NPC).
+**规则变化**：当试炼调查员遭受危急压力的余波时，就会直接迷失，惨遭怪异深渊转变的吞噬（变成 NPC）。
 
 ### 角色生成
 
-Each player creates three Investigators according to the following steps:
+每名玩家按照以下步骤创建三个调查员：
 
-- Generate Ability Scores by rolling 2d6 for each Ability in order (for a total of 2-12 in each Ability Score). No results are swapped.
-- Roll 1d4 to determine each Investigator’s starting HP.
-- Roll on the Backgrounds table below unless the adventure has custom Backgrounds.
-- Optional: Roll on the **Details** or **Traits** tables.
-- Each Investigator starts with a phone, cash ($3d10 x 3d10) and two items from their Background according to the following tables.
+- 按顺序投骰 2d6 来生成属性值（每项属性值的范围是 2-12）。不可调换结果。
+- 投骰 1d4 以确定每名调查员的起始 HP。
+- 投骰下述出身表，除非冒险有定制出身。
+- 可选：投骰**细节**或**特质**表。
+- 每名调查员起始拥有一部手机、现金（$3d10×3d10）和两件来自出身的物品，具体如下表所示。
 
-| d20  | Backgrounds     | Items                                     |
-| ---- | --------------- | ----------------------------------------- |
-| 01   | **Journalist**  | Audio Recorder, Camera                    |
-| 02   | **Store Clerk** | Lighter, Mini Baseball Bat (d6)           |
-| 03   | **Private Eye** | Old Pistol (d6), Flask                    |
-| 04   | **Cleric**      | Vestment, Old Book                        |
-| 05   | **Medic**       | Scalpel (d6), Bag of Uppers               |
-| 06   | **Academic**    | Glasses, Scroll they cant read            |
-| 07   | **Artist**      | Sketchbook, Camera                        |
-| 08   | **Athlete**     | Sports Equipment (d6), Sweatband          |
-| 09   | **Criminal**    | Lockpicks, Mask and Gloves                |
-| 10   | **Drifter**     | Switchblade (d6), Travel Stove            |
-| 11   | **Old Money**   | Tennis Racket, Expensive Antique          |
-| 12   | **Author**      | Letter opener (d6), Cigarette and Lighter |
-| 13   | **Skater**      | Skateboard, Boombox                       |
-| 14   | **Very Online** | Laptop, Online Following                  |
-| 15   | **Lawyer**      | Briefcase (d4), Stack of letterhead       |
-| 16   | **Gig-worker**  | Bike, Helmet (+1 Armor)                   |
-| 17   | **Trades**      | Tools, Safety Wear                        |
-| 18   | **Social Work** | Taser (targets Dex), Gift Cards           |
-| 19   | **Finance**     | Gun (d6), Illegal Substances              |
-| 20   | **Hospitality** | Mace (targets Dex), Walkie Talkies        |
+| d20  | 出身         | 物品                         |
+| ---- | ------------ | ---------------------------- |
+| 01   | **记者**     | 录音机，相机                 |
+| 02   | **店员**     | 打火机，小棒球棒（d6）       |
+| 03   | **私家侦探** | 老式手枪（d6），酒壶         |
+| 04   | **牧师**     | 圣职服，古籍                 |
+| 05   | **医师**     | 手术刀 (d6)，兴奋剂药包      |
+| 06   | **学者**     | 眼镜，无法辨读的卷轴         |
+| 07   | **艺术家**   | 速写本，相机                 |
+| 08   | **运动员**   | 运动器材（d6），汗带         |
+| 09   | **罪犯**     | 开锁器，面具和手套           |
+| 10   | **漂泊者**   | 弹簧刀（d6），旅行炉         |
+| 11   | **老财**     | 网球拍，昂贵古董             |
+| 12   | **作者**     | 开信刀 (d6)，香烟与打火机    |
+| 13   | **滑冰手**   | 滑板，随身音响               |
+| 14   | **网虫**     | 笔记本电脑，网络粉丝         |
+| 15   | **律师**     | 公文包（d4），一叠信纸       |
+| 16   | **临时工**   | 自行车，头盔（+1 护甲）      |
+| 17   | **技工**     | 工具，安全服                 |
+| 18   | **社工**     | 电击枪 (针对敏捷)，礼品卡    |
+| 19   | **金融人**   | 枪 (d6)，非法物品            |
+| 20   | **服务员**   | 防身喷雾（针对敏捷），对讲机 |
 
 [返回目录](#index)
 
@@ -1255,46 +1256,46 @@ Each player creates three Investigators according to the following steps:
 
 ## 附录 T：时间流程
 
-Measurements of time are often abstracted in games, sometimes to the point of not being explicitly mentioned in the text.
+在游戏中，时间度量往往会抽象化处理，有时甚至不在文本中明确提及。
 
-With investigation/mystery style games, it can be important for the players to have time between events.
+在调查/悬疑风格的游戏中，玩家在事件之间有一定的余裕时间是很重要的。
 
-*The Investigators sit in the diner, drinking what has seemed like the same cup of coffee for the past week. It’s gone as cold as the trail. Progress has stagnated.*
+*调查员们坐在餐厅里，喝着过去一周里似乎都是同一杯的咖啡。它凉得好似山路一般。进展停滞不前。*
 
-Sometimes the problems need time to gestate and grow.
+有时，问题需要时间来酝酿和发展。
 
-Giving a larger scale of time can help prevent a mad dash of events. Variation in timescale is important, and not every sequence of events needs to be crammed into a single in-game night. Sometimes the evil needs to fester, and filling the spaces in between events of normality can make the horror hit even harder.
+给出较大的时间尺度有助于防止事件的疯狂发展。时间尺度的变化非常重要，并非所有事件都需要在游戏中的一个晚上发生。有时，邪恶需要发酵，填补正常事件之间的空隙会让恐怖来得更猛烈些。
 
-Integrating explicit procedures can help scale the action in a way that supports progression.
+整合明确的流程有助于以支持发展的方式扩大行动规模。
 
 
 ### 阶段 & 动作
 
-Create distinct phases of time such as Morning/Midday/Evening/Night.
+创建不同的时间阶段，譬如早晨/中午/傍晚/夜晚。
 
-**Actions**: Limit Investigators to 1-2 actions per phase. This keeps the procedure manageable by generalizing the length of time for actions.
+**行动**：限制调查员每阶段只能采取 1-2 项行动。这样，就可将行动的时间长度常规化，从而保持流程可控。
 
-**Reinforcement through in-world cues**: Leverage narrating daily rituals to help frame the movement of time (focusing on what the Investigators eat for their meals, etc.).
+**沉浸式强调**：利用叙述日常仪式来帮助塑造时间流逝（重点叙述调查员的饮食等）。
 
-**Timeframes**: This structure allows you to influence encounters based on what phase of time it is.
+**时间框架**: 该结构有助于根据时间阶段来影响遭遇。
 
 
-### 快进
+### 拉远视角
 
-Zooming out from the immediate action and moving through time (days, even weeks) can help give space for the story to progress. Not every moment of the Investigators’ lives needs to be played out at the table.
+将镜头从眼前的行动拉远，穿越时间（几天，甚至几周），有助于为故事发展留出空间。调查员的生活并非每时每刻都需要在桌上演绎。
 
-This also helps the Facilitator focus on the normality of the world around the Investigatorts and provides a foil for the horrifyingly weird to juxtapose with.
+这有助于主持人关注调查员周遭世界的正常性，并为恐怖怪异的并置提供衬托。
 
-**Downtime**: Depending on the measurement of time fast forwarded, have each player give details about what their Investigator did during that time (went to work, visited friends, tried to heal, etc.).
+**休整期**：根据快进时间的度量，让每位玩家详细介绍他们的调查员在这段时间里做了什么（上班、访友、尝试治疗等）。
 
-**Clues**: During these sequences the Facilitator has the opportunity to make seeds planted earlier in the session come to fruition (a contact reaches out, a puzzle piece final clicks into place, etc.)
+**线索**：在这些环节中，主持人有机会让早些时候播下的种子开花结果（联系人伸出援手、拼图最终拼好等等。）
 
 
 ### 灾厄时钟 & 派系
 
-**DOOM**: Adding specific time scales to the DOOM clock is another means of establish scale of time for the narrative. Extending the timeframe between ticks of the DOOM clock can help trigger moments to zoom out between major events.
+**灾厄**：为灾厄时钟添加特定的时间刻度是为叙事建立时间刻度的另一种方法。延长灾厄时钟每一格的时限，有助于在重大事件之间找到契机从而拉远视角。
 
-**Factions**: Using a larger time scale can mean that different variables in play, especially faction drives, have the space to interact and ripple through the world.
+**派系**：使用更大的时间尺度意味着游戏中的不同变量，尤其是派系驱动力，将有空间在世界中产生互动和波澜。
 
 [返回目录](#index)
 
@@ -1302,84 +1303,84 @@ This also helps the Facilitator focus on the normality of the world around the I
 
 ## 附录 C：状态
 
-Conditions are consequences given due to failed rolls, encountering monsters, and narrative choices.
+状态是因投骰失败、遭遇怪物和叙事选择而产生的后果。
 
-- Most can be cleared.
-- Each takes up an Inventory Slot.
-- Many Conditions have a straightforward cause.
+- 大部分可被清除。
+- 每项状态占用一个行装栏。
+- 许多状态都有一个直接成因。
 
-Many monsters have special abilities that cause conditions.
+许多怪物拥有特殊能力可以造成状态。
 
-The Liminal Horror core rules has two conditions: DEPRIVED and FATIGUE.
+《阈限恐怖》核心规则有两个状态：匮乏和疲乏。
 
-This appendix provides a more nuanced use of conditions, deriving more specific instances from the overarching DEPRIVED tag.
+本附录更细致地阐述了状态的用法，从匮乏标签中引申出了更多的具体实例。
 
 ### 状态
 
-- **EXHAUSTED** - Investigator goes without rest or as failure; a consequence for physical exertion. CLEAR: long rest.
-- **HUNGRY** - Investigator goes without food for a day. CLEAR: eat a meal.
-- **THIRST** - Investigator goes without water for a day. CLEAR: push liquids.
-- **FRIGHTENED** - Often a consequence of a failed CTRL Save in the face of terrifying reality or serious metaphysical injury. Investigator requires CTRL Save to approach the source. CLEAR: long rest and a memento that represents normalcy.
+- **疲惫** - 调查员不休息或休息失败；体力消耗的后果。清除：长久休息。
+- **饥饿** - 调查员一天没有进食。清除：进食。
+- **干渴** - 调查员一天没有饮水。清除：饮水。
+- **惊恐** - 面对骇人现实或严重的形而上学伤害，通常是意志豁免失败的后果。调查员须通过意志豁免才能靠近源头。清除：长久休息，并通过代表正常的纪念物来安抚心灵。
 
 ### 严重状态
 
-- **DEPRIVED** - Investigator is unable to recover HP or ability scores. CLEAR: Fill the need that caused the DEPRIVED condition.
-- **WOUNDED** - Received after Critical Damage or certain injuries, some actions may be more risky. CLEAR: full rest and medical treatment.
-- **POISONED**- Toxins flow through the Investigator. DEX is decreased by d6. . CLEAR: Medical treatment, prolonged rest in a safe space, forced expelling of the toxin.
-- **DRAINED** - Residual blowback from spellcasting or magic. CLEAR: full rest.
-- **FATIGUE** - Can be caused by being Deprived for more that 24 hours; can also be a common risk with battling the weird. CLEAR: long rest in a safe space.
+- **匮乏** - 调查员无法恢复 HP 或属性值。清除：满足导致匮乏的需求。
+- **创伤** - 承受危机伤害或某些伤势后，某些行动可能会更加危险。清除：充分休息和医治。
+- **中毒**- 毒素流经调查员。敏捷减少 d6。清除：医治，安全环境下的长久休息，强制排毒。
+- **衰竭** - 施法或魔法的残余反噬。清除：充分休息。
+- **疲乏** - 可能是匮乏超过 24 小时而导致；也可能是与怪异作战时常见的风险。清除：安全环境下的长久休息。
 
 
 [返回目录](#index)
 
 <p></p>
 
-## 附录 L：幸运与倒叙
+## 附录 L：幸运与闪回
 
 ### 幸运
 
-LUCK is an additional stat that can be spent to modify a Save (STR, DEX, CTRL). A player's initial LUCK is rolled like their other Ability Scores (3d6).
+幸运是一种额外属性，可用于调整豁免（力量、敏捷、意志）。玩家的初始幸运投骰类似其他属性值（3d6）。
 
 #### 花费幸运
 
-For every one LUCK spent subtract one from the Save. Spending Luck permanently decreases it by the amount spent.
+每花费 1 点幸运，可为豁免投骰结果 -1。花费的幸运会永久减少。
 
-- Billy the convenience store clerk is trying to hold the front doors closed.
-- He has 14 STR and 8 LUCK. If he fails his Save the THING will push its way in.
-- Billy makes a STR Save and rolls a 16 (failure).
-- Billy decides this is important and spends two LUCK to make the roll a 14 (success), but now his LUCK is 6 (for the two points spent to augment the roll).
-
-
-#### 考验幸运
-
-Sometimes fate has a way of intervening into the lives of mere mortals. The Facilitator can call for an Investigator to TEST THEIR LUCK. The player makes a LUCK Save.
-
-- **FAILURE**: If the player fails their rolls, increase LUCK by one, but a new complication is introduced, or a situation becomes more dire.
-- **SUCCESS**: If the player succeeds, LUCK holds and something good happens (an opportunity or advantage opens up), but LUCK decreases by 1.
-- **LUCK** is never static. It fluctuates, keeping Investigators safe as it dwindles away.
+- 便利店员比利正试图关上前门。
+- 他有 14 力量和 8 幸运。若其豁免失败，那东西就会冲进来。
+- 比利进行力量豁免，投出 16（失败）。
+- 比利认为事关重大，于是花费了 2 点幸运，使投骰结果降为 14（成功），但现在他的幸运是 6（因为花了 2 点幸运来加强投骰）。
 
 
-### 倒叙
+#### 幸运考验
 
-When events of the session are underway, players can invoke a flashback (one per Investigator per session) to set up a scene in the past that impacts the current situation.
+有时，命运会以某种方式介入凡人的生活。主持人可令一名调查员来进行幸运考验。玩家进行幸运豁免。
 
-A **flashback** often shows a special preparation that happened. This allows prep and planning to be directly linked to what happens in play (instead of dwelling on what may happen in planning stages).
+- **失败**：若玩家豁免失败，则幸运 +1，但会出现新的复杂情况，或使情况更加严峻。
+- **成功**：若玩家豁免成功，则幸运 -1，但会有好事发生（机会或优势出现）。
+- **幸运**并不固定。它会波动，在逐渐流失的同时保障调查员的安全。
 
-Not all **flashbacks** require a roll, but some might if there is risk involved. This may simply be a Die of Fate to determine how effective/well the flashback impacts the present (1d6, with 6: Good Result/ 4-5: Mixed Result/ 1-3: Bad Result).
+
+### 闪回
+
+在游戏过程中，玩家可调用闪回（每名调查员在每回游戏日程中只能调用一次）来设置影响当前情况的过去场景。
+
+**闪回**通常表示过去发生的特定准备工作。这使得准备与计划能直接挂钩游戏中发生的事情（而非在计划阶段就纠结可能发生的事情）。
+
+并非所有**闪回**都需要投骰，但若涉及风险也可能需要。也可用命运骰来决定闪回对现在的影响效果（1d6，6：好结果/ 4-5：混合结果/ 1-3：坏结果）
 
 
 #### 局限
 
-Flashbacks don’t erase the reality of what has happened. They are not time travel or a big “redo” button. The narrative reality is still very much established.
+闪回不能抹去现实中发生的一切。它不是时间旅行，也不是什么「撤回」按钮。叙事的现实性仍然非常牢固。
 
-What flashbacks do is allow players to showcase how their Investigator potentially prepared for such a situation. This creates unique opportunities directly linked to what is occurring.
+闪回的作用是让玩家展示其调查员是如何预先为目前情况做好了潜在准备。这就创造了直接关联目前状况的独特机会。
 
 
 #### 示例
 
-- Procuring silver daggers from a semi-reputable back-alley dealer.
-- Loaded the trunk with makeshift explosives.
-- Planted contraband in the bathroom stall.
+- 从毁誉参半的后巷小贩那里采购了银匕首。
+- 在后备箱里装满了临时炸药。
+- 在厕所隔间里藏好了违禁品。
 
 [返回目录](#index)
 
@@ -1387,43 +1388,43 @@ What flashbacks do is allow players to showcase how their Investigator potential
 
 ## 附录 I：物品标签
 
-The addition of tags provides a modular option to boost the potential complexity for items used in play.
+添加标签提供了模块化选项，可提高游戏中使用的物品的潜在复杂性。
 
-Tags can be added to items to modify how they are used. Not every item needs a tag. Tags can be added to make an item unique. Facilitators have the option to use only the [Descriptive] tags and omit the [Mechanical] rules text in favor of rulings during play.
+可添加标签，以修改物品的性质。并非所有物品都需要标签。可添加标签，使物品独一无二。主持人可选择只使用[描述]标签，而省略[机制]规则文本，以便在游戏过程中自由裁决。
 
-**Descriptive Tags** act as narrative clues that can be leveraged in fiction. They can be implemented on their own and their use can be made as rulings at the table.
+**描述标签**可作为叙事线索加以利用。它们既能独立运作，也能结合自设规则自由裁定。
 
-**Mechanical Tags** pair with their [Descriptive] counterparts to add prescriptive rules, providing explicit mechanical implications for use during play.
+**机制标签**与[描述]配对，添加了明确规范的机制规则。
 
-| [DESCRIPTIVE]     | [MECHANICAL]                                                 |
-| ----------------- | ------------------------------------------------------------ |
-| **ACID**          | A caustic liquid that burns through stuff. Causes persistent damage until removed. |
-| **BLAST**         | An attack that hits everything in a target area with damage rolled separately for each affected. |
-| **BLEED**         | Damage beyond HP triggers a Save. On a failure, the victim suffers 1d4 damage at the end of scene. |
-| **BRUTAL**        | Damage is Enhanced. Using this item causes 1 Stress to the wielder. |
-| **BULKY**         | Items take two Inventory Slots and is awkward or requires two hands. |
-| **COMPLEX**       | DEX saves are Impaired.                                      |
-| **DANGEROUS**     | Damage is Enhanced (d12) but the wielder must make a Save or suffer the damage as well. |
-| **DEBILITATING**  | Damage beyond HP is divided (rounded up) between DEX and STR. |
-| **DETERIORATING** | After each use, make a CTRL Save. Failure runs the risk of breaking or reduction in usefulness. |
-| **DISCREET**      | Easy to hide. Often overlooked.                              |
-| **DISTRESSING**   | Using this item causes others to suffer 1 Stress.            |
-| **LIMITED**       | Has a finite number of uses.                                 |
-| **LOUD**          | Everyone in the nearby vicinity can hear its use.            |
-| **MESSY**         | Creates a mess (blood, bone, vicera). Witnessing causes 1 Stress. |
-| **NON-LETHAL**    | 溢出 HP 后损伤敏捷。                                         |
-| **PERILOUS**      | Has the potential to cause those who carry it to be Deprived. |
-| **PIERCING**      | Ignores Armor and goes straight to STR.                      |
-| **POISON**        | Damage beyond HP triggers a Save. On a failure, the victim suffers 1d4 damage to DEX at the end of scene. |
-| **POTENT**        | Damage rolls using this item are Enhanced.                   |
-| **QUICK**         | If using this, go first (if speed is a factor).              |
-| **SILENT**        | This item can be used without a sound.                       |
-| **SLOW**          | If using this, go last (if speed is a factor).               |
-| **SUBSTANDARD**   | Less effective than its normal counterparts.                 |
-| **TIRING**        | Failure while using this item causes a level of Fatigue.     |
-| **UNRELIABLE**    | Failure while using this item causes it to become unsuable for the rest of the session. |
-| **UNSTABLE**      | Runs the risk of expolding/detonating/going off.             |
-| **UNWIELDY**      | Difficult to move quickly, quietly, or in tight spaces.      |
+| [描述]     | [机制]                                                       |
+| ---------- | ------------------------------------------------------------ |
+| **酸性**   | 灼烧物体的腐蚀性液体。持续造成伤害，直到被移除。             |
+| **群攻**   | 攻击可命中目标区域内所有物体，对每个物体分别投骰伤害。       |
+| **出血**   | 伤害超出 HP 会触发一次豁免，若失败，目标在场景结束时遭受 1d4 伤害。 |
+| **残暴**   | 伤害增强。该物品的使用者会承受 1 点压力。                    |
+| **笨重**   | 物品占用两个行装栏，很不方便，或是需要双手操作。             |
+| **复杂**   | 敏捷豁免削弱。                                               |
+| **危险**   | 伤害增强（d12），但使用者须通过豁免，否则也会遭受伤害。      |
+| **衰弱**   | 超出 HP 的伤害会在敏捷和力量之间平分（向上取整）。           |
+| **恶化**   | 每次使用后进行意志豁免。若失败则可能导致物品损坏或效用减少。 |
+| **隐蔽**   | 容易隐藏。经常被忽视。                                       |
+| **施压**   | 使用此物品会导致他人遭受 1 压力。                            |
+| **有限**   | 可用次数有限。                                               |
+| **响亮**   | 附近每人都能听到它的使用。                                   |
+| **凌乱**   | 造成凌乱（血、骨、内脏）。目击者承受 1 压力。                |
+| **非致命** | 溢出 HP 后损伤敏捷。                                         |
+| **凶险**   | 可能导致携带者陷入疲乏。                                     |
+| **穿刺**   | 无视护甲，直接伤害力量。                                     |
+| **毒素**   | 伤害超出 HP 会触发一次豁免，若失败，目标会在场景结束时遭受 1d4 敏捷伤害。 |
+| **强效**   | 此物品的伤害投骰会增强。                                     |
+| **迅速**   | 若使用，最先行动（若考虑速度因素）。                         |
+| **静默**   | 可无声使用。                                                 |
+| **缓慢**   | 若使用，最后行动（若考虑速度因素）。                         |
+| **劣质**   | 效果不如正常物品。                                           |
+| **费力**   | 使用失败时，导致 1 个疲乏等级。                              |
+| **不可靠** | 使用失败会导致在本回游戏日程中不可再使用。                   |
+| **不稳定** | 有爆炸/引爆/走火的风险。                                     |
+| **不合用** | 在快速安静移动或狭小空间中难以使用。                         |
 
 [返回目录](#index)
 
@@ -1433,43 +1434,43 @@ Tags can be added to items to modify how they are used. Not every item needs a t
 
 ### HP
 
-Vehicles have HP. 当 HP 降至 0 时，载具就会全毁。Totaling a vehicle causes damage to those in and around.
+载具拥有 HP。当 HP 降至 0 时，载具就会全毁。载具全毁会对其内部和周围的人物造成伤害。
 
 ### 载具造成伤害
 
-Vehicle damage is relative to the target and its speed. Start at d6 and scale up or down according to the fiction/variables (size, speed, other aspects of physics).
+载具伤害与目标及其速度有关。从 d6 开始，并根据叙事/变量（大小，速度，其他物理量）进行调整。
 
 ### 冲撞
 
-Ramming causes damage to both objects that collide. If there is a size disparity, the smaller vehicle’s damage is Impaired (d4). Soft targets (like fleshy people) do not damage vehicles.
+冲撞会对碰撞的两个物体造成伤害。若载具大小不同，较小载具的伤害会削弱（d4）。软目标（譬如血肉之躯）不会伤害车辆。
 
 ### 我能用载具伤害怪物吗？
 
-**Short answer**: Yes.
-**More nuanced answer**: Depends on the fiction. The only way to find out for sure is to try.
+**简单答案**：能。
+**更细致的答案**：取决于叙事。不试试怎么知道。
 
 ### 追车桥段
 
-You can’t grapple with the weird without chase scenes. Sometimes you are outrunning the law/cultists, other times you are racing against the clock to save someone, sometimes it’s just that you are being chased by something not of this world. To the detriment of the Investigators, it is often a combination of these things.
+没有追车桥段，就无法抓住怪异。有时你要躲避法律/邪教徒的追捕，有时你要争分夺秒地救人，有时你只是逃离异世界存在的追赶。对调查员不利的是，这几种情况往往齐头并进。
 
 ### 后果
 
-When players are engaged in high-speed vehicle play, they should only be rolling if failure is interesting. Here is a table of potential complications that can happen when driving fast. Allude to these prior to a roll. Sometimes players can cleverly avoid one hazard while still being at risk of others.
+当玩家参与高速载具追逐时，只有失败也有趣时才应投骰。以下是快速驾驶的潜在后果一览表。在投骰之前提及这些内容。有时，玩家可以巧妙地避开一种危害，但仍会面临其他风险。
 
-- Environmental Hazard (broken down car, barriers, construction)
-- Pedestrian (people in the street, on the sidewalk, soft targets vs hard bodies)
-- Traffic (slow cars are the antithesis of speedy car chases)
-- Car Troubles (lights, mirrors, tires, brakes, steering, check engine lights)
-- Concerned Citizens (photographs, video taken/posted, calling the cops, people equal exposure)
-- Damage or Destroy Property (parked cars, carts, furniture, shops, buildings, anything found in a city).
+- 环境危害（抛锚车辆，障碍物，施工）
+- 行人（街上的人，人行道上的人，软目标 vs 硬目标）
+- 交通（缓慢车辆阻碍高速追车）
+- 汽车故障（灯光，后视镜，轮胎，刹车，方向盘，引擎故障灯）
+- 热心民众（拍照，录视频/发布，报警、群众曝光）
+- 伤害或摧毁财产（停放车辆，手推车，家具，商店，建筑物，城市中可见的任何物品）
 
-**Note**: Some complications can compound, becoming larger obstacles and impeding progress.
+**附注**：有些后果可以混合，成为更大障碍而阻碍进展。
 
 ### 流程化追车
 
-If you want a system to help reinforce tension, use a simple clock to show how close the party is to the goal. Set it to 4, with successes filling in a section and failures introducing a complication and/or erasing a section of the clock.
+若你想用一个系统来加强紧张感，可用一个简易时钟来显示冒险团队距离目标有多近。将其设为 4 格，成功时填满一格，失败时引入一个后果和/或擦除时钟的一格。
 
-When all four sections are filled, the players achieve their goal. Drivers can opt to do other actions (ram, overcome a complication, a clever maneuver) instead of trying to add to the clock.
+当四格都填满后，玩家就实现了目标。驾驶员可选择其他行动（冲撞、克服后果、精妙操作），代替试图推进时钟。
 
 [返回目录](#index)
 
@@ -1479,54 +1480,54 @@ When all four sections are filled, the players achieve their goal. Drivers can o
 
 ### 异常局
 
-The Bureau is a government organization tasked with controlling the paranatural.
+异常局是一个负责管控超自然现象的政府组织。
 
 ### 行动
 
-Contain and control any paranatural threats. Dimensional bleeds, planar anomalies, noneuclidian mathematical incursions, monsters and “magic” all fall in the operational domain of The Bureau.
+遏制和控制任何超自然威胁。维度泄漏、位面异常、非欧几里得数学入侵、怪物和「魔法」都属于异常局的业务范围。
 
-Given their unorthodox and wide purview, and an operations budget of [redacted] means they can apply whatever scope and scale Director [redacted] deems necessary.
+鉴于他们的非正统且广泛的职权范围，以及[删节]的运作预算，他们可以根据[删节]局长认为必要的任何范围和规模而采取行动。
 
-Their primary directive(since 19xx), is to safeguard, control access too, and protect all information related to the paranatural. This goal supersedes common rights of everyday citizens.
+他们的首要指令（自 19xx 年起）是保护、控制访问并防护与超自然相关的所有信息。这一目标凌驾于普通公民的基本权利之上。
 
 ### 基地
 
-The Bureau’s main headquarters is The Monolith (see page 8 of The Bureau: Operation Manual for unredacted details).
+异常局的主要总部位于丰碑（未删减情报详见《异常局：行动手册》第 8 页）。
 
-The Bureau often maintains satellite offices, black sites, as well as operations outposts. Given the extensive powers granted by the Privacy Act of 1974 (Pub.L. 93-579, 88 1974, 5 U.S.C 552a) The Bureau is authorized to commandeer local police resources as deemed necessary.
+异常局经常设有卫星办公室、黑色地点以及行动前哨站。鉴于 1974 年隐私法案（公法 93-579，88 1974，5 U.S.C 552a）授予的广泛权力，异常局有权根据需要征用当地警察资源。
 
-### 方法
+### 手段
 
-Extensive budget and scope allows for a wide range of methodology.
-Psyops, counter-intelligence, extraction, extermination, field testing, containment, liquidation, hostile takeovers, [redacted], [redacted], [redacted], [redacted], [redacted], [redacted], [redacted], [redacted], [redacted], [redacted], [redacted], [redacted], [redacted], [redacted], [redacted], [redacted], [redacted], [redacted], [redacted], [redacted], [redacted], [redacted], [redacted], [redacted], [redacted], [redacted], [redacted], [redacted], [redacted], [redacted], [redacted], [redacted], [redacted]
+广泛的预算与范围允许采用多种手段。
+心理战，反侦查，截取，消灭，实地测试，收容，清算，恶意收购，[删节]，[删节]，[删节]，[删节]，[删节]，[删节]，[删节]，[删节]，[删节]，[删节]，[删节]，[删节]，[删节]，[删节]，[删节]，[删节]，[删节]，[删节]，[删节]，[删节]，[删节]，[删节]，[删节]，[删节]，[删节]，[删节]，[删节]，[删节]，[删节]，[删节]，[删节]，[删节]，[删节]
 
 ### 组织结构
 
-- Administrativ
-  - Human Resources
-- Maintenance
-- Support
-- Analysis
-- Research & Development
-- Operations
-  - Asset Recovery
-  - Field Operatives
-  - Containment
-  - Divers
+- 行政
+  - 人力资源
+- 维护
+- 支持
+- 分析
+- 研发
+- 运营
+  - 资产回收
+  - 实地特工
+  - 收容
+  - 勘查员
 
 ### 牵涉案例
 
-- **COLDWATER LAKE INCIDENT** *(The Bloom)*
-- **Shadow Incursion** *(The Bureau)*
-- **Ammon’s Incursion** *(The Mall)*
-- **Plague of Frogs** *(LH Legacy Edition)*
-- **Operation Shelterwood** *(One Night at the Shelterwood Inn)*
+- **冷水湖事件**——*《繁孽》*
+- **幽影入侵**——*《异常局》*
+- **亚扪入侵**——*《购物中心》*
+- **蛙灾**——*《遗产版》*
+- **渐伐行动**——*《渐伐客栈惊魂夜》*
 
 ### 在阈限恐怖游戏中运用异常局
 
-Often in horror/paranormal media there are shadowy government organizations that either involved in some capacity. They either directly come in conflict with the players & events of the story or are waiting in the wings to negatively influence events.
+在恐怖/超自然作品中，经常会有一些阴暗的政府组织以某种身份参与其中。它们要么直接与故事中的玩家和事件发生冲突，要么伺机而动，对事件产生负面影响。
 
-Having such a faction can introduce another variable and antagonist that is tangential to the weird. The humans involved may be temporary allies, but their presence creates a new complication since their motives of extermination & containment often fall at odds with the players’ continued survival.
+拥有这样一个派系可以引入另一个与怪异相关但又非直接的变量和对手。涉身其中的人类或许是暂时的盟友，但他们的存在带来了新的复杂局面，因为他们消灭与收容的动机往往与玩家的生存目标相冲突。
 
 [返回目录](#index)
 
@@ -1591,3 +1592,7 @@ Having such a faction can introduce another variable and antagonist that is tang
 #### 治疗
 
 在安全场所稍作休息就能完全恢复 HP。属性损失需要医疗护理或延长休息。0 力量则死亡，0 敏捷则瘫痪，0 意志则迷失。
+
+[返回目录](#index)
+
+<p></p>
