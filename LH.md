@@ -22,6 +22,7 @@ has_children: false
 - 遗产版核心规则：部分文本摘自遗产版（CC-BY-SA 4.0）
 - 封面：Zach Hazard Vaupen © 2021
 - 血统：Yochai Gal, Chris McDowall, Ben Milton
+- 翻译：[ZzNoah](https://zznoah.itch.io/)
 
 ## 目录
 
