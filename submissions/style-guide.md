@@ -7,7 +7,7 @@ parent: 提交
 
 # 格式指南
 
-下述指南介绍了向《石冢》网站提交材料的预期格式。
+下述指南介绍了向《石冢》网站提交材料的预期格式。  
 **所有提交须按 [markdown](/submissions/submission-guide/#markdown) 写作。**
 
 ## 冒险
