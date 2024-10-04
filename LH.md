@@ -12,6 +12,8 @@ has_children: false
 
 《阈限恐怖》这款现代恐怖角色扮演游戏规则轻量，普适性强，主打普通人物与恶夜诡物之间的斗争。游戏着眼于调查的同时整合了简易的老派规则，与叙事优先的现代原则：生存毫无保障，即使幸存也回不去从前。这个轻规则系统里，失败可谓家常便饭，因此鼓励发挥创意去解决问题，力求捕捉难忘的游戏体验。玩家扮演「调查员」，深入充斥着未知恐怖的现代世界。
 
+<iframe frameborder="0" src="https://itch.io/embed/2450371?linkback=true&amp;bg_color=222222&amp;fg_color=eeeeee&amp;border_color=eeeeee" width="552" height="167"><a href="https://zznoah.itch.io/liminal-horror-chs">阈限恐怖·调查员版 by ZzNoah</a></iframe>
+
 <p></p>
 
 ## 致谢
@@ -22,7 +24,7 @@ has_children: false
 - **标题字体设计**：Ira Rat of Filthy Loot Publishing
 - **遗产版核心规则**：部分文本摘自遗产版（CC-BY-SA 4.0）
 - **封面**：Zach Hazard Vaupen © 2021
-- g1血统**：Yochai Gal, Chris McDowall, Ben Milton
+- **血统**：Yochai Gal, Chris McDowall, Ben Milton
 - **汉语翻译**：[ZzNoah](https://zznoah.itch.io/)
 
 ## 目录
@@ -931,39 +933,39 @@ NPC 可能会遭受叙事创伤，但若无法豁免危急伤害，就会丧失�
 
 调查员可在正常行动中使用**[共鸣神器](#共鸣神器)**的威力，前提是激活触发能在几秒内完成。
 
-- **黑曜石金字塔纸镇。***Activation: invert, pointing the tip to the ground.* Allows user to levitate at the pace of a brisk walk for one minute.
-- **「恐慌保罗」挤压玩具。***Activation: Firmly squeeze, then release.* User violently surges 30’ forward in the direction they were facing, dissipating kinetic energy on any solid object that blocks the path.
-- **饮水鸟。***Activation: Place on a level surface.* Dips back and forth exactly every three seconds. Follows the user, consuming an Inventory Slot, and turns up at inopportune times. Only stopped by convincing someone else to set it up.
-- **小地球仪。***Activation: Rotate counterclockwise.* Attracts nearby small objects and pieces of detritus that orbit the user. Rotate clockwise to release the objects.
-- **鸭绿保温瓶。***Activation: Fill with liquid and close lid.* Heats internal liquids to scalding hot temperatures.
-- **开信刀。***Activation: Swirl in freshly-spilled entrails.* Omens are presented to the user, hinting at what is being searched for (item, passageway, artifact, person).
-- **煦风打火机。***Activation: Ignite the flame.* Causes a d6 blast of fire manifested at a target. On a roll of 1, suffer a **Wound**.
-- **减压球。***Activation: Squeeze the ball while eating.* The user can consume ANY material, but craves stranger substances after each use.
-- **图钉。***Activation: Push a tack into the forehead of a dead body.* User can puppet the dead body (HP 2 Maim: d4). Gives an instance of Fatigue. Voices of the dead whisper in the back of their mind.
-- **便利贴叠。***Activation: Place a sticky note.* Creates a hole in any inorganic material the size of the note.
-- **月度最佳员工奖。***Activation: Receive damage over your HP.* Instead of suffering damage to STR the user phases out of existence for 1 minute. Gain an instance of Fatigue.
-- **护身符。***Activation: Place around neck.* A heavy, tarnished locket. Locked. The wearer may survive an otherwise fatal blow, wherein the locket will pop open, revealing a portrait with a blank face. When the wearer reaches 0 CTRL, the phylactery captures their soul, leaving a husk of a body behind and filling the portrait inside with their face. one charge per soul.
-- **神秘动物证据。***Activation: Allow the tar to come in contact with skin.* A plaster casting of a large hominid footprint. Tufts of hair and black, tar-like substance can be seen in the cracks of the plaster. When in darkness, the user can see clearly and move silently.
-- **古董即时照相机。***Activation: take a picture.* Always produces the same photo; a desert with blood red sand and dark pillars. Anyone who looks at the photo must make a CTRL Save or suffer Fallout.
-- **红色订书机。***Activation: Pierce skin with a staple.* The next unarmed attack the user makes is Enhanced (d12), the next attack against the user is also Enhanced (d12).
-- **金表。***Activation: Twist the crown.* User ages in correspondence with the winding of the watch.
-- **「这破会」杯。***Activation: Speak the phrase.* The user is teleported to the nearest adjacent room.
-- **塑料粉火烈鸟。***Activation: Plant firmly in ground.* Becomes a point of fascination to those that see it. CTRL Save or spend d6 turns staring, entranced. Suffering damage breaks the trance.
-- **磁光器。***Activation: Press button.* Extinguishes nearest source of light, then sticks to the user’s hand. 1 HP to remove.
-- **线框眼镜。***Activation: place on head.* Memories of the user fade from those that look at them, as long as they wear the glasses.
-- **摄政风束腰。***Activation: Wear as normal.* Grants +1 Armor, but constricts the user after being harmed. For every 2 STR lost, 1 DEX is lost as well.
-- **「冷水湖」帽。***Activation: Place on head, brim backward.* Causes user to oscillate slightly, allowing them to phase through solid objects. Costs d4 HP.
-- **小猪储蓄罐。***Activation: Place coin in slot.* Generates an oinking sound that grows increasingly loud and distorted. Lasts d4 minutes.
-- **谜题魔方。***Activation: Pivot internal mechanism.* Gravity within a room shifts along the same plane as the cube. Lasts d6 minutes.
-- **宠物岩。***Activation: Continued contact with your skin.* Over d20 hours a new body forms out of a tumor on your side. If taken to term, roll new stats (4d6 for abilities, 2d6 for HP, dropping lower dice for each). Be warned: there can only be one.
-- **2 号铅笔。***Activation: Press tip into target.* Both user and target are immobilized for as long as the pencil remains in contact. User may make a CTRL Save to break contact.
-- **粉笔。***Activation: Draw an item.* Whatever is drawn becomes real.
-- **路障信号。***Activation: Close all doors and ignite.* As long as smoke fills room (1d12 hrs), nothing can open the closed doors. Each use makes your color drain, eventually leaving you monochrome gray.
-- **巴洛克录音机。***Activation: Blow into the mouthpiece.* Produces a calming tone. +1 Stability to those that can hear. Only lasts as long as the tone is played.
-- **雪花球。***Activation: Place on unconscious or willing victim.* The victim’s essence is extracted into the snow globe. Can be transferred to a new host body.
-- **烟嗓小提琴。***Activation: Run a bow across the strings.* Produces a nauseating sound, no matter the skill of the user. Attacks are Impaired for all who hear for as long as the violin is played.
-- **革皮卷冊。***Activation: open.* Blank interior. Records the users thoughts in a fancy script.
-- **月光火花。***Activation: Spend an hour gazing at the flame.* A small glass bottle with a cork stopper. Suspended in a metallic liquid is a small flame. The threads of connection are quick and strong. Whatever is inflicted upon the bearer is also reflected back (damage or effect/positive or negative) upon whomever the bearer is focused on.
+- **黑曜石金字塔纸镇。***激活：倒置，将尖端指向地面。*让用户在一分钟内以快速步调悬浮。
+- **「恐慌保罗」挤压玩具。***激活：使劲挤压，然后松开。*用户会向面前猛冲 30'，在任何阻挡路径的固体物体上耗散动能。
+- **饮水鸟。***激活：放置在水平表面上。*每三秒钟前后晃动一次。跟随用户，占用一个行装栏，并在尴尬时机出现。只有说服别人设置调整好它才会停止。
+- **小地球仪。***激活：逆时针旋转。*吸引附近的小物体和垃圾围绕用户旋转。顺时针旋转来释放这些物体。
+- **鸭绿保温瓶。***激活：填入液体并关上盖子。*将内部液体加热至烫手的温度。
+- **开信刀。***激活：在新鲜溢出的内脏中扭转。*向用户预示征兆，暗示正搜寻的事物（物品，通道，神器，人物）。
+- **煦风打火机。***激活：点火。*向目标发射 d6 的火焰群攻。若投骰 1，则遭受一个**创伤**。
+- **减压球。***激活：边进食边挤压。*用户可以进食**任何**材料，但每次之后会渴望更奇怪的物质。
+- **图钉。***激活：刺入死尸额头。*用户可操纵尸体（HP 2，伤害 d4）。遭受一个疲乏。脑海中回响着死者的低语。
+- **便利贴叠。***激活：放置一张便利贴。*创建一个与便签大小相同的孔在任何无机材料中。
+- **月度最佳员工奖。***激活：遭受超过 HP 的伤害。*用户在遭受力量伤害时，改为消失 1 分钟。遭受一个疲乏。
+- **护身符。***激活：佩戴在脖子上。*一副褪色发暗的沉重锁链。锁住。佩戴者可在致命攻击中幸存，随后锁链弹开，露出一幅空白面孔的肖像。当佩戴者的意志降至 0 时，护符捕获其灵魂，留下一个空壳的身躯，并在肖像中填上其面孔。每个灵魂一次充能。
+- **神秘动物证据。***激活：让焦油接触皮肤。*一个大型人科足迹的石膏铸件。透过石膏裂缝可看到一绺绺毛发和黑色焦油物质。用户可在黑暗中清晰视物并静默移动。
+- **古董即时照相机。***激活：拍照。*总是产出相同的照片；一片沙漠，血红沙子和漆黑柱子。看见这张照片的人物须通过意志豁免，否则遭受余波。
+- **红色订书机。***激活：钉破皮肤。*用户的下次徒手攻击会增强（d12），对用户的下次攻击也会增强（d12）。
+- **金表。***激活：扭动表冠。*用户的年龄随着金表的上弦而增长。
+- **「破会不如不开」杯杯。***激活：说出这句短语。*用户传送到最近的相邻房间。
+- **塑料粉火烈鸟。***激活：结实地插入地面。*成为目击者的关注点。通过意志豁免，否则花费 d6 回合盯着，入迷。遭受伤害会打破催眠。
+- **磁光器。**激活：按下按钮。*熄灭最近的光源，转而粘附到用户的手上。消耗 1 HP 以移除。
+- **线框眼镜。***激活：戴在头上。*他人难以认清用户，只要还戴着眼镜，印象就会淡化。
+- **摄政风束腰。***激活：正常穿着。*提供 +1 护甲，但在遭受伤害后会勒紧用户。每损失 2 力量，也损失 1 敏捷。
+- **「冷水湖」帽。***激活：戴在头上，帽檐朝后。*导致用户轻微振动，使其能够穿过固体物体。消耗 d4 HP。
+- **小猪储蓄罐。***激活：存入硬币。*产生愈来愈响亮且失真的猪哼声。持续 d4 分钟。
+- **谜题魔方。***激活：旋转内部机关。*房间内的重力沿着魔方的同一平面转移。持续 d6 分钟。
+- **宠物岩。***激活：持续接触皮肤。*在 d20 小时内，一具新身体会从你身侧肿瘤中逐渐形成。若让其完全发育，投骰新属性（属性值投骰 4d6，生命值投骰 2d6，且每次舍去最低骰值）。注意：只能留存一具。
+- **2 号铅笔。***激活：笔尖插入目标。*只要铅笔保持接触，用户和目标都将被固定。用户可通过意志豁免以打破接触。
+- **粉笔。***激活：绘制物品。*任何绘制物都会化为现实。
+- **路障信号。***激活：关闭所有门并点燃。*只要烟雾填满房间（1d12 小时），就无法打开关闭的门。每次使用会吸走你的颜色，最终只留下单色灰。
+- **巴洛克竖笛。***激活：吹奏笛口。*产生静谧音调。使听众 +1 稳定。只要音调在吹奏，就会持续。
+- **雪花球。***激活：放在昏迷或自愿的目标身上。*目标的本质被提取到雪花球中。可转移到新的宿主身体。
+- **烟嗓小提琴。***激活：对弦拉琴。*产生一种恶心的声音，无论用户的技巧如何。所有听众在小提琴演奏时的攻击都会削弱。
+- **革皮卷冊。***激活：翻开。*内部空白。以华丽字迹记录用户的思维。
+- **月光火花。***激活：花一小时凝视火焰。*一个带软木塞的小玻璃瓶。在金属液体中悬浮着一簇小火苗。连接线快速而坚固。持有者承受的任何伤害或效果（无论好坏）都会反射回持有者专注的目标上。
 
 [返回目录](#目录)
 
@@ -1588,7 +1590,7 @@ NPC 可能会遭受叙事创伤，但若无法豁免危急伤害，就会丧失�
 
 #### 压力与余波
 
-溢出 HP 的压力会减少意志。目标须通过意志豁免，否则会遭受<g1>余波</g1>，这将占用行装栏。
+溢出 HP 的压力会减少意志。目标须通过意志豁免，否则会遭受余波，这将占用行装栏。
 
 #### 治疗
 
