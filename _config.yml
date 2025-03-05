@@ -10,9 +10,13 @@ plugins:
 include:
   - js
 
+# Aux links for the upper right navigation
 aux_links:
-  Github 仓库:
-    - https://github.com/ZzNoah/cairn-cn/
+  "Github 仓库":
+    - "https://github.com/ZzNoah/cairn-cn/"
+
+# Makes Aux links open in a new tab. Default is false
+aux_links_new_tab: true
     
 # External navigation links
   - title: Discord 频道
