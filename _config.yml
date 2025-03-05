@@ -10,12 +10,11 @@ plugins:
 include:
   - js
 
+aux_links:
+  Github 仓库:
+    - https://github.com/ZzNoah/cairn-cn/
+    
 # External navigation links
-nav_external_links:
-  - title: Github 仓库
-    url: https://github.com/ZzNoah/cairn-cn/
-    hide_icon: false
-    opens_in_new_tab: true
   - title: Discord 频道
     url: https://discord.gg/K3dwaMap5X
     hide_icon: false
