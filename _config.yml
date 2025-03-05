@@ -19,12 +19,12 @@ aux_links:
     url: https://discord.gg/K3dwaMap5X
     hide_icon: false
     opens_in_new_tab: true
-  - title: 2e 测试材料
-    url: https://cairnrpg.com/wip/2e/
-    hide_icon: false
-    opens_in_new_tab: true
   - title: 订阅新闻
     url: https://news.cairnrpg.com
+    hide_icon: false
+    opens_in_new_tab: true
+  - title: 官方软件 kettlewright
+    url: https://kettlewright.com/login
     hide_icon: false
     opens_in_new_tab: true
 
