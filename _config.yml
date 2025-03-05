@@ -19,6 +19,7 @@ aux_links:
 aux_links_new_tab: true
     
 # External navigation links
+nav_external_links:
   - title: Discord 频道
     url: https://discord.gg/K3dwaMap5X
     hide_icon: false
