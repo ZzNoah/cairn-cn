@@ -1,7 +1,7 @@
 ---
 layout: default
-title: 核心规则 SRD
-nav_order: 2
+title: 石冢-1E SRD
+nav_order: 1
 ---
 
 # 《石冢 Cairn》系统参考文档
